@@ -1,0 +1,487 @@
+{
+  "status": "OK",
+  "request_id": "a723d333-328f-4d0b-9efc-0b1fd58eecb4",
+  "parameters": {
+    "asin": "B0CZ3YD1V6",
+    "country": "US",
+    "language": "en_US"
+  },
+  "data": {
+    "asin": "B0CZ3YD1V6",
+    "product_title": "Potaroma Cat Toys Chew Ropes 3Pcs with Refillable Natural Catnip, Safe Teeth Cleaning Toy for Indoor Kittens, Interactive Cat Nip Kitty Toys for All Breeds 19.5 Inches",
+    "product_price": "8.99",
+    "product_original_price": "$12.99",
+    "minimum_order_quantity": null,
+    "currency": "USD",
+    "country": "US",
+    "product_byline": "Visit the Potaroma Store",
+    "product_byline_link": "https://www.amazon.com/stores/Potaroma/page/D45F2790-5323-4207-9F98-249B8ACBEFB4?is_byline_deeplink=true&deeplink=B0DCA53F-2178-45BB-BB89-C7A32D2D0E1A&redirect_store_id=D45F2790-5323-4207-9F98-249B8ACBEFB4&lp_asin=B0CZ3YD1V6&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto",
+    "product_byline_links": [
+      "https://www.amazon.com/stores/Potaroma/page/D45F2790-5323-4207-9F98-249B8ACBEFB4?is_byline_deeplink=true&deeplink=B0DCA53F-2178-45BB-BB89-C7A32D2D0E1A&redirect_store_id=D45F2790-5323-4207-9F98-249B8ACBEFB4&lp_asin=B0CZ3YD1V6&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    ],
+    "product_star_rating": "4.4",
+    "product_num_ratings": 3038,
+    "product_url": "https://www.amazon.com/dp/B0CZ3YD1V6",
+    "product_slug": "Potaroma-Refillable-Natural-Cleaning-Interactive",
+    "product_photo": "https://m.media-amazon.com/images/I/71-Zlt9EfCL._AC_SL1500_.jpg",
+    "product_num_offers": 1,
+    "product_availability": "In Stock",
+    "is_best_seller": false,
+    "is_amazon_choice": true,
+    "is_prime": true,
+    "climate_pledge_friendly": false,
+    "sales_volume": "20K+ bought in past month",
+    "about_product": [
+      "Teething Fun: Ideal for kittens and cats alike, these chew toys are an essential addition to your kitty\u2019s dental care. With natural gall fruit and rope design, the toys are perfect for teething and teeth cleaning, they combat tartar and freshen breath, making dental hygiene a fun activity for your little one!",
+      "Infused with Catnip Aroma: The included catnip bag emits a soothing aroma that's irresistible to felines, ensuring these toys are a calming and engaging presence for indoor play. Our cat toys provide the calming, meow-inducing fun every kitten craves, along with a funny and interactive experience.",
+      "Energetic Exercise: Promote healthy exercise and self-play with our toys' appealing textures and tassels. They\u2019re designed to entice your kitty to bite and play aggressively without harm, offering hours of exercise and self-amusement, keeping your cat active and happy.",
+      "Quiet Play: These soft colorful ropes provide enriching quiet playtime without bothering cat owner's sleep or life. Your kitty will love the funny snake-like shapes, enhancing their playtime with every pounce and bite.",
+      "Safe and Organic: These chew toys, handcrafted without any metal wire and using organic cotton rope, are safe for all cats. Paired with a reusable catnip bag, they\u2019re an essential, eco-friendly addition to your cat\u2019s enrichment collection."
+    ],
+    "product_description": null,
+    "product_information": {
+      "Item Weight": "110 Grams",
+      "Manufacturer": "Potaroma",
+      "ASIN": "B0CZ3YD1V6",
+      "Item model number": "Potaroma-YYS-3Pcs",
+      "Date First Available": "March 25, 2024",
+      "Item Package Dimensions L x W x H": "6.69 x 5.2 x 2.01 inches",
+      "Item Dimensions  LxWxH": "0.5 x 0.5 x 19.6 inches",
+      "Brand Name": "Potaroma",
+      "Directions": "Giving them to cats less than 3 times a week is recommended",
+      "Warranty Description": "30 Day Warranty",
+      "Model Name": "Potaroma-YYS-3Pcs",
+      "Color": "Assorted",
+      "Size": "19.5 Inches",
+      "Age Range Description": "All Cats",
+      "Number of Items": "3",
+      "Style": "Ropes",
+      "Breed Recommendation": "All Breed Sizes",
+      "Included Components": "Ropes, Catnip, Gall Fruit",
+      "Specific Uses for Product": "Teeth"
+    },
+    "rating_distribution": {
+      "1": 4,
+      "2": 4,
+      "3": 10,
+      "4": 15,
+      "5": 67
+    },
+    "product_photos": [
+      "https://m.media-amazon.com/images/I/71-Zlt9EfCL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81IXExL+9HL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71a6dIls9PL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/819wSn5GH2L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/718TjyMWT1L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71xGLuwNfdL._AC_SL1500_.jpg"
+    ],
+    "product_videos": [
+      {
+        "id": "amzn1.vse.video.0e576895cfd24081b95076505cc7c1b2",
+        "title": "Potaroma Cat Toys Chew Ropes 3Pcs with Refillable Catnip",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8aef5fc1-9111-4c98-886e-0c30342cd1e7/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61oJ704cTJL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0CZ3YD1V6",
+        "parent_asin": "B0D4M81TQ7"
+      },
+      {
+        "id": "amzn1.vse.video.0cec4835ebc7442eadb1a086d8f9bc29",
+        "title": "The crazy super simple and awesome cat toy!",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0999a16b-af54-4a03-8450-701ed61c459f/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/A13gpyYvaiL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0CZ3YD1V6",
+        "parent_asin": "B0D4M81TQ7"
+      },
+      {
+        "id": "amzn1.vse.video.0ee72a2aa3124ddc86e052b04a9991f0",
+        "title": "My Cats Went Wild Over This Toy!",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/203b7034-52f7-48dc-8f18-38c1ffd0105f/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61NSHFGfVxL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0CZ3YD1V6",
+        "parent_asin": "B0D4M81TQ7"
+      },
+      {
+        "id": "amzn1.vse.video.0967e86fa5d0467387f01ad583d74bde",
+        "title": "I was not sure about this one feature",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8c50a354-2038-453a-b7fd-0af984394773/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61PcOuJK9VL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0CZ3YD1V6",
+        "parent_asin": "B0D4M81TQ7"
+      },
+      {
+        "id": "amzn1.vse.video.046f6358ad1f44bc8cc832033948b3b4",
+        "title": "They'll Love The Smell and the Feel of the Rope!",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a221cdeb-f34b-4120-be21-e0cc38440a95/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/A1-RVIExzAL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png",
+        "product_asin": "B0CZ3YD1V6",
+        "parent_asin": "B0D4M81TQ7"
+      },
+      {
+        "id": "amzn1.vse.video.068844494c2f45ef9aa2f2672e47f4a0",
+        "title": "Cat Toys Chew RopE",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/77116984-31bd-49b6-b725-34a424dc6b33/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/511atBtV5RL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0CZ3YD1V6",
+        "parent_asin": "B0D4M81TQ7"
+      }
+    ],
+    "user_uploaded_videos": [],
+    "video_thumbnail": "https://m.media-amazon.com/images/I/61oJ704cTJL.SX522_.jpg",
+    "has_video": true,
+    "product_details": {
+      "Product Dimensions": "0.5 x 0.5 x 19.6 inches; 3.88 ounces",
+      "Item model number": "Potaroma-YYS-3Pcs",
+      "Date First Available": "March 25, 2024",
+      "Manufacturer": "Potaroma",
+      "ASIN": "B0CZ3YD1V6",
+      "Best Sellers Rank": "#255 in Pet Supplies (See Top 100 in Pet Supplies)    #1 in Catnip Toys",
+      "Customer Reviews": "4.4             4.4 out of 5 stars          \n\n                          3,038 ratings"
+    },
+    "customers_say": "Customers find these cat toys amazing and durable, noting they hold up well for multiple cats and last through chewing and clawing sessions. They are great for cats who like to chew and keep them entertained for extended periods, with one customer mentioning they're particularly helpful for teething. Customers consider them worth the price and effective for dental health, with one noting they help with teeth cleaning. The scent receives mixed feedback - while customers appreciate the catnip smell, some mention it wears off quickly.",
+    "top_reviews": [
+      {
+        "review_id": "R1C1ETH2KQSLPS",
+        "review_title": "HIGHLY recommend for bad kitties",
+        "review_comment": "I had to buy another set because my kids loved it so much. I even gifted one to my brothers cats and they went crazy for it. My cats and their kitty cousins both have a fascination with being bad kitties. They express this behavior by trying to chew on plastic and eat string. I figured I figured at least one kitty from each house hold would enjoy it but i was pleasantly surprised to see how all 4 kitties enjoyed this toy. They can chew on it, kick it, yeet it around, and it has catnip. I would buy this again (and i did)",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1C1ETH2KQSLPS",
+        "review_author_id": "AFB7TQZROBHBQDWJDFDDA2SFUFIQ",
+        "review_author": "Ghoulina Ghoul",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFB7TQZROBHBQDWJDFDDA2SFUFIQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/73668007-7a0f-477d-8e92-3b150c03e1c8._CR0%2C0%2C500%2C500_SX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 30, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "11 people found this helpful",
+        "reviewed_product_asin": "B0CZ3YD1V6",
+        "reviewed_product_variant": {
+          "Size": "19.5 Inches"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RKYXYQSCJ39Y3",
+        "review_title": "Try it out!",
+        "review_comment": "My kitty loves these! Temporarily. I still opted to rate 5 stars. This is because it is my cat that got bored, doesn\u2019t take away from the toy. The toy itself is amazing. My cats were all fighting over these! Definitely helps with cats that chew plastic. Doesn\u2019t hurt to try! Good value! Cute!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RKYXYQSCJ39Y3",
+        "review_author_id": "AEWDDKMO7ECTZVHXYRNFOM6H42PQ",
+        "review_author": "Gracie Cable",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEWDDKMO7ECTZVHXYRNFOM6H42PQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/81s7zvBjSZL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 27, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0CZ3YD1V6",
+        "reviewed_product_variant": {
+          "Size": "19.5 Inches"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3G7AH835Q6T5T",
+        "review_title": "Still a decent cat toy",
+        "review_comment": "I have two cats. One constantly chews on plastic and cardboard: she won't touch the ropes. The other will gladly play with the rope when she's feeling frisky, but doesn't normally chew on plastic and cardboard. The rope itself seems to be of ok quality. Two of the ropes are holding up nicely while one has started to unravel; which was quickly (temporarily) solved by knotting the two fraying ends. Advertising feels a little off, but each cat is different and has their own quirks.",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3G7AH835Q6T5T",
+        "review_author_id": "AGJZYEHTZJHTNPSDTWW644P4LO5Q",
+        "review_author": "Bae & Boo",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGJZYEHTZJHTNPSDTWW644P4LO5Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 17, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B0CZ3YD1V6",
+        "reviewed_product_variant": {
+          "Size": "19.5 Inches"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RCQH6RDPBEEN0",
+        "review_title": "Accidental find, worth every penny",
+        "review_comment": "We have 3 cats, a 10 yr old, 4 yr old, and a 1 yr old and they all immediately went crazy for these. The older two don't play much in general, but these are very enticing to them. The cord is thick and sturdy enough that we aren't worried about anyone rolling too much and getting trapped or hurt, and the design is perfect for different types of play depending on your cat. It can be a little tug of war, a kicking string, chewy toy, and the movement is very eye catching to them when wiggled! Definitely will purchase again if they somehow find a way to lose or destroy them. Very cute to watch the cats bat at it and toss it around.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RCQH6RDPBEEN0",
+        "review_author_id": "AH5FGYYPIV3HP6VGZRNH4WWGQN2A",
+        "review_author": "Jen",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AH5FGYYPIV3HP6VGZRNH4WWGQN2A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 11, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "3 people found this helpful",
+        "reviewed_product_asin": "B0CZ3YD1V6",
+        "reviewed_product_variant": {
+          "Size": "19.5 Inches"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RVM4U4VRTHUHA",
+        "review_title": "worried",
+        "review_comment": "Didn't realize how small hat little ball that is attached to this toy was and that it is attached with such a small piece of ropey material. I did cut it off because my boy is a very big cat and has very large sharp teeth. I was afraid he would chew it off and swallow it. He played with it for a little while, but I feel this toy is more for little kittens. My cat did not enjoy it that much unless I played with it with him. Now I can't find it. Maybe he put it in his toybox. From pictures posted it looks like cats were liking it very much. Probably last a while, not a noisy toy, it's like a very stiff worm/snake toy. Might want to rethink that ball of whatever it is, make it bigger or don't put it on at all. Seems a few people just cut it off.",
+        "review_star_rating": "3",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RVM4U4VRTHUHA",
+        "review_author_id": "AFAP4G3M2MPBRM6SI6QMCKNMVZDA",
+        "review_author": "Mz Kitty",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFAP4G3M2MPBRM6SI6QMCKNMVZDA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 19, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "13 people found this helpful",
+        "reviewed_product_asin": "B0CZ3YD1V6",
+        "reviewed_product_variant": {
+          "Size": "19.5 Inches"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R446FIT10RVV2",
+        "review_title": "Great toy",
+        "review_comment": "My cats haven\u2019t stopped playing with these ropes the size is huge but perfect for grown cats and kittens alike very cute colors no noisy toy sounds very durable rope toys. I recommend any pet owner to get this toy for their cats.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R446FIT10RVV2",
+        "review_author_id": "AGM3QCOL53EGGNCDHSKFU3RLIDZQ",
+        "review_author": "Maire ",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGM3QCOL53EGGNCDHSKFU3RLIDZQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/9a673dd0-e40d-4744-8900-33666d1f9e61._CR0%2C0%2C500%2C500_SX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 17, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B0CZ3YD1V6",
+        "reviewed_product_variant": {
+          "Size": "19.5 Inches"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1CFSFIODDSVHS",
+        "review_title": "chewable and good for claw gripping.",
+        "review_comment": "these are a great option for play. I have a boy cat who is my only cat because in his last several homes, he was bullying the other animals. But I do think he gets lonely and bored, so I need to play with him every day for at least 45 min to 2 hours sometimes more. He enjoys the ropes because they\u2019re bitable, which helps him clean his teeth and they are good for sinking claws into without getting hurt. as they get older \u2013 which will happen in about a week \u2013 you will need to replace them to keep his interest, but they\u2019re not that expensive so it\u2019s OK. I like that they\u2019re nontoxic. I worry about toys with plastic bits because my cat likes to chew on everything.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1CFSFIODDSVHS",
+        "review_author_id": "AEJ3DVFUNEP3CRDI535GCFKKN32Q",
+        "review_author": "Bay",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEJ3DVFUNEP3CRDI535GCFKKN32Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 14, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0CZ3YD1V6",
+        "reviewed_product_variant": {
+          "Size": "19.5 Inches"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2HG9R1ABZNNO6",
+        "review_title": "Great Product",
+        "review_comment": "I bought this for a friends kitten and her kitty loved it! He plays with it for hours sometimes! It's a good length. I was a little worried about the strings on the end but they're thick enough to where her cat leaves them alone. They don't tear off easily or anything. I think the rope is a good thickness as well. He can chew on it without harming his teeth and it's durable enough to where it doesn't break apart easily or anything. I did cut off the little Gal fruit on it. I know it's technically not harmful to cats, but it was really tough and I was scared of him swallowing it.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2HG9R1ABZNNO6",
+        "review_author_id": "AFR5UKRM5U2TOHTJRLK4WKXND57Q",
+        "review_author": "Emily",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFR5UKRM5U2TOHTJRLK4WKXND57Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/c0ac5ca5-11e9-4009-b085-0e4f6db1ef9b._CR109%2C0%2C282%2C282_SX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 11, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "7 people found this helpful",
+        "reviewed_product_asin": "B0CZ3YD1V6",
+        "reviewed_product_variant": {
+          "Size": "19.5 Inches"
+        },
+        "is_vine": false
+      }
+    ],
+    "top_reviews_global": [
+      {
+        "review_id": "R15KDM72QBB65M",
+        "review_title": "Cats went crazy for them",
+        "review_comment": "My two cats went crazy for this as soon as I opened it, even the one that usually doesn't care for catnip. Have seen my cats get so excited for a new toy in a while. Ropes are well made and sturdy",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R15KDM72QBB65M",
+        "review_author_id": null,
+        "review_author": "Daphne",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Singapore on July 20, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0CZ3YD1V6",
+        "reviewed_product_variant": {
+          "Size": "19.5 Inches"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2ERYFUNIPC4QG",
+        "review_title": "Dog squeaky Toy",
+        "review_comment": "These are for small dogs. It's not catnip..it's a squeaky Toy for dogs!!! :( I wouldn't have gotten these if I knew that. I wanted CATNIP TOYS. Not dog squeaky toys. :(",
+        "review_star_rating": "3",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2ERYFUNIPC4QG",
+        "review_author_id": null,
+        "review_author": "Elizabeth McDermott ",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Canada on April 3, 2024",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0CZ3YD1V6",
+        "reviewed_product_variant": {},
+        "is_vine": false
+      },
+      {
+        "review_id": "R3AU0XM6KGQXW5",
+        "review_title": "Se sienten de buena calidad",
+        "review_comment": "A mi gato no le gustaron mucho, si las muerde pero no le llaman la atenci\u00f3n pero la cuerda se siente resistente, no se deshace en pedazos asi que al menos no tragar\u00e1 pedazos del material",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3AU0XM6KGQXW5",
+        "review_author_id": null,
+        "review_author": "Fernando Flores",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Mexico on July 30, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0CZ3YD1V6",
+        "reviewed_product_variant": {
+          "Size": "19.5 Inches"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RZ4RLED76AOS7",
+        "review_title": "Love this",
+        "review_comment": "My cats both love these items really enjoy chasing them and also no noise from it",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RZ4RLED76AOS7",
+        "review_author_id": null,
+        "review_author": "Scott a",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United Arab Emirates on January 8, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0CZ3YD1V6",
+        "reviewed_product_variant": {
+          "Size": "19.5 Inches"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R14UWXYWNN68WH",
+        "review_title": "No catnip",
+        "review_comment": "These are cute but do not contain catnip, just stuffing. There was no catnip smell and none of my 5 cats gave them a second glance so I opened one up and nope. Just fluff. They're also not very tough and would be easily destroyed by an overzealous cat, but for the price I wasn't expecting them to be! That's fine, but if they're advertised as catnip toys they should probably contain some catnip.",
+        "review_star_rating": "1",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R14UWXYWNN68WH",
+        "review_author_id": null,
+        "review_author": "Suriliel",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/f41f7033-cddf-4c13-b912-d54c2bda34ac._CR0%2C0%2C375%2C375_UX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Canada on February 25, 2024",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0CZ3YD1V6",
+        "reviewed_product_variant": {},
+        "is_vine": false
+      }
+    ],
+    "delivery": "FREE delivery Tuesday, November 4 on orders shipped by Amazon over $35 Or Prime members get FREE delivery Saturday, November 1. Order within 7 hrs 12 mins. Join Prime",
+    "primary_delivery_time": "Tuesday, November 4",
+    "category": {
+      "id": "pets",
+      "name": "Pet Supplies"
+    },
+    "category_path": [
+      {
+        "id": "2619533011",
+        "name": "Pet Supplies",
+        "link": "https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/ref=dp_bc_1?ie=UTF8&node=2619533011"
+      },
+      {
+        "id": "2975241011",
+        "name": "Cats",
+        "link": "https://www.amazon.com/cats-supplies-kittens-catnip-tree-litter/b/ref=dp_bc_2?ie=UTF8&node=2975241011"
+      },
+      {
+        "id": "2975303011",
+        "name": "Toys",
+        "link": "https://www.amazon.com/cat-feather-laser-toys-catnip/b/ref=dp_bc_3?ie=UTF8&node=2975303011"
+      },
+      {
+        "id": "2975305011",
+        "name": "Catnip Toys",
+        "link": "https://www.amazon.com/catnip-toys/b/ref=dp_bc_4?ie=UTF8&node=2975305011"
+      }
+    ],
+    "product_variations_dimensions": [
+      "size"
+    ],
+    "product_variations": [],
+    "all_product_variations": {
+      "B0CZ3YD1V6": {
+        "size": "19.5 Inches"
+      }
+    },
+    "has_aplus": true,
+    "aplus_images": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/66c5618c-6e13-4016-b51e-f541db24e7ab.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/58e30bbf-3596-44db-847b-d707f18e2f4f.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aa49a151-1ba4-4fb7-9a98-21ddedd9f267.jpg"
+    ],
+    "has_brandstory": false,
+    "frequently_bought_together": [
+      {
+        "product_title": "This item:  Potaroma Cat Toys Chew Ropes 3Pcs with Refillable Natural Catnip, Safe Teeth Cleaning Toy for Indoor Kittens, Interactive Cat Nip Kitty Toys for All Breeds 19.5 Inches",
+        "product_price": "$8.99",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71-Zlt9EfCL.jpg"
+      },
+      {
+        "product_title": "Catstages Tower of Tracks 3-Level Cat Track Toy with 6 Balls, Interactive Toy for Indoor Cats, Orange",
+        "product_price": "$10.55",
+        "product_url": "https://www.amazon.com/dp/B00DT2WL26",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/812MUtPNc-L.jpg"
+      },
+      {
+        "product_title": "Cat Feather Toy, Retractable Cat Toys Wand 2 Wands & 9 Assorted Teaser Refills, Interactive Feather Teaser Wand Toy Bell Kitten Cat Having Fun Exerciser Playing",
+        "product_price": "$9.59",
+        "product_url": "https://www.amazon.com/dp/B07F45GGPT",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/615Ccf+wziL.jpg"
+      }
+    ],
+    "landing_asin": "B0CZ3YD1V6",
+    "parent_asin": "B0D4M81TQ7"
+  }
+}

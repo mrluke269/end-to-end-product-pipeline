@@ -1,0 +1,586 @@
+{
+  "status": "OK",
+  "request_id": "01a4a3f0-ced8-4b5f-9c9f-131a7afb7c18",
+  "parameters": {
+    "asin": "B000F4AVPA",
+    "country": "US",
+    "language": "en_US"
+  },
+  "data": {
+    "asin": "B000F4AVPA",
+    "product_title": "Chuckit! Ultra Ball Dog Toy - Medium Bouncy Fetch Balls For Dogs 20-60 lbs - Made from Durable Rubber - Floating Water Pet Toys - Size Medium - 2.5-inch Diameter - Pack of 2",
+    "product_price": "5.59",
+    "product_original_price": "$7.64",
+    "minimum_order_quantity": null,
+    "currency": "USD",
+    "country": "US",
+    "product_byline": "Visit the Chuckit! Store",
+    "product_byline_link": "https://www.amazon.com/stores/Chuckit/page/FC4F3602-3540-4F91-9DCD-6C846E6340C2?lp_asin=B000F4AVPA&ref_=ast_bln",
+    "product_byline_links": [
+      "https://www.amazon.com/stores/Chuckit/page/FC4F3602-3540-4F91-9DCD-6C846E6340C2?lp_asin=B000F4AVPA&ref_=ast_bln"
+    ],
+    "product_star_rating": "4.8",
+    "product_num_ratings": 126974,
+    "product_url": "https://www.amazon.com/dp/B000F4AVPA",
+    "product_slug": "Chuckit-Bouncy-Interactive-Durable-Diameter",
+    "product_photo": "https://m.media-amazon.com/images/I/714HUsBpO+L._AC_SL1500_.jpg",
+    "product_num_offers": 14,
+    "product_availability": "In Stock",
+    "is_best_seller": true,
+    "is_amazon_choice": false,
+    "is_prime": true,
+    "climate_pledge_friendly": false,
+    "sales_volume": "20K+ bought in past month",
+    "about_product": [
+      "SUPER HIGH BOUNCE: Take fetch to new heights with the Ultra Ball, compatible with medium Chuckit! launchers. Made from durable rubber, this ultra-bouncy ball outperforms standard tennis balls. Lightweight and buoyant, it's perfect for exciting adventures on land and water.",
+      "DURABLE RUBBER BALL: Built tough for revolutionary fetch games, our rugged dog toy features a textured surface and a thick rubber core that can withstand rough play. It's soft on your dog's mouth, but no toy is truly indestructible and not intended as a chew toy or for aggressive chewers.",
+      "SIZING MATTERS: The medium Ultra Ball is 2.5 inches in diameter and best suited for breeds weighing 20-60lbs. Dog balls should always be small enough for your pet to carry but large enough that the ball cannot completely fit in their mouth. When in doubt, buy a size up.",
+      "MAKE FETCH HAPPEN: Chuckit! toys make the best gifts for pet lovers. The Ultra Ball is just one of many indoor and outdoor interactive dog toy options we offer, including tumblers, tennis balls, and more. As the #1 stocking stuffers, Chuckit! toys have something for every pet.",
+      "CHUCKIT!: For 20 years, Chuckit! has been leading the game of fetch. The special connection between pets and owners is at the heart of every toy we make. With iconic shapes and vibrant colors, Chuckit! toys elevate every adventure, strengthening the bond between you and your furry friend."
+    ],
+    "product_description": "The Chuckit! Ultra Ball dog toy is a must-have for pet owners who love playing fetch with their furry friends. This durable rubber ball is designed to provide an extra high bounce, much better than standard tennis balls. Whether on land or water, this ball's ultra-bouncy, lightweight, and buoyant design offers an exciting fetch experience that dogs love. This rugged dog fetch toy has a textured surface and a thick rubber core. It's soft on your dog's mouth, but no toy is truly indestructible and not intended as a chew toy or for aggressive chewers. Ensure that the ball can't completely fit in their mouth. When in doubt, buy a size up. Always supervise your dog when playing with this toy to ensure their safety.",
+    "product_information": {
+      "Item Weight": "6.4 ounces",
+      "Department": "Unisex-Adult",
+      "Manufacturer": "Doskocil",
+      "ASIN": "B000F4AVPA",
+      "Item model number": "17001",
+      "Date First Available": "October 5, 2004",
+      "Item Package Dimensions L x W x H": "6.38 x 5.63 x 2.44 inches",
+      "Item Dimensions  LxWxH": "2.5 x 2.5 x 2.5 inches",
+      "Brand Name": "Chuckit!",
+      "Target Audience Keyword": "dogs",
+      "Country of Origin": "United States",
+      "Model Name": "Ultra Ball",
+      "Color": "Ultra",
+      "Size": "Medium",
+      "Material": "Rubber",
+      "Age Range Description": "All Life Stages",
+      "Number of Items": "1",
+      "Style": "Medium (2 Pack)",
+      "Breed Recommendation": "Medium",
+      "Included Components": "Ball",
+      "Specific Uses for Product": "Active"
+    },
+    "rating_distribution": {
+      "1": 1,
+      "2": 1,
+      "3": 2,
+      "4": 9,
+      "5": 87
+    },
+    "product_photos": [
+      "https://m.media-amazon.com/images/I/714HUsBpO+L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91umkHfYwKL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81KLZ6XxLhL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/8115gZq5HtL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81NPu83EunL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/719HskS4Y9L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81KLZ6XxLhL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81AKLDdFdDL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71DBfmpNnCL._AC_SL1500_.jpg"
+    ],
+    "product_videos": [
+      {
+        "id": "amzn1.vse.video.d8527eac741e462eaff4acd921bf7cf6",
+        "title": "Chuckit! Ultra Ball",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/v2/334a5db3-0fb2-55f4-b074-fa6b14abe303/ShortForm-Generic-480p-16-9-1409173089793-rpcbe5.mp4",
+        "video_height": "404",
+        "video_width": "720",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/717y9esoTDL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B000F4AVPA",
+        "parent_asin": "B0DPQWWPPN"
+      },
+      {
+        "id": "amzn1.vse.video.01e192d25a5942108bb5eaa481ada479",
+        "title": "We never have enough, bucket has bonus features",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e448b4a5-9d7b-41cb-a944-fdeda482eec7/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/A1F2zraJLVL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B000F4AVPA",
+        "parent_asin": "B0DPQWWPPN"
+      },
+      {
+        "id": "amzn1.vse.video.082cd978af70458d98a5b44bc4b2afaf",
+        "title": "Finally - Dog Balls That Float And Last!",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3db816d0-ba0f-4ccb-897e-e472ed3357cb/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/91NXPB6b4WL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png",
+        "product_asin": "B000F4AVPA",
+        "parent_asin": "B0DPQWWPPN"
+      },
+      {
+        "id": "amzn1.vse.video.0f61f8656967486cba6b5aedca57ace6",
+        "title": "Honest Review of Chuckit Ultra Ball for Dogs",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/24b0dc95-199e-4d1c-b348-63ae29d9a7d1/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/A1yU37AAqzL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png",
+        "product_asin": "B000F4AVPA",
+        "parent_asin": "B0DPQWWPPN"
+      },
+      {
+        "id": "amzn1.vse.video.02dcf38c2b43421fa5a50d24986c832c",
+        "title": "The Best Dog Ball Launcher -Fetch Toy",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dd974ac0-0471-42aa-bf39-33f1fd2ae145/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/613+rinhE7L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B000F4AVPA",
+        "parent_asin": "B0DPQWWPPN"
+      },
+      {
+        "id": "amzn1.vse.video.0f08763f199d46cb842bfc3bbf391a7c",
+        "title": "My Dog Loves Chuckit ULTRA Dog Toy Fetch Balls",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/55aeff46-0d4a-47b9-ba2d-14211f5c5db2/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/81Y++6P3bAL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B000F4AVPA",
+        "parent_asin": "B0DPQWWPPN"
+      }
+    ],
+    "user_uploaded_videos": [],
+    "video_thumbnail": "https://m.media-amazon.com/images/I/717y9esoTDL.SX522_.jpg",
+    "has_video": true,
+    "product_details": {
+      "Is Discontinued By Manufacturer": "No",
+      "Product Dimensions": "2.5 x 2.5 x 2.5 inches; 6.38 ounces",
+      "Manufacturer recommended age": "10 years and up",
+      "Item model number": "17001",
+      "Department": "Unisex-Adult",
+      "Date First Available": "October 5, 2004",
+      "Manufacturer": "Doskocil",
+      "ASIN": "B000F4AVPA",
+      "Best Sellers Rank": "#67 in Pet Supplies (See Top 100 in Pet Supplies)    #1 in Dog Toy Balls",
+      "Customer Reviews": "4.8             4.8 out of 5 stars          \n\n                          126,974 ratings"
+    },
+    "customers_say": "Customers find this dog toy to be the longest-lasting and best ball ever made, particularly suitable for heavy chewers who can play with it all day. They appreciate its bounce, with dogs loving how high it bounces, and consider it much better than a tennis ball. The squeaker feature receives mixed reactions - while some love the squeak, others report that it doesn't last long.",
+    "top_reviews": [
+      {
+        "review_id": "RFL0JX24GO2LZ",
+        "review_title": "Great dog toys endless fun!",
+        "review_comment": "Dogs love them! They are a tough ball they are thick but bounce well. They are perfect size for medium sized dog. Easy to throw. When my dogs see them they start trying to play before I throw them! My dogs can play all day with them. They are so fun to play with!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RFL0JX24GO2LZ",
+        "review_author_id": "AHA5YUF64ELSYWDK5OMVFAD73KOA",
+        "review_author": "Robyn ",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHA5YUF64ELSYWDK5OMVFAD73KOA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 29, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "2 people found this helpful",
+        "reviewed_product_asin": "B000F4AVPA",
+        "reviewed_product_variant": {
+          "Size": "Medium",
+          "Style": "Medium (4 Pack)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R67CR8N2JMDG4",
+        "review_title": "Malinois tested and approved",
+        "review_comment": "My Malinois is addicted to to fetch. These balls last the longest out of any of the balls that I have gotten for her, and she loves that they bounce. Every time she sees a new package of them, she loses her mind (even more than baseline). The size is perfect for the ChuckIt stick, they are nice and bright so its easy to see, super fun for my dog, and it functions well with the chuckit stick.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R67CR8N2JMDG4",
+        "review_author_id": "AHUNLMYOIWKPLBI5KQ3C5AYOKFTQ",
+        "review_author": "Leafi M'Lone",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHUNLMYOIWKPLBI5KQ3C5AYOKFTQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 19, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B000F4AVPA",
+        "reviewed_product_variant": {
+          "Size": "Medium",
+          "Style": "Medium (2 Pack)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1OXNTGPNSXCO5",
+        "review_title": "Tough, Bouncy, and Dog-Approved \u2013 Fetch Favorite!",
+        "review_comment": "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f My dog absolutely loves these Chuckit! Ultra Balls! They bounce super high, are easy to clean, and hold up incredibly well even with a strong chewer. The rubber is thick and durable, but still has a great texture for fetch\u2014it keeps my dog engaged and running for hours. The cleaning bucket is a really nice bonus too; makes rinsing and storing the balls so much easier after a muddy day at the park. They\u2019re the perfect size for medium dogs (mine\u2019s about 50 lbs), and the 8-pack means we always have extras on hand. Definitely a great value for how long they last.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1OXNTGPNSXCO5",
+        "review_author_id": "AGTZEJAQPTMDBRQ2Y4XJV6FL25HA",
+        "review_author": "Roger",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGTZEJAQPTMDBRQ2Y4XJV6FL25HA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 24, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B000F4AVPA",
+        "reviewed_product_variant": {
+          "Size": "Medium",
+          "Style": "Medium (8 Pack)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2CSUF5V2ZO074",
+        "review_title": "Perfect and long lasting!",
+        "review_comment": "Perfect for my aggressive chewer! I have a 20lb Border Terrier mix who goes ham over toys and these squeaky balls keep him busy. They\u2019re durable and he loves playing fetch with them.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2CSUF5V2ZO074",
+        "review_author_id": "AG5WAIWMO5GDVKMQB7CP5M2JXHPA",
+        "review_author": "J. Encar",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AG5WAIWMO5GDVKMQB7CP5M2JXHPA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 18, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B000F4AVPA",
+        "reviewed_product_variant": {
+          "Size": "Medium",
+          "Style": "Squeaker"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3SOXHX6O6EJ11",
+        "review_title": "Best dog balls ever!!!!!!!!!!!!!",
+        "review_comment": "Holy cow these balls are incredible! My big doggie goes through toys like crazy but these have been going strong for months. I'm honestly shocked at how well they hold up. Why they're awesome: - The bounce is insane - way better than tennis balls - They float! Great for lake trips and pool time - Survived 4 months of daily fetch sessions - No cracks, chunks missing, or wear marks - Still bounces like the day I got them I've tried SO many \"indestructible\" toys that last maybe a week. These actually live up to the hype.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3SOXHX6O6EJ11",
+        "review_author_id": "AFHF45EDNA4B5EW7GJDEJXV3MFFQ",
+        "review_author": "Yael Salant",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFHF45EDNA4B5EW7GJDEJXV3MFFQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/81jslBQxhoL.jpg",
+          "https://m.media-amazon.com/images/I/812cr58i0XL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 2, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "2 people found this helpful",
+        "reviewed_product_asin": "B000F4AVPA",
+        "reviewed_product_variant": {
+          "Size": "Medium",
+          "Style": "Medium (2 Pack)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RSJAGJ71GBNC4",
+        "review_title": "Ball is everything and these is it.",
+        "review_comment": "My dog is obsessed with these. They are pretty hardy and last him for months at a time before he manages to start chewing pieces off. I don\u2019t even know how he manages to do that- they\u2019re made pretty darn tough. But his life is ball and ball is life so consider that when I say he chews pieces off of them.",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RSJAGJ71GBNC4",
+        "review_author_id": "AFTWD4OGBS2DUTXYOL5YMOZBMAFQ",
+        "review_author": "JNichole",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFTWD4OGBS2DUTXYOL5YMOZBMAFQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/711IqCmtQNL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on August 26, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B000F4AVPA",
+        "reviewed_product_variant": {
+          "Size": "Medium",
+          "Style": "Squeaker"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "REV3A2EZAY3MC",
+        "review_title": "*Perfect Fetch Toy for Active Dogs",
+        "review_comment": "The Chuckit! Ultra Ball has quickly become my dog\u2019s favorite toy. These medium-sized balls are the perfect size for my 55-pound shepherd mix, and they hold up incredibly well to heavy chewing and nonstop games of fetch. The rubber is super durable and has just the right amount of bounce to keep my dog engaged and excited. One of the best features is that they float in water, which makes them ideal for beach or pool play. They also fit perfectly in the Chuckit! launcher, making long-distance throws effortless. Having a pack of four is a bonus since we keep one in the car, one at home, and extras just in case. These balls have outlasted every other toy we\u2019ve tried. Highly recommend for active dogs who love to fetch!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/REV3A2EZAY3MC",
+        "review_author_id": "AGG253R24S2B2CIIEBNRGONVWSUA",
+        "review_author": "Verified",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGG253R24S2B2CIIEBNRGONVWSUA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on August 6, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B000F4AVPA",
+        "reviewed_product_variant": {
+          "Size": "Medium",
+          "Style": "Medium (4 Pack)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2YXOBWNETKCW1",
+        "review_title": "Great Durable Squeaky Ball",
+        "review_comment": "We have five Border Collies. Each likes a specific type ball. We have TONS of tennis balls that easily go by the wayside after a round of fetch. This ball is durable, has a squeaker that actually works after a ton of play, is a great size and texture, cleans up well and is worth the price. This is a great tool in your arsenal for those dogs that are super hard on a tennis ball or who really love the squeaker. They are pricey, but they are worth it if you take care to wipe them up after play and put them away until the next use. Heavy chewers could make short work out of them if left out, but it would be somewhat difficult to quickly chew them up (always watch your dog with toys for safety). One of our favorite purchases for our crew.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2YXOBWNETKCW1",
+        "review_author_id": "AHEBM7ZFZX2ZPBSNG7VG4GDXOKVQ",
+        "review_author": "SarahM",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHEBM7ZFZX2ZPBSNG7VG4GDXOKVQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on August 3, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B000F4AVPA",
+        "reviewed_product_variant": {
+          "Size": "Medium",
+          "Style": "Squeaker"
+        },
+        "is_vine": false
+      }
+    ],
+    "top_reviews_global": [
+      {
+        "review_id": "R1064BPKJSM4DF",
+        "review_title": "Optimal f\u00fcr den Hund",
+        "review_comment": "Einfach nur klasse, mega robust",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1064BPKJSM4DF",
+        "review_author_id": null,
+        "review_author": "L.B.",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Germany on September 25, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B000F4AVPA",
+        "reviewed_product_variant": {
+          "Size": "Medium",
+          "Style": "Medium (4 Pack)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R11WFOXH8NI6ZZ",
+        "review_title": "\u062e\u0645\u0633 \u0646\u062c\u0648\u0645 \u0642\u0644\u064a\u0644 \u0641\u064a\u0647\u0627",
+        "review_comment": "\u0645\u0645\u062a\u0627\u0632\u0629 \u0648\u0644\u0627 \u062a\u062a\u0642\u0637\u0639 \u0645\u0647\u0645\u0627 \u0643\u0627\u0646 \u062d\u062c\u0645 \u0627\u0644\u0643\u0644\u0628",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R11WFOXH8NI6ZZ",
+        "review_author_id": null,
+        "review_author": "Omar abdulaziz",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Saudi Arabia on July 15, 2023",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B000F4AVPA",
+        "reviewed_product_variant": {
+          "Size": "Medium",
+          "Style": "Medium (2 Pack)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R16AGG5I21HT3Y",
+        "review_title": "speelplezier de ganse dag",
+        "review_comment": "laat je hond je verrassen",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R16AGG5I21HT3Y",
+        "review_author_id": null,
+        "review_author": "guillaume meyers",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Belgium on July 31, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B000F4AVPA",
+        "reviewed_product_variant": {
+          "Size": "Medium",
+          "Style": "Squeaker"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1B00O0UQBC0I1",
+        "review_title": "Z\u0131plam\u0131yor",
+        "review_comment": "\u00dcr\u00fcn\u00fcn i\u00e7indeki hava gerekenden az s\u00f6n\u00fck duruyor. Z\u0131plam\u0131yor bile. Almay\u0131n.",
+        "review_star_rating": "1",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1B00O0UQBC0I1",
+        "review_author_id": null,
+        "review_author": "Seyfettin",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Turkey on March 30, 2024",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B000F4AVPA",
+        "reviewed_product_variant": {
+          "Size": "Medium",
+          "Style": "Medium (2 Pack)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1BY5UTZ0MKYKK",
+        "review_title": "Best in class!",
+        "review_comment": "Chuckit brand may not be at top in India but certainly is in USA and I'm glad we get these products here. Anyone who is looking for a genuine high quality ball should opt for this product. It is made of good quality and highly durable and should last long unless your loved one does not tear it apart with teeth \ud83d\ude0a It is made of high quality rubber and does not damage your dog, to add this acts well for chewing too for little ones. The ball is always a good toy for a dog and it keeps them busy to add this product does it job. I would highly recommend this product and other Chuckit products. Go for it.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1BY5UTZ0MKYKK",
+        "review_author_id": null,
+        "review_author": "Ashish Kelo",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in India on December 19, 2018",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B000F4AVPA",
+        "reviewed_product_variant": {
+          "Size": "Medium",
+          "Style": "Medium (2 Pack)"
+        },
+        "is_vine": false
+      }
+    ],
+    "delivery": "FREE delivery Saturday, November 1 on orders shipped by Amazon over $35 Or Prime members get FREE delivery Wednesday, October 29. Order within 8 hrs 37 mins. Join Prime",
+    "primary_delivery_time": "Saturday, November 1",
+    "category": {
+      "id": "pets",
+      "name": "Pet Supplies"
+    },
+    "category_path": [
+      {
+        "id": "2619533011",
+        "name": "Pet Supplies",
+        "link": "https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/ref=dp_bc_1?ie=UTF8&node=2619533011"
+      },
+      {
+        "id": "2975312011",
+        "name": "Dogs",
+        "link": "https://www.amazon.com/dogs-supplies-training-beds-collars-grooming/b/ref=dp_bc_2?ie=UTF8&node=2975312011"
+      },
+      {
+        "id": "2975413011",
+        "name": "Toys",
+        "link": "https://www.amazon.com/dogs-toys-gifts-games-plush/b/ref=dp_bc_3?ie=UTF8&node=2975413011"
+      },
+      {
+        "id": "2975414011",
+        "name": "Balls",
+        "link": "https://www.amazon.com/dog-balls/b/ref=dp_bc_4?ie=UTF8&node=2975414011"
+      }
+    ],
+    "product_variations_dimensions": [
+      "size",
+      "style"
+    ],
+    "product_variations": {
+      "size": [
+        {
+          "asin": "B000F4AVPA",
+          "value": "Medium",
+          "is_available": true
+        },
+        {
+          "asin": "B0FXH6G3GJ",
+          "value": "Medium (Pack of 4)",
+          "is_available": true
+        }
+      ],
+      "style": [
+        {
+          "asin": "B000F4AVPA",
+          "value": "Medium (2 Pack)",
+          "is_available": true
+        },
+        {
+          "asin": "B00OQYBWPI",
+          "value": "Medium (4 Pack)",
+          "is_available": true
+        },
+        {
+          "asin": "B095L67T75",
+          "value": "Medium (8 Pack)",
+          "is_available": true
+        },
+        {
+          "asin": "B0FB11XCYT",
+          "value": "Squeaker & Ultra 4pk",
+          "is_available": true
+        },
+        {
+          "asin": "B01DSOVB70",
+          "value": "Squeaker",
+          "is_available": true
+        },
+        {
+          "asin": "B0FB161B5K",
+          "value": "Squeaker & Ultra",
+          "is_available": true
+        }
+      ]
+    },
+    "all_product_variations": {
+      "B000F4AVPA": {
+        "size": "Medium",
+        "style": "Medium (2 Pack)"
+      },
+      "B00OQYBWPI": {
+        "size": "Medium",
+        "style": "Medium (4 Pack)"
+      },
+      "B0FB161B5K": {
+        "size": "Medium",
+        "style": "Squeaker & Ultra"
+      },
+      "B01DSOVB70": {
+        "size": "Medium",
+        "style": "Squeaker"
+      },
+      "B0FB11XCYT": {
+        "size": "Medium",
+        "style": "Squeaker & Ultra 4pk"
+      },
+      "B095L67T75": {
+        "size": "Medium",
+        "style": "Medium (8 Pack)"
+      },
+      "B0FXH6G3GJ": {
+        "size": "Medium (Pack of 4)",
+        "style": "Medium (2 Pack)"
+      }
+    },
+    "has_aplus": true,
+    "aplus_images": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7d3d40e8-7ac9-450a-b772-fcec3c62f4da.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a46428a5-c262-4c59-ae2b-e4536173356c.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/df7297ac-3b58-4dfc-95a1-5ec4199e1e9c.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/11ded9bb-1bed-4205-83ea-91d2cb1157c8.png"
+    ],
+    "has_brandstory": true,
+    "frequently_bought_together": [
+      {
+        "product_title": "This item:  Chuckit! Ultra Ball Dog Toy - Medium Bouncy Fetch Balls For Dogs 20-60 lbs - Made from Durable Rubber - Floating Water Pet Toys - Size Medium - 2.5-inch Diameter - Pack of 2",
+        "product_price": "$5.59",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/714HUsBpO+L.jpg"
+      },
+      {
+        "product_title": "Chuckit! Interactive Dog Toy Ultra Fetch Stick - 12 Inch Outdoor Dog Toy for All Breed Sizes",
+        "product_price": "$5.19",
+        "product_url": "https://www.amazon.com/dp/B07SK3R2C3",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/81f+3nxhjZL.jpg"
+      },
+      {
+        "product_title": "Chuckit! Dog Ball Launcher - Sport 12\" with Medium (2.5\"), Dog Fetch Ball Thrower, For Dogs 20-60 Pounds, Made in USA",
+        "product_price": "$7.39",
+        "product_url": "https://www.amazon.com/dp/B000PKWKMQ",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71VeMle0XOL.jpg"
+      }
+    ],
+    "landing_asin": "B000F4AVPA",
+    "parent_asin": "B0DPQWWPPN"
+  }
+}

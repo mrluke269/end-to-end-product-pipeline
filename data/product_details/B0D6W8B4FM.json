@@ -1,0 +1,402 @@
+{
+  "status": "OK",
+  "request_id": "6a43d212-5a2b-48f0-adaf-ebd6cc564012",
+  "parameters": {
+    "asin": "B0D6W8B4FM",
+    "country": "US",
+    "language": "en_US"
+  },
+  "data": {
+    "asin": "B0D6W8B4FM",
+    "product_title": "TBTeek Cat Toys, USB Rechargeable Kitten Toy, 3 Light Modes & 5 Adjustable Patterns, Portable Interactive Pet Dog Cat Mouse Toy for Fun Chase Play Exercise",
+    "product_price": "6.99",
+    "product_original_price": "$7.98",
+    "unit_price": "$6.99",
+    "unit_count": 1,
+    "minimum_order_quantity": null,
+    "currency": "USD",
+    "country": "US",
+    "product_byline": "Visit the TBTeek Store",
+    "product_byline_link": "https://www.amazon.com/stores/TBTeek/page/C98D1109-320A-48EE-9423-B056812BE460?is_byline_deeplink=true&deeplink=B1BCC257-6D78-4B85-92F8-E202CC2963AB&redirect_store_id=C98D1109-320A-48EE-9423-B056812BE460&lp_asin=B0D6W8B4FM&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto",
+    "product_byline_links": [
+      "https://www.amazon.com/stores/TBTeek/page/C98D1109-320A-48EE-9423-B056812BE460?is_byline_deeplink=true&deeplink=B1BCC257-6D78-4B85-92F8-E202CC2963AB&redirect_store_id=C98D1109-320A-48EE-9423-B056812BE460&lp_asin=B0D6W8B4FM&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    ],
+    "product_star_rating": "4.6",
+    "product_num_ratings": 2180,
+    "product_url": "https://www.amazon.com/dp/B0D6W8B4FM",
+    "product_slug": "TBTeek-Adjustable-Patterns-Rechargeable-Interactive",
+    "product_photo": "https://m.media-amazon.com/images/I/61PegWwFglL._AC_SL1500_.jpg",
+    "product_num_offers": 1,
+    "product_availability": "In Stock",
+    "is_best_seller": false,
+    "is_amazon_choice": true,
+    "is_prime": true,
+    "climate_pledge_friendly": false,
+    "sales_volume": "20K+ bought in past month",
+    "about_product": [
+      "7 in 1 Modes: Scroll the gear to pick 5 red patterns(dots, smiles, mouse, stars, butterflies). The variety of patterns sparks pet's interest, enhancing your and cats' interaction. 3 lighting modes can be adjusted, red for cat playing, purple for checking cat skin health /money, white for mini flashlight",
+      "USB Direct Charging: No dry batteries needed! Unplug the back cover and plug into USB port (adapter/computer/car) to charge, about 20mins fully charged.",
+      "Portable Design: With metal clip and anti-lost rope, compact size(4.25in long) make cat toy easily put into pockets. Play with your cat at any moment for indoor.",
+      "Interactive Cat Toy: Interactive play not only helps cats release energy through chasing, but also exercise the pet's body and agility.",
+      "Ideal Gift: Stainless steel casing, 5 patterns, keep lonely cats happy and bond through daily play! It's the best gift for pets and feline friends."
+    ],
+    "product_description": null,
+    "product_information": {
+      "Item Weight": "0.634 ounces",
+      "Manufacturer": "TBTeek",
+      "ASIN": "B0D6W8B4FM",
+      "Item model number": "9131",
+      "Batteries": "1 CR5 batteries required.",
+      "Date First Available": "June 12, 2024",
+      "Item Package Dimensions L x W x H": "6.57 x 2.17 x 0.83 inches",
+      "Item Dimensions  LxWxH": "4.72 x 1.77 x 0.7 inches",
+      "Brand Name": "TBTeek",
+      "Target Audience Keyword": "Cats",
+      "Directions": "cat kitten",
+      "Warranty Description": "1 Year Manufacturer",
+      "Model Name": "9131",
+      "Color": "silver",
+      "Size": "1pc red light",
+      "Material": "Stainless Steel",
+      "Age Range Description": "All Life Stages",
+      "Number of Items": "1",
+      "Style": "Modern",
+      "Breed Recommendation": "All breed sizes",
+      "Included Components": "anti-lost rope",
+      "Specific Uses for Product": "Flashlight, Indoor, check cat moss"
+    },
+    "rating_distribution": {
+      "1": 3,
+      "2": 1,
+      "3": 5,
+      "4": 11,
+      "5": 80
+    },
+    "product_photos": [
+      "https://m.media-amazon.com/images/I/61PegWwFglL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71DWHSW2xVL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71HJMw5MJAL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Yr1bVuwHL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/713ToW+VLzL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71mn0oYN3yL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71WLw270F9L._AC_SL1500_.jpg"
+    ],
+    "product_videos": [
+      {
+        "id": "amzn1.vse.video.068053a1fe7541ac82136e829da3e9a8",
+        "title": "interactive cat toy",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8acef431-51a9-4d8d-be73-9e8ae98889f6/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/51XAMSc0q9L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0D6W8B4FM",
+        "parent_asin": "B0DNDTSWX9"
+      },
+      {
+        "id": "amzn1.vse.video.0c78864ead414cf4badccd58865918fa",
+        "title": "How to Charge the Cat Toy",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ca331d01-43b3-430e-acc7-2d3c02f9ef10/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/5179lDkt+UL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0D6W8B4FM",
+        "parent_asin": "B0DNDTSWX9"
+      },
+      {
+        "id": "amzn1.vse.video.0c19aca905834d8583d02988ac3186d8",
+        "title": "Multiple laser options and attached USB port",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3a12a4c6-a799-481a-9bc1-798d2da06e3d/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/71J6rQ+dIYL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png",
+        "product_asin": "B0D6W8B4FM",
+        "parent_asin": "B0DNDTSWX9"
+      },
+      {
+        "id": "amzn1.vse.video.05222b175f89442eb90816243227fc1b",
+        "title": "Large Cat Laser Colors & Shapes Fun For Cat & You",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/121c68af-98ea-49e7-9da1-d9cb5dbbc7eb/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/A1ayF9DibCL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png",
+        "product_asin": "B0D6W8B4FM",
+        "parent_asin": "B0DNDTSWX9"
+      },
+      {
+        "id": "amzn1.vse.video.0f130b16c9324d52b42f3d5225550bdc",
+        "title": "Fun Interactive Cat Toy",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/351ae506-c49b-46a6-a81f-162f2531adc0/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61liWIognJL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0D6W8B4FM",
+        "parent_asin": "B0DNDTSWX9"
+      },
+      {
+        "id": "amzn1.vse.video.0de47c0aee7e43d0a7a342567bd300be",
+        "title": "Why this laser toy is the only one you'll ever want",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9016aca0-ab57-4099-9e10-89c6b2118e09/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61lldGUcwGL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0D6W8B4FM",
+        "parent_asin": "B0DNDTSWX9"
+      }
+    ],
+    "user_uploaded_videos": [],
+    "video_thumbnail": "https://m.media-amazon.com/images/I/51XAMSc0q9L.SX522_.jpg",
+    "has_video": true,
+    "product_details": {
+      "Product Dimensions": "4.72 x 1.77 x 0.7 inches; 0.63 ounces",
+      "Item model number": "9131",
+      "Batteries": "1 CR5 batteries required.",
+      "Date First Available": "June 12, 2024",
+      "Manufacturer": "TBTeek",
+      "ASIN": "B0D6W8B4FM",
+      "Best Sellers Rank": "#241 in Pet Supplies (See Top 100 in Pet Supplies)    #1 in Cat Mice & Animals Toys   #2 in Interactive Toys for Cats",
+      "Customer Reviews": "4.6             4.6 out of 5 stars          \n\n                          2,180 ratings"
+    },
+    "customers_say": "Customers find this cat toy to be the best laser toy ever, appreciating its rechargeable USB feature and how it keeps cats and dogs entertained for hours. Moreover, the product receives positive feedback for its functionality, with one customer noting it works as both a laser pointer and flashlight. Additionally, customers like its brightness, with one mentioning it turns into a blue flashlight-like light, and appreciate its value for money.",
+    "top_reviews": [
+      {
+        "review_id": "RQF7ANJEPZS1V",
+        "review_title": "Super fun toy for cats and so many uses for home, the office and while out in nature!",
+        "review_comment": "So many functions in one little device! Not only is it a perfect cat toy it is also useful around the home/office. It has 3 lighting modes: a red dot for cat play or at the office to enhance presentations; Purple for checking cat skin health/finding spills or urine in the carpet or Checking cash to see if it's real or fake; and white as a mini flashlight. It also has a little switch you can scroll to select 5 red patterns: dots, smiles, mouse, stars, & butterflies. The variety of patterns keep your cat's interest to play. I bought it because my cat is overweight and I need to exercise him. I'm impressed with the engineering. My favorite function is that you can charge it directly with the built in USB. No expensive batteries needed. It also has a short rope attached to hang it and not lose it. I have bought several of these for my cat, extended family pets, the office, my vehicle and at home. I also like to take it . The flashlight is useful of course to get around in the dark and the laser pointer is kind of cool to point out Stars. So many uses and it's durable. I've dropped mine several times and it always functions with no problems. You can't beat the price either. Be sure to play it safe and never point it at an animals/human eyes and definitely don't point it at an airplane or helicopter you can blind them.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RQF7ANJEPZS1V",
+        "review_author_id": "AGPKXT2WMWJRSBKGJCQYCOW4NWYQ",
+        "review_author": "kari j",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGPKXT2WMWJRSBKGJCQYCOW4NWYQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/221077b4-002b-48de-a052-1b2c898b5492._CR0%2C0%2C903%2C903_SX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on August 2, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "7 people found this helpful",
+        "reviewed_product_asin": "B0D6W8B4FM",
+        "reviewed_product_variant": {
+          "Size": "1pc red light"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1A4P4SK9MVWIQ",
+        "review_title": "Great, works, bright!",
+        "review_comment": "My son lives this little lamp. The cats love it even more :) easy to use, bright lights, can even be used as a flash light. Or shadow-theatre lamp. Very strong red dot light, can be seen far down the road. All together a good buy. I love that it is rechargeable.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1A4P4SK9MVWIQ",
+        "review_author_id": "AH3XFJMQSOORL6Z3RW2DTFF4X37A",
+        "review_author": "AmberBan",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AH3XFJMQSOORL6Z3RW2DTFF4X37A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 29, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "2 people found this helpful",
+        "reviewed_product_asin": "B0D6W8B4FM",
+        "reviewed_product_variant": {
+          "Size": "1pc red light"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R45B82T1OMGRU",
+        "review_title": "Fun for everyone !",
+        "review_comment": "Absolute must for any pet owner. My cat loves playing the dot game. This one has different shapes and is even a real flashlight. What I love the most is it's rechargeable. No batteries needed!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R45B82T1OMGRU",
+        "review_author_id": "AGOWJMHGORT2XBF2WNNWOYGFLHJA",
+        "review_author": "MM",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGOWJMHGORT2XBF2WNNWOYGFLHJA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/81ZmJfSeJTL.jpg",
+          "https://m.media-amazon.com/images/I/81VxIDKmr4L.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 6, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0D6W8B4FM",
+        "reviewed_product_variant": {
+          "Size": "1pc red light"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RLRIXWQ1VPI5Z",
+        "review_title": "This laser pointer makes my kitties go bananas!",
+        "review_comment": "The laser pointer has a metal body, is nice and bright red, has cute shapes of a mouse, butterfly, star, smiley face and a red dot about the size of a pea and it looks larger from 20ft away about the size of a nickel but stays bright. The other shapes also enlarge when shining the laser light from a distance and stay bright, clear and well defined. My cats absolutely love this toy and go bananas when we grab it from the drawer and it keeps their attention. The button to turn it on to select between red laser, purple black light, and white flash light and to the off position is a plastic sliding type and located about the middle of the shaft. A separate plastic, horizontal rotating selector knob is near the top of the shaft to change the shapes of the laser, so easy to use with one hand. I have only had it about a week, but I haven't had to charge it yet so I don't know how long the battery will last. It came already charged and ready to go out of the package. It seems to be good quality and it also has a purple light that acts as a black light for checking kitties skin for ringworm and other fungal skin conditions and for detecting cat urine. Of course to use it that way you have to shine the purple light in the dark. It also has a white light that can be used as a mini flashlight which can be helpful for emergencies. It has a metal clip on it as well so you could clip it to a pocket if you want to carry it with you. There is a metal cap with a mini lanyard strap attached that can be pulled off for access to the usb-a connector which is used to charge this device. You can plug it in to the usb power port on a computer or other powered usb ports available. I like this rechargeable laser pointer much better than past ones I've bought that use button cell batteries. It seems to be a good quality product so far and the price was reasonable.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RLRIXWQ1VPI5Z",
+        "review_author_id": "AH3D3SQJYRN4WWPLPOWGLMHSX2BQ",
+        "review_author": "1brightstar",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AH3D3SQJYRN4WWPLPOWGLMHSX2BQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on July 7, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "6 people found this helpful",
+        "reviewed_product_asin": "B0D6W8B4FM",
+        "reviewed_product_variant": {
+          "Size": "1pc red light"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1FTA7ZAV8B3GB",
+        "review_title": "Gets the job done",
+        "review_comment": "Good, works, has a few different shapes it does like a mouse, smiley face, star, and regular pointer. It can get a little stuck between shapes, and each shape has a bit of a glow to the side, but it's great! Haven't had to charge it yet so I'm not sure how fast it charges, but it's so small I can't imagine it taking long",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1FTA7ZAV8B3GB",
+        "review_author_id": "AE7ZY4F2OF2DJZQCKWTEF7FZOHXQ",
+        "review_author": "Haley",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AE7ZY4F2OF2DJZQCKWTEF7FZOHXQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 17, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0D6W8B4FM",
+        "reviewed_product_variant": {
+          "Size": "1pc red light"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RCHPGFK5ZSADC",
+        "review_title": "Fun & Functional",
+        "review_comment": "The TBTeek Cat Toy is a highly-rated, USB rechargeable laser pointer that's a hit with cats. Functionality is its strong suit, offering multiple light modes and patterns to keep cats engaged. The best feature is its USB charging, which eliminates the need for batteries, making it more eco-friendly and convenient. \u200bIn terms of quality, it has a durable stainless steel casing that holds up well to rough play. Ease of cleaning is simple\u2014just wipe it down with a soft, wet cloth. At a good value for money, this toy is an excellent, long-lasting solution for keeping indoor cats active and entertained.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RCHPGFK5ZSADC",
+        "review_author_id": "AHAZK7SUUGI7R44P3M5YXOCTG7QA",
+        "review_author": "Brady ",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHAZK7SUUGI7R44P3M5YXOCTG7QA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 10, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0D6W8B4FM",
+        "reviewed_product_variant": {
+          "Size": "1pc red light"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2UV3GFK3BA7TO",
+        "review_title": "Fun for the whole family (dogs included)",
+        "review_comment": "This thing been such a hit in our house! I originally bought it as an interactive toy for our cats (and now our dogs), but the real surprise was how much fun my toddler has \u201chelping\u201d with it too. The adjustable patterns are perfect and fun. Our cats and dogs go nuts chasing the light, and my toddler giggles nonstop while changing the settings and watching the cats and dogs zoom around. It\u2019s turned into a bonding activity that entertains them all, which honestly is priceless. I also love that it\u2019s rechargeable. We use it almost every day, and I never have to worry about constantly replacing batteries. The build feels sturdy enough to handle excited little hands that occasionally throw it, and it\u2019s safe and easy to use. I\u2019ve bought plenty of cat and dog toys that get ignored after a day, but this one has stayed a favorite. Our cats and dogs gets their exercise, my toddler gets to \u201cplay director,\u201d and we get a few quiet minutes to enjoy the show. Totally worth it and highly recommend for any household with pets and kids!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2UV3GFK3BA7TO",
+        "review_author_id": "AEYDIYGQHO2HWHLGR5QRKPX7K3BA",
+        "review_author": "Tiffany B",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEYDIYGQHO2HWHLGR5QRKPX7K3BA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 1, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0D6W8B4FM",
+        "reviewed_product_variant": {
+          "Size": "1pc red light"
+        },
+        "is_vine": false
+      }
+    ],
+    "top_reviews_global": [],
+    "delivery": "FREE delivery Tuesday, November 4 on orders shipped by Amazon over $35 Or Prime members get FREE delivery Saturday, November 1. Order within 7 hrs 12 mins. Join Prime",
+    "primary_delivery_time": "Tuesday, November 4",
+    "category": {
+      "id": "pets",
+      "name": "Pet Supplies"
+    },
+    "category_path": [
+      {
+        "id": "2619533011",
+        "name": "Pet Supplies",
+        "link": "https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/ref=dp_bc_1?ie=UTF8&node=2619533011"
+      },
+      {
+        "id": "2975241011",
+        "name": "Cats",
+        "link": "https://www.amazon.com/cats-supplies-kittens-catnip-tree-litter/b/ref=dp_bc_2?ie=UTF8&node=2975241011"
+      },
+      {
+        "id": "2975303011",
+        "name": "Toys",
+        "link": "https://www.amazon.com/cat-feather-laser-toys-catnip/b/ref=dp_bc_3?ie=UTF8&node=2975303011"
+      },
+      {
+        "id": "2975308011",
+        "name": "Mice & Animal Toys",
+        "link": "https://www.amazon.com/dog-mice-animal-toys/b/ref=dp_bc_4?ie=UTF8&node=2975308011"
+      }
+    ],
+    "product_variations_dimensions": [
+      "size"
+    ],
+    "product_variations": {
+      "size": [
+        {
+          "asin": "B0D6W8B4FM",
+          "value": "1pc red light",
+          "is_available": true
+        },
+        {
+          "asin": "B0D8FQ9NRP",
+          "value": "2pcs red light",
+          "is_available": true
+        },
+        {
+          "asin": "B0F8B4SW2Z",
+          "value": "3pcs red light",
+          "is_available": true
+        }
+      ]
+    },
+    "all_product_variations": {
+      "B0D8FQ9NRP": {
+        "size": "2pcs red light"
+      },
+      "B0D6W8B4FM": {
+        "size": "1pc red light"
+      },
+      "B0F8B4SW2Z": {
+        "size": "3pcs red light"
+      }
+    },
+    "has_aplus": true,
+    "aplus_images": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/68ec4774-956a-4595-8983-84985a258a29.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/396b2411-cbd5-4ad8-8a90-ed740b479d19.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cc96445b-fdd1-498f-8668-f6c593c98438.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/df8586db-e19c-44a0-865e-1d906c50555d.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c6722ffc-1bed-49b2-aff5-ca6786de4c5b.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eaee3319-9cfd-436e-af78-e3cabdb210bb.jpg"
+    ],
+    "has_brandstory": true,
+    "frequently_bought_together": [
+      {
+        "product_title": "This item:  TBTeek Cat Toys, USB Rechargeable Kitten Toy, 3 Light Modes & 5 Adjustable Patterns, Portable Interactive Pet Dog Cat Mouse Toy for Fun Chase Play Exercise",
+        "product_price": "$6.99",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/61PegWwFglL.jpg"
+      },
+      {
+        "product_title": "Cat Feather Toy, Retractable Cat Toys Wand 2 Wands & 9 Assorted Teaser Refills, Interactive Feather Teaser Wand Toy Bell Kitten Cat Having Fun Exerciser Playing",
+        "product_price": "$9.59",
+        "product_url": "https://www.amazon.com/dp/B07F45GGPT",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/615Ccf+wziL.jpg"
+      },
+      {
+        "product_title": "Catstages Tower of Tracks 3-Level Cat Track Toy with 6 Balls, Interactive Toy for Indoor Cats, Orange",
+        "product_price": "$10.55",
+        "product_url": "https://www.amazon.com/dp/B00DT2WL26",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/812MUtPNc-L.jpg"
+      }
+    ],
+    "landing_asin": "B0D6W8B4FM",
+    "parent_asin": "B0DNDTSWX9"
+  }
+}

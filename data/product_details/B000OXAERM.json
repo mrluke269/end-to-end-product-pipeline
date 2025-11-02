@@ -1,0 +1,548 @@
+{
+  "status": "OK",
+  "request_id": "f8eb0f6d-6326-43f2-99d5-dea235c746cd",
+  "parameters": {
+    "asin": "B000OXAERM",
+    "country": "US",
+    "language": "en_US"
+  },
+  "data": {
+    "asin": "B000OXAERM",
+    "product_title": "MidWest Homes for Pets 30-Inch iCrate Folding Dog Crate with Divider Panel, Leak-Proof Tray & Secure Latches \u2013 Metal Wire Kennel for Medium Breeds \u2013 Portable, Durable & Easy to Assemble",
+    "product_price": "39.62",
+    "product_original_price": "$45.99",
+    "minimum_order_quantity": null,
+    "currency": "USD",
+    "country": "US",
+    "product_byline": "Visit the MidWest Homes for Pets Store",
+    "product_byline_link": "https://www.amazon.com/stores/MidWestHomesForPets/page/2A08F8F5-A392-471A-9EE7-EC1B59540DA6?is_byline_deeplink=true&deeplink=E4F98EB8-A6A7-4218-958A-257E00E2934F&redirect_store_id=2A08F8F5-A392-471A-9EE7-EC1B59540DA6&lp_asin=B000OXAERM&ref_=ast_bln",
+    "product_byline_links": [
+      "https://www.amazon.com/stores/MidWestHomesForPets/page/2A08F8F5-A392-471A-9EE7-EC1B59540DA6?is_byline_deeplink=true&deeplink=E4F98EB8-A6A7-4218-958A-257E00E2934F&redirect_store_id=2A08F8F5-A392-471A-9EE7-EC1B59540DA6&lp_asin=B000OXAERM&ref_=ast_bln"
+    ],
+    "product_star_rating": "4.7",
+    "product_num_ratings": 108260,
+    "product_url": "https://www.amazon.com/dp/B000OXAERM",
+    "product_slug": "MidWest-Folding-Divider-Protecting-Leak-Proof",
+    "product_photo": "https://m.media-amazon.com/images/I/71h5JX5Ly1L._AC_SL1500_.jpg",
+    "product_num_offers": 3,
+    "product_availability": "In Stock",
+    "is_best_seller": false,
+    "is_amazon_choice": true,
+    "is_prime": true,
+    "climate_pledge_friendly": false,
+    "sales_volume": "5K+ bought in past month",
+    "about_product": [
+      "Newly enhanced with added security features to keep your pet safe | Slide-bolt door latch now feature patented Paw Block and locking tips to create a safer, more secure home for your pet",
+      "iCrate single door dog crate measures 30L x 19 x 21 inches and is suitable for medium dog breeds with an adult weight of 25 to 40 pounds. If your dog\u2019s weight or measurements are on the higher side for this crate, we recommend buying the next crate size up",
+      "Dog crate includes a divider panel, durable & leak-proof plastic pan, protective rubber feet, carrying handle, and customer support team based in Indiana",
+      "Easy to assemble & portable | Dog crate sets up in seconds with no tools required and conveniently folds flat for travel",
+      "Durable & strong, quality construction creates a secure place for your dog to fulfill their natural instinct to den. Proper ventilation, large door openings with low thresholds, and rounded corner clips make iCrate a safer crate experience for your dog"
+    ],
+    "product_description": "iCrate single-door dog crates by MidWest Homes for Pets are the Inclusive Home Training System designed completely around the safety, security, and comfort of your dog. Features include safe and secure slide-bolt latches, rounded corners, and a removable, washable plastic pan for easy cleanup in the event of an accident.",
+    "product_information": {
+      "Item Weight": "17 Pounds",
+      "Department": "pet supplies",
+      "Manufacturer": "MidWest Homes For Pets",
+      "ASIN": "B000OXAERM",
+      "Item model number": "1530",
+      "Date First Available": "March 28, 2007",
+      "Item Package Dimensions L x W x H": "31.1 x 19.88 x 3.74 inches",
+      "Item Dimensions  LxWxH": "30.67 x 19.3 x 21.46 inches",
+      "Brand Name": "MidWest Homes for Pets",
+      "Target Audience Keyword": "dogs, house-cats dogs",
+      "Directions": "Instructions Included with Product",
+      "Warranty Description": "1 Year Manufacture",
+      "Model Name": "iCrate",
+      "Color": "Black",
+      "Size": "30.7\"L x 19.3\"W x 21.5\"H",
+      "Material": "Metal",
+      "Age Range Description": "All Life Stages",
+      "Care Instructions": "Hand washable, use a mild pet-freindly detergent",
+      "Number of Items": "1",
+      "Style": "Single Door",
+      "Breed Recommendation": "Medium",
+      "Included Components": "Divider, Durable & Leak-Proof Plastic Pan, Protective Rubber Feet, Carrying Handle",
+      "Specific Uses for Product": "Indoor"
+    },
+    "rating_distribution": {
+      "1": 2,
+      "2": 1,
+      "3": 4,
+      "4": 10,
+      "5": 83
+    },
+    "product_photos": [
+      "https://m.media-amazon.com/images/I/71h5JX5Ly1L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81wKGmsPV6L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71cBUxHqXsL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91IYqvd71eL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91uzwBIf+zL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81xTS9Yy6IL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Dk0HgVNXL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71vtjgI7BcL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/31n5GobHmHL._AC_.jpg",
+      "https://m.media-amazon.com/images/I/91ciMHfhrXL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41DzCnTtJ3L._AC_.jpg"
+    ],
+    "product_videos": [],
+    "user_uploaded_videos": [],
+    "video_thumbnail": "https://m.media-amazon.com/images/I/518yZZtGVoL.SX522_.jpg",
+    "has_video": true,
+    "product_details": {
+      "Brand": "MidWest Homes for Pets",
+      "Product Dimensions": "30.67&#34;L x 19.3&#34;W x 21.46&#34;H",
+      "Material": "Metal",
+      "Specific Uses For Product": "Indoor",
+      "Special Feature": "Adjustable, Foldable, Lockable, Secure"
+    },
+    "customers_say": "Customers find the dog crate to be of good quality, easy to assemble without tools, and spacious enough for small dogs. They appreciate its durability, noting it lasts a long time, and consider it good value for money. The crate works well for puppies and is particularly suitable for beagles and Yorkies. While some customers find it very sturdy, others report issues with the plastic bottom breaking.",
+    "top_reviews": [
+      {
+        "review_id": "R23Q6KPC5AYMHO",
+        "review_title": "Sturdy, Practical, and Perfect for My Pet!",
+        "review_comment": "I recently got the MidWest Homes for Pets 24-Inch iCrate for my dog, and it's been fantastic! The assembly was simple, and the crate feels very sturdy and well-built. It provides a secure, comfortable space for my pet while also being easy to clean with its removable tray. The size is perfect for small to medium dogs, giving enough room to move comfortably while still feeling cozy. The foldable design is great for storage or travel, and the latch system is secure, keeping my pet safe. Overall, this iCrate is high-quality, durable, and practical, making it a must-have for pet owners who want a safe and reliable space for their dogs.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R23Q6KPC5AYMHO",
+        "review_author_id": "AFVA2HN5A5AF76HDGH3MUSSLOMCQ",
+        "review_author": "Cherri",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFVA2HN5A5AF76HDGH3MUSSLOMCQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 12, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "2 people found this helpful",
+        "reviewed_product_asin": "B000OXAERM",
+        "reviewed_product_variant": {
+          "Size": "24.8&#034;L x 17.9&#034;W x 19.5&#034;H",
+          "Color": "Black"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RGJAYL9F78B18",
+        "review_title": "Using for bird feeding to keep out squirrels",
+        "review_comment": "Bought this crate to keep blackbirds, grackles, groundhogs, and the local squirrels from hogging the oilers and peanuts. Within 30 minutes the tufted titmice, chickadees, nuthatches, and various sparrow species had figured it out. They are busy flitting in and out grabbing the seeds and nuts. The bar spaces on this crate are perfect size for smaller birds. Eastern Bluebirds and Carolina Wrens are also able to enter the crate. The Blue Jays, Red-bellied Woodpeckers and Mourning Doves can't enter, but there's plenty for them at the other feeders. They are larger and can muscle in with the squirrels and blackbirds. Crate was super easy to set up. No tools required, anyone can do this. Just slide it out of the box and start lifting the panels. You'll see that the main sides fold up into a rectangle. The ends then are folded up and snapped into place. Door has top and bottom latches. More than adequate to prevent squirrels from figuring out how to open the crate door. And if they do, a wire or carabineer will secure it easily. It took longer to carry the packaged crate 100 feet to the patio than to set it up. Seems well built for our purpose. Cannot attest to dog, cat, bunny, etc pet use. We have an AC cover to keep the snow/ ice off the crate (we live in upper Great Lakes). We don't expect the crate to last forever as we are leaving it outside. It looks like it will still last several years outdoors, especially if we cover it. Curious raccoons may investigate so we'll be sure to empty the pan before dark. Fortunately, no Black Bears in our area. We really like that the pan is convenient to slide in and out and it is made of a resin material. Very sturdy. We are impressed so far with the crate. For the price, it's a good buy and helpful addition to our bird feeding hobby.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RGJAYL9F78B18",
+        "review_author_id": "AFTGGXACQ2255RSUPGTPXCLP2DIA",
+        "review_author": "Trillium2",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFTGGXACQ2255RSUPGTPXCLP2DIA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/e2e80970-0453-4708-8290-241a70ffb576._CR62%2C0%2C375%2C375_SX460_.jpg",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/81s-SUibKjL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on November 2, 2024",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "56 people found this helpful",
+        "reviewed_product_asin": "B000OXAERM",
+        "reviewed_product_variant": {
+          "Size": "36.0&#034;L x 23.0&#034;W x 25.0&#034;H",
+          "Color": "Black"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "REEBVRY6B42MK",
+        "review_title": "The pup likes it",
+        "review_comment": "This crate was easy to build, feels like it\u2019s good quality and durable, and the latch was secure. It wasn\u2019t too flexible or able to bend, but folds up nicely for transporting. The design works conveniently and the puppy is doing great crate training in it! She loves it and it seems comfortable for her. We also like the divider that makes it smaller for her for now while she\u2019s little and can be removed later as she grows. We would buy it again if we ever need another one!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/REEBVRY6B42MK",
+        "review_author_id": "AHOBMBF5YDQGJ46SG7WU56XK64QA",
+        "review_author": "C\u00e1rter",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHOBMBF5YDQGJ46SG7WU56XK64QA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/81iQIH3J2xL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 5, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "9 people found this helpful",
+        "reviewed_product_asin": "B000OXAERM",
+        "reviewed_product_variant": {
+          "Size": "36.0&#034;L x 23.0&#034;W x 25.0&#034;H",
+          "Color": "Black"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1I9TBHWX4CHF4",
+        "review_title": "Best kennel on the market!",
+        "review_comment": "I have bought this kennel 3 times now for 3 different houses and OMG this is the best kennel. It latches, it is easy to assemble and disassemble. It can me folded down to fit easy in cars and to store. The tray at the bottom is amazing quality! I had a dog who would chew and claw at everything and the kennel withstood all of that! It also isn't ugly so it is not too bad to have on display! I bought a large for my Black Lab and a medium for my corgis and those were the perfect sizes!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1I9TBHWX4CHF4",
+        "review_author_id": "AFKLXPQ6N7HNKXNIXVDNJCD5T6DQ",
+        "review_author": "Katie Waddingham",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFKLXPQ6N7HNKXNIXVDNJCD5T6DQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 10, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "4 people found this helpful",
+        "reviewed_product_asin": "B000OXAERM",
+        "reviewed_product_variant": {
+          "Size": "30.7&#034;L x 19.3&#034;W x 21.5&#034;H",
+          "Color": "Black"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RWG7LRZY4TTGY",
+        "review_title": "Good product",
+        "review_comment": "Perfect size for my 5 lb dog. Easy to put up.",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RWG7LRZY4TTGY",
+        "review_author_id": "AFOGGRDAX443NV2SCI3K54M3LNNQ",
+        "review_author": "Amazon Customer",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFOGGRDAX443NV2SCI3K54M3LNNQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 3, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B000OXAERM",
+        "reviewed_product_variant": {
+          "Size": "18.0&#034;L x 12.0&#034;W x 14.0&#034;H",
+          "Color": "Black"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R30D87YHPOTBTP",
+        "review_title": "Solid Dog Crate",
+        "review_comment": "Great size, great price, sturdy, and easy to assemble. Came with a removable divider that we didn't need but would be good when starting crate training with a puppy.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R30D87YHPOTBTP",
+        "review_author_id": "AFX2CXQJDERZ3T7GDT4FVWH7WAXQ",
+        "review_author": "Priscilla",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFX2CXQJDERZ3T7GDT4FVWH7WAXQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 3, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "2 people found this helpful",
+        "reviewed_product_asin": "B000OXAERM",
+        "reviewed_product_variant": {
+          "Size": "36.0&#034;L x 23.0&#034;W x 25.0&#034;H",
+          "Color": "Black"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R33SJJF4UT3RPI",
+        "review_title": "Good crate",
+        "review_comment": "Medium 30\" Midwest iCrate (for dogs). we are traveling five days across the country with a cat that hates the car. I have a Jeep Grand Cherokee and this fit in the back of the cargo area without having to fold down the rear passenger seats. I still have room to put other things back there, and I'm hoping my cat will be ok with it. He is acclimating in the house right now with tempting treats and Also, I was able to place a standard carpet sample (from the carpet store) and it fits on the plastic base perfectly. Unpacking this and putting together was like 2 minutes, and it's about 12 lbs max so I was able to pull it out of the box with one hand. Now I'm a little pissed that I didn't get the Amazon \"big price\" of $31 they had on for today, but I'm sure I could call and they would adjust it. Another nitpick- they said it was to have been delivered yesterday, so in usual fashion their delivery service is not in keeping with their promise. No biggie, really, but if you say you are going to do something, do it. Especially since you just cut back on prime membership. This seems like it will be a good investment for a \u201cfraidy\u201d cat.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R33SJJF4UT3RPI",
+        "review_author_id": "AEOLRZSMWUVMWO4WRRYY33JWLCZA",
+        "review_author": "lizzz",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEOLRZSMWUVMWO4WRRYY33JWLCZA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/74dbbf3e-c572-4c31-8669-ac62568edb48._CR42%2C0%2C316%2C316_UX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 9, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B000OXAERM",
+        "reviewed_product_variant": {
+          "Size": "30.7&#034;L x 19.3&#034;W x 21.5&#034;H",
+          "Color": "Black"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RIFZ2018CDWSM",
+        "review_title": "Large, sturdy, good product..",
+        "review_comment": "Kennel is well made and sturdy. We have 2 medium sized dogs and they fit in there together just fine. (Australian Shephard mix, approx. 55 lbs. each, bonded litter mates who refuse to be separated. ) The latches work great, however if you tend to put stuff on top of the kennel, like we do (though shouldn't) the latches don't line up the best due to stress on the sides/top. (Again, that's on us, not the quality of the kennel.)",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RIFZ2018CDWSM",
+        "review_author_id": "AEBWIKW5EFNI3MGNKF6YRRSM6CPQ",
+        "review_author": "Kris ",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEBWIKW5EFNI3MGNKF6YRRSM6CPQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 22, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "8 people found this helpful",
+        "reviewed_product_asin": "B000OXAERM",
+        "reviewed_product_variant": {
+          "Size": "48.0&#034;L x 30.0&#034;W x 33.0&#034;H",
+          "Color": "Black"
+        },
+        "is_vine": false
+      }
+    ],
+    "top_reviews_global": [
+      {
+        "review_id": "R11BW25RUDQCK0",
+        "review_title": "Resistente",
+        "review_comment": "ottimo prodotto, prezzo onesto. Materiale molto resistente!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R11BW25RUDQCK0",
+        "review_author_id": null,
+        "review_author": "Laura",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Italy on October 3, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B000OXAERM",
+        "reviewed_product_variant": {
+          "Size": "24.8&#034;L x 17.9&#034;W x 19.5&#034;H",
+          "Color": "Black"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R24R975VD6KU8T",
+        "review_title": "Crate",
+        "review_comment": "God quality and easy to ensamble. My dog is currently in training Don\u2019t need a lot of space.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R24R975VD6KU8T",
+        "review_author_id": null,
+        "review_author": "Xiom",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Sweden on October 23, 2024",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B000OXAERM",
+        "reviewed_product_variant": {
+          "Size": "18.0&#034;L x 12.0&#034;W x 14.0&#034;H",
+          "Color": "Black"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R26N798659C9FE",
+        "review_title": "S\u00faper buena",
+        "review_comment": "Es una muy buena jaula de muy buen tama\u00f1o, f\u00e1cil de armar. Aunque es f\u00e1cil de armar y desarmar no es tan f\u00e1cil de transportar por el peso pero no imposible. Compr\u00e9 la de 42 pulgadas y caben mis 2 pastor belga, mi gato y yo sin problemas. Resistente, llevo 2 semanas us\u00e1ndola y no se ha deformado ni despostillado. Uno de los pastores es escapista y no ha logrado salirse de la jaula. En caso de que lo necesites, trae una reja extra para hacer una divisi\u00f3n adentro de la jaula. Hay que monitorearla si quieres tener un buen precio, hay variaciones de vez en cuando. La soluci\u00f3n a muchos problemas cuando tienes una raza inquieta.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R26N798659C9FE",
+        "review_author_id": null,
+        "review_author": "Ivy",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/81LR9wz6nZL.jpg",
+          "https://m.media-amazon.com/images/I/71AZjfBaD9L.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in Mexico on September 30, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B000OXAERM",
+        "reviewed_product_variant": {
+          "Size": "48.0&#034;L x 30.0&#034;W x 33.0&#034;H",
+          "Color": "Black"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R27YG8AFHB0XDS",
+        "review_title": "Perfect to keep the cat\u2019s food away from the dog!",
+        "review_comment": "This small crate is absolutely perfect for me. I have a very elderly cat who can\u2019t jump for his food anymore. Stopping the dog eating all his food was a problem so I did some research and this came up trumps. It has two doors which makes life easier for me, I can put food in the side door and the end door stays open for the cat to go in. I\u2019ve positioned it so the greedy dog can\u2019t get her head in, works brilliantly. It\u2019s really well made and comes with a separate divider which would create two very small areas, ideal for transporting tiny dogs, cats or rabbits or as a safe feeding station for old cats \ud83d\ude0a",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R27YG8AFHB0XDS",
+        "review_author_id": null,
+        "review_author": "Miss J A Scott",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/81Y9mAnHqML.jpg",
+          "https://m.media-amazon.com/images/I/71vIRjNNCzL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in the United Kingdom on September 12, 2023",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B000OXAERM",
+        "reviewed_product_variant": {
+          "Size": "18-inch",
+          "Color": "Black"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R32VECLI1M0UA5",
+        "review_title": "Dog crate",
+        "review_comment": "First of all, don't get a dog as a pet if it is not too late. That is just bad for your health and it is a bad idea overall. I am gainst having any pets at home, especially appartment. Do not listen to children. Their brains are not developed yet and they can assess the near future. Havign said that, this is a good crate, as far as I know about crates. Medium size dog fits in easily. It is guit spacious. It is stil la torture, which can take me easily to my openning remarks, but go for it if you already made a mistake having a dog.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R32VECLI1M0UA5",
+        "review_author_id": null,
+        "review_author": "Tim",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Canada on October 8, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B000OXAERM",
+        "reviewed_product_variant": {
+          "Size": "36.0&#034;L x 23.0&#034;W x 25.0&#034;H",
+          "Color": "Black"
+        },
+        "is_vine": false
+      }
+    ],
+    "delivery": "FREE delivery Tuesday, November 4 Or Prime members get FREE delivery Saturday, November 1. Order within 6 hrs 25 mins. Join Prime",
+    "primary_delivery_time": "Tuesday, November 4",
+    "category": {
+      "id": "pets",
+      "name": "Pet Supplies"
+    },
+    "category_path": [
+      {
+        "id": "2619533011",
+        "name": "Pet Supplies",
+        "link": "https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/ref=dp_bc_1?ie=UTF8&node=2619533011"
+      },
+      {
+        "id": "2975312011",
+        "name": "Dogs",
+        "link": "https://www.amazon.com/dogs-supplies-training-beds-collars-grooming/b/ref=dp_bc_2?ie=UTF8&node=2975312011"
+      },
+      {
+        "id": "2975400011",
+        "name": "Crates, Houses & Pens",
+        "link": "https://www.amazon.com/dogs-crates-kennels-houses-house-crate/b/ref=dp_bc_3?ie=UTF8&node=2975400011"
+      },
+      {
+        "id": "2975401011",
+        "name": "Crates",
+        "link": "https://www.amazon.com/dog-crates-kennels/b/ref=dp_bc_4?ie=UTF8&node=2975401011"
+      },
+      {
+        "id": "3024223011",
+        "name": "Basic Crates",
+        "link": "https://www.amazon.com/dog-crates/b/ref=dp_bc_5?ie=UTF8&node=3024223011"
+      }
+    ],
+    "product_variations_dimensions": [
+      "size",
+      "color"
+    ],
+    "product_variations": {
+      "size": [
+        {
+          "asin": "B000OXAER2",
+          "value": "18.0\"L x 12.0\"W x 14.0\"H",
+          "is_available": true
+        },
+        {
+          "asin": "B000QFUNWY",
+          "value": "23.0\"L x 14.0\"W x 16.2\"H",
+          "is_available": true
+        },
+        {
+          "asin": "B000OX89VK",
+          "value": "24.8\"L x 17.9\"W x 19.5\"H",
+          "is_available": true
+        },
+        {
+          "asin": "B000OXAERM",
+          "value": "30.7\"L x 19.3\"W x 21.5\"H",
+          "is_available": true
+        },
+        {
+          "asin": "B000OXAES6",
+          "value": "36.0\"L x 23.0\"W x 25.0\"H",
+          "is_available": true
+        },
+        {
+          "asin": "B000OX64P8",
+          "value": "42.0\"L x 28.0\"W x 30.0\"H",
+          "is_available": true
+        },
+        {
+          "asin": "B000OX89XI",
+          "value": "48.0\"L x 30.0\"W x 33.0\"H",
+          "is_available": true
+        },
+        {
+          "asin": "B07WW1B9RY",
+          "value": "54.0\"L x 37.0\"W x 45.0\"H",
+          "is_available": true
+        },
+        {
+          "asin": "B000TZ59ES",
+          "value": "18-inch",
+          "is_available": true
+        }
+      ]
+    },
+    "all_product_variations": {
+      "B000OX89XI": {
+        "size": "48.0\"L x 30.0\"W x 33.0\"H",
+        "color": "Black"
+      },
+      "B000OXAES6": {
+        "size": "36.0\"L x 23.0\"W x 25.0\"H",
+        "color": "Black"
+      },
+      "B000OX89VK": {
+        "size": "24.8\"L x 17.9\"W x 19.5\"H",
+        "color": "Black"
+      },
+      "B000OXAER2": {
+        "size": "18.0\"L x 12.0\"W x 14.0\"H",
+        "color": "Black"
+      },
+      "B000OX64P8": {
+        "size": "42.0\"L x 28.0\"W x 30.0\"H",
+        "color": "Black"
+      },
+      "B000OXAERM": {
+        "size": "30.7\"L x 19.3\"W x 21.5\"H",
+        "color": "Black"
+      },
+      "B000QFUNWY": {
+        "size": "23.0\"L x 14.0\"W x 16.2\"H",
+        "color": "Black"
+      },
+      "B000TZ59ES": {
+        "size": "18-inch",
+        "color": "Black"
+      },
+      "B07WW1B9RY": {
+        "size": "54.0\"L x 37.0\"W x 45.0\"H",
+        "color": "Black"
+      }
+    },
+    "has_aplus": true,
+    "aplus_images": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b3ba8aa9-1d46-4a8f-bf68-9a62a75c815b.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/38eadc36-2d39-419c-8f6c-033543687f7d.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/28a77ffc-76f3-47ca-812a-566b9e289a2a.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f93e7d9a-4751-4a32-a9ac-55f373702413.jpg"
+    ],
+    "has_brandstory": false,
+    "frequently_bought_together": [
+      {
+        "product_title": "This item:  MidWest Homes for Pets 30-Inch iCrate Folding Dog Crate with Divider Panel, Leak-Proof Tray & Secure Latches \u2013 Metal Wire Kennel for Medium Breeds \u2013 Portable, Durable & Easy to Assemble",
+        "product_price": "$39.62",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71h5JX5Ly1L.jpg"
+      },
+      {
+        "product_title": "Amazon Basics Dog and Puppy Pee Pads, 5-Layer Leak-Proof Super Absorbent, Quick-Dry Surface, Potty Training, Regular (22x22\"), 50 Count, Blue & White",
+        "product_price": "$9.99",
+        "product_url": "https://www.amazon.com/dp/B00MW8G3YU",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71Co+yjlWAL.jpg"
+      },
+      {
+        "product_title": "Dog Crate Pad 30x19 inch Gray Memory Foam Dog Bed Mat Small Medium Grey Washable Puppy Sleeping Bed Anti Slip",
+        "product_price": "$19.98",
+        "product_url": "https://www.amazon.com/dp/B0B6DMJMTQ",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71Ks3dCJUjL.jpg"
+      }
+    ],
+    "landing_asin": "B000OXAERM",
+    "parent_asin": "B0CM3Q81Q3"
+  }
+}

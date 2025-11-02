@@ -1,0 +1,521 @@
+{
+  "status": "OK",
+  "request_id": "286bfcf9-2a11-4acb-877e-bbcd406ccfaa",
+  "parameters": {
+    "asin": "B009IOCCD2",
+    "country": "US",
+    "language": "en_US"
+  },
+  "data": {
+    "asin": "B009IOCCD2",
+    "product_title": "Purina ONE Dry Dog Food Lamb and Rice Formula - 31.1 lb. Bag",
+    "product_price": "48.98",
+    "product_original_price": "$58.80",
+    "unit_price": "$1.57",
+    "unit_count": 31,
+    "minimum_order_quantity": null,
+    "currency": "USD",
+    "country": "US",
+    "product_byline": "Visit the Purina ONE Store",
+    "product_byline_link": "https://www.amazon.com/stores/PurinaONE/page/C262B2FE-1277-4D8E-BC87-DA98858D6F02?lp_asin=B009IOCCD2&ref_=ast_bln",
+    "product_byline_links": [
+      "https://www.amazon.com/stores/PurinaONE/page/C262B2FE-1277-4D8E-BC87-DA98858D6F02?lp_asin=B009IOCCD2&ref_=ast_bln"
+    ],
+    "product_star_rating": "4.6",
+    "product_num_ratings": 34234,
+    "product_url": "https://www.amazon.com/dp/B009IOCCD2",
+    "product_slug": "Purina-ONE-Food-Lamb-Formula",
+    "product_photo": "https://m.media-amazon.com/images/I/71+spRj9JzL._AC_SL1500_.jpg",
+    "product_num_offers": 10,
+    "product_availability": "In Stock",
+    "is_best_seller": false,
+    "is_amazon_choice": false,
+    "is_prime": true,
+    "climate_pledge_friendly": false,
+    "sales_volume": "20K+ bought in past month",
+    "about_product": [
+      "Natural dog food with added vitamins, minerals, and nutrients has a Purina ONE SmartBlend of high-quality ingredients, including quality carbohydrate sources, that helps support dog nutritional needs",
+      "Is Purina ONE good for dogs? Real lamb is the first ingredient in this high protein dog food kibble, helping supply protein for dogs that helps supports strong muscles, including his healthy heart",
+      "This lamb dog food formula supports a microbiome balance and is made with prebiotic fiber for dogs to help maintain your dog's gut health and provide immune support",
+      "Natural sources of glucosamine for dogs support joint health, vitamins A and E promote bright eyes, and omega-6 fatty acids, vitamins and minerals nourish a shiny coat and healthy skin",
+      "Is Purina ONE made in the USA? Our red bag dog food is crafted in Purina-owned, U.S. facilities and has a combo of protein-rich, tender morsels and crunchy bites full of irresistible flavor dogs adore"
+    ],
+    "product_description": "Feed your canine the SmartBlend of high-quality ingredients in Purina ONE Natural Lamb and Rice Formula With Added Vitamins, Minerals and Nutrients dry dog food. What are the ingredients in Purina ONE? Real lamb is the first ingredient in our adult dog food with rice, providing protein for dogs that helps support strong muscles. Plus, this natural dog food includes premium Purina ONE dog food ingredients and added vitamins, minerals and nutrients to provide complete and balanced nutrition for adult dogs. Made with prebiotic fiber, this high protein dry dog food for skin and coat care is also highly digestible and formulated to support a microbiome balance. We add calcium to the crunchy kibble to support his strong teeth, too. Pick up that familiar red bag to see the differences this Purina ONE lamb and rice dog food can make in your dog, and look for the full Purina ONE feeding chart, calories per serving, dog food ingredients list and instructions on changing dog food.",
+    "product_information": {
+      "Item Weight": "31.1 Pounds",
+      "Department": "Food",
+      "Manufacturer": "Nestle Purina Pet",
+      "ASIN": "B009IOCCD2",
+      "Item model number": "00017800149419",
+      "Date First Available": "September 30, 2004",
+      "Item Package Dimensions L x W x H": "25 x 21 x 5 inches",
+      "Item Dimensions  LxWxH": "5.5 x 20 x 24 inches",
+      "Brand Name": "Purina ONE",
+      "Target Audience Keyword": "dog, dogs",
+      "Directions": "Factors, such as a dog's metabolism, breed size, activity level, age and whether the dog is spayed or neutered, will affect the amount of Purina ONE needed to maintain an ideal body condition. The pet experts at Purina have provided the feeding amounts indicated as a starting point. If you find that your dog is losing weight or becomes overweight when fed these amounts, please adjust accordingly. To help your dog maintain an ideal body condition, monitor your dog's weight on a regular basis, making sure that your dog\u2019s ribs are easily felt and the waist is visible when viewed from above. Maintaining an ideal body condition can impact your dog\u2019s lifelong health.",
+      "Model Name": "ONE SMARTBLEND Dog Lamb Ri",
+      "Size": "31.1 Pound (Pack of 1)",
+      "Age Range Description": "Adult",
+      "Number of Items": "1",
+      "Style": "Dry Food",
+      "Breed Recommendation": "All Breed Sizes",
+      "Included Components": "One (1) 31.1 lb. Bag - Purina ONE Natural Dry Dog Food, SmartBlend Lamb & Rice Formula",
+      "Specific Uses for Product": "Active, Coat, Heart, Joints, Stomach"
+    },
+    "rating_distribution": {
+      "1": 4,
+      "2": 0,
+      "3": 4,
+      "4": 10,
+      "5": 82
+    },
+    "product_photos": [
+      "https://m.media-amazon.com/images/I/71+spRj9JzL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/810+5jocBoL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71A02wYWXuL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/31v3AcFwyIL._AC_.jpg",
+      "https://m.media-amazon.com/images/I/71oF1rJgzbL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81RJjJn9KeL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81jxgLE9YSL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Q84G28x7L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81guio4VI7L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81vk+ZSzOxL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71efPI8Rz6L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/715ZdzY+R+L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71cyW+HbzTL._AC_SL1500_.jpg"
+    ],
+    "product_videos": [
+      {
+        "id": "amzn1.vse.video.7efa7a8dbd2342c6a711977521c97cb3",
+        "title": "Purina ONE Dry Dog",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5181d0ac-7a28-4e72-99f5-bb24d41c4543/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61AU4NO-wSL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B009IOCCD2",
+        "parent_asin": "B0CWRWXSKS"
+      },
+      {
+        "id": "amzn1.vse.video.04291a8ac1684e61857fc5cf14ca7912",
+        "title": "Purina One Dry Dog Food - Review",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2aff49d6-db00-4b32-a9fd-610e87f804b6/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/51c7YHa1Q2L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B009IOCCD2",
+        "parent_asin": "B0CWRWXSKS"
+      },
+      {
+        "id": "amzn1.vse.video.0c69623f9f8d40f2affaa54cb47f74ec",
+        "title": "Purina ONE Chicken and Rice Formula Dry Dog Food Review",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/206181c9-cd87-4571-b618-f4b0aaf17575/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61YNwB1W-iL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B009IOCCD2",
+        "parent_asin": "B0CWRWXSKS"
+      },
+      {
+        "id": "amzn1.vse.video.0345c045c4934724bc0c334f44e49102",
+        "title": "Here's why I switched my dog to Purina ONE...",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/75b05eb5-289b-4f78-bead-4075c7ddb59d/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/71wjDQ7fWhL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B009IOCCD2",
+        "parent_asin": "B0CWRWXSKS"
+      },
+      {
+        "id": "amzn1.vse.video.0aed21fac2e94248826b7ceab2e3313a",
+        "title": "Honest Lamb & Rice review- REAL dog mom + 10yr customer!",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/93432b56-c421-4b2d-811c-6659757069e9/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/A1o9c3oud3L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png",
+        "product_asin": "B009IOCCD2",
+        "parent_asin": "B0CWRWXSKS"
+      },
+      {
+        "id": "amzn1.vse.video.01f33d37e6f545089ab86fc90cd89aad",
+        "title": "Watch Dogs Taste Test 3 Popular Dog Foods!",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2262f4d5-dafd-4820-a064-490ce78e1591/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61O39MOXKzL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B009IOCCD2",
+        "parent_asin": "B0CWRWXSKS"
+      }
+    ],
+    "user_uploaded_videos": [],
+    "video_thumbnail": "https://m.media-amazon.com/images/I/61AU4NO-wSL.SX522_.jpg",
+    "has_video": true,
+    "product_details": {
+      "Brand": "Purina ONE",
+      "Flavor": "Lamb &amp; Rice",
+      "Age Range (Description)": "Adult",
+      "Item Form": "Blended, Semi-Moist, Kibble, Crunchy",
+      "Specific Uses For Product": "Active, Coat, Heart, Joints, Stomach"
+    },
+    "customers_say": "Customers find this dog food to be of good quality and excellent value for money, with their pets loving it, particularly appreciating the lamb and chicken pieces. The food receives positive feedback for its taste, with one customer noting the dark tender meaty morsels mixed in, and its health benefits, with one review mentioning it's super healthy for liver function. Customers report that their dogs eat it easily and without digestive issues, with many noting it works wonders for sensitive stomachs. However, some customers report that their dogs became very sick after eating it.",
+    "top_reviews": [
+      {
+        "review_id": "RGJBEO6WWQ311",
+        "review_title": "A Lifesaver for Our Allergy-Prone Pup!",
+        "review_comment": "Purina ONE Lamb and Rice Formula has been an absolute game-changer for our rescue dog, Jake. He has a long list of allergy issues, and after trying so many different foods, this is the only one that truly works for him. No more upset tummy, no more itching\u2014just a happy, healthy pup who actually loves his food! Jake gets so excited at mealtime, and it\u2019s such a relief to know we\u2019re giving him something that\u2019s both safe and delicious. The price is fantastic for the quality, and we love the convenience of the subscription option\u2014it ensures we never run out, which is a huge plus. If your dog has sensitivities or you're just looking for a high-quality, affordable food that dogs genuinely enjoy, I can\u2019t recommend this enough. Thank you, Purina, for keeping our boy healthy and tail-wagging happy!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RGJBEO6WWQ311",
+        "review_author_id": "AHCKQ5QBERVGNARVWUGDFWVELC3A",
+        "review_author": "JR Reviews",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHCKQ5QBERVGNARVWUGDFWVELC3A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/72642173-7c81-428a-904b-c9e9e55335ee._CR0%2C0%2C950%2C950_SX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on July 8, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "6 people found this helpful",
+        "reviewed_product_asin": "B009IOCCD2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Lamb &amp; Rice",
+          "Size": "31.1 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RPFXOF3YJQ6JY",
+        "review_title": "Best price and quality I have found!",
+        "review_comment": "Good stuff - Lowest price I have found especially if you save and subscribe. We have a labradoodle - Seems to have a sensitive stomach and this stuff doesn't mess with him as other brands have in the past. He actually enjoys it.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RPFXOF3YJQ6JY",
+        "review_author_id": "AGPE4ITIWHBO4OZ7MDPCTUPFTWMA",
+        "review_author": "McGinty",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGPE4ITIWHBO4OZ7MDPCTUPFTWMA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 3, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B009IOCCD2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Rice",
+          "Size": "31.1 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2WQY2IBPU9LUN",
+        "review_title": "Little pricey",
+        "review_comment": "Great dog food . It\u2019s a little pricey but works great for my French bulldog",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2WQY2IBPU9LUN",
+        "review_author_id": "AGIE6V64ZMBA7JQSSEAIZYMZPHAA",
+        "review_author": "Meschel",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGIE6V64ZMBA7JQSSEAIZYMZPHAA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 4, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B009IOCCD2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Lamb &amp; Rice",
+          "Size": "8 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3D16BFOVBO7I3",
+        "review_title": "Great Dog Food",
+        "review_comment": "My dogs like this food. It is much cheaper than blue buffalo dog food, and my dogs are just as happy.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3D16BFOVBO7I3",
+        "review_author_id": "AFUJ7TLILUSZ7BWCYLYSK3KDERMA",
+        "review_author": "Ed Mathews",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFUJ7TLILUSZ7BWCYLYSK3KDERMA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 22, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B009IOCCD2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Lamb &amp; Rice",
+          "Size": "31.1 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RL5OQB36DROXA",
+        "review_title": "Very good!",
+        "review_comment": "My dogs are very picky and this seems to be the only brand they will consistently eat. The price is also very good considering everything has gone up quite a bit in the last few years. I only give it a 4 because most places could crest with better ingredients :)",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RL5OQB36DROXA",
+        "review_author_id": "AF4YDPY67WWG7LNAJCNT4O53CYOA",
+        "review_author": "Amy D",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AF4YDPY67WWG7LNAJCNT4O53CYOA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 23, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B009IOCCD2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Lamb &amp; Rice",
+          "Size": "31.1 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RCXYZ43SMIQED",
+        "review_title": "My pitbull loves this",
+        "review_comment": "I switched my girl to this Purina ONE after her vet suggested trying a chicken and rice formula for her sensitive stomach. She was having some digestive issues with her old food and this has made a huge difference. First thing I noticed is she actually gets excited about meal time now. Before she would kind of pick at her food but with this stuff she cleans her bowl every time. The kibble size seems perfect for her too - not too big, not too small. Her stomach issues cleared up within like two weeks of switching. No more weird digestive problems or upset tummies. She seems way more comfortable after eating now. But the biggest change is her coat. It's gotten so shiny and soft since we started this food. People keep commenting on how healthy she looks. Even her energy level seems better, though that could just be because her stomach feels better. The ingredients look good too - real chicken is the first ingredient and I can actually pronounce most of the stuff on the list. No weird fillers or mystery meat byproducts. Price is reasonable for the quality. Not the cheapest dog food out there but way more affordable than some of the boutique brands that cost twice as much. The bag size lasts a good amount of time even though she's a decent sized dog with a good appetite. Easy to store and the bag seals well to keep it fresh. Only minor complaint is that it can be a little dusty when you pour it, but that's pretty typical for dry kibble. Overall really happy with this food. When you find something that works for your dog's health and they actually like eating it, you stick with it. Definitely buying again when this bag runs out. Makes me feel good knowing she's getting good nutrition without breaking the bank.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RCXYZ43SMIQED",
+        "review_author_id": "AEFHPSFGQ7I75OADGXQ7T24E5R4A",
+        "review_author": "jj",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEFHPSFGQ7I75OADGXQ7T24E5R4A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 30, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B009IOCCD2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Rice",
+          "Size": "40 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2XMK3CAMWZUY1",
+        "review_title": "It's what my dogs love the most",
+        "review_comment": "I have multiple dogs in different sizes and ages. The ingredients are quality protein and the chow down at dinner time. They don't have stomach issues and we feel safe feeding them Purina One chicken. Heavy bags are durable and maintain the product well. Recommend this dog food.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2XMK3CAMWZUY1",
+        "review_author_id": "AFPBEIMSWWLAYCPXLO6A5LUVSVAQ",
+        "review_author": "KaCee",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFPBEIMSWWLAYCPXLO6A5LUVSVAQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 27, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B009IOCCD2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Rice",
+          "Size": "40 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1TPL3Y6WRVJSC",
+        "review_title": "Dogs love it!",
+        "review_comment": "Fast shipping! Great quality.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1TPL3Y6WRVJSC",
+        "review_author_id": "AGNJZDKYVWWOQQMRBCV2UYVBS2TQ",
+        "review_author": "Navymom",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGNJZDKYVWWOQQMRBCV2UYVBS2TQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/9c7feb18-c219-442d-9586-cf749e21935b._CR0%2C0%2C500%2C500_SX460_.jpeg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 8, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B009IOCCD2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Rice",
+          "Size": "40 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      }
+    ],
+    "top_reviews_global": [
+      {
+        "review_id": "R7LQ9UP067ODO",
+        "review_title": "Gran calidad",
+        "review_comment": "Los perros lo consumieron con gusto, el sabor les result\u00f3 agradable y se ve cambio en el pelaje, para bien",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R7LQ9UP067ODO",
+        "review_author_id": null,
+        "review_author": "GONZALO SALAS CHACON",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Mexico on January 22, 2021",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B009IOCCD2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Lamb &amp; Rice",
+          "Size": "31.1 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R12MP86MYMY551",
+        "review_title": "Excelente Calidad del Producto",
+        "review_comment": "El producto lleg\u00f3 r\u00e1pido, muy bien empacado, a tiempo. Excelente Calidad!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R12MP86MYMY551",
+        "review_author_id": null,
+        "review_author": "Jose Jesus Jaime Tadeo",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Mexico on July 27, 2020",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B009IOCCD2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Lamb &amp; Rice",
+          "Size": "31.1 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1CVWFC55PCZ0R",
+        "review_title": "One Star",
+        "review_comment": "Scam.",
+        "review_star_rating": "1",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1CVWFC55PCZ0R",
+        "review_author_id": null,
+        "review_author": "Mary Jane",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Canada on August 24, 2017",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "5 people found this helpful",
+        "reviewed_product_asin": "B009IOCCD2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Lamb &amp; Rice",
+          "Size": "40 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      }
+    ],
+    "delivery": "FREE delivery Wednesday, November 5 Or Prime members get FREE delivery Sunday, November 2. Order within 7 hrs 25 mins. Join Prime",
+    "primary_delivery_time": "Wednesday, November 5",
+    "category": {
+      "id": "pets",
+      "name": "Pet Supplies"
+    },
+    "category_path": [
+      {
+        "id": "2619533011",
+        "name": "Pet Supplies",
+        "link": "https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/ref=dp_bc_1?ie=UTF8&node=2619533011"
+      },
+      {
+        "id": "2975312011",
+        "name": "Dogs",
+        "link": "https://www.amazon.com/dogs-supplies-training-beds-collars-grooming/b/ref=dp_bc_2?ie=UTF8&node=2975312011"
+      },
+      {
+        "id": "2975359011",
+        "name": "Food",
+        "link": "https://www.amazon.com/dogs-food-wellness-grain-free/b/ref=dp_bc_3?ie=UTF8&node=2975359011"
+      },
+      {
+        "id": "2975360011",
+        "name": "Dry",
+        "link": "https://www.amazon.com/dry-dog-food/b/ref=dp_bc_4?ie=UTF8&node=2975360011"
+      }
+    ],
+    "product_variations_dimensions": [
+      "flavor",
+      "size"
+    ],
+    "product_variations": {
+      "flavor": [
+        {
+          "asin": "B008MKI7KU",
+          "value": "Chicken & Rice",
+          "is_available": true
+        },
+        {
+          "asin": "B009IOCCD2",
+          "value": "Lamb & Rice",
+          "is_available": true
+        }
+      ],
+      "size": [
+        {
+          "asin": "B07HHN8NSF",
+          "value": "4 Pound (Pack of 4)",
+          "is_available": true
+        },
+        {
+          "asin": "B0000AH3QW",
+          "value": "8 Pound (Pack of 1)",
+          "is_available": true
+        },
+        {
+          "asin": "B009IOCCD2",
+          "value": "31.1 Pound (Pack of 1)",
+          "is_available": true
+        },
+        {
+          "asin": "B01G8JLE0Q",
+          "value": "40 Pound (Pack of 1)",
+          "is_available": true
+        }
+      ]
+    },
+    "all_product_variations": {
+      "B009IOCCD2": {
+        "flavor": "Lamb & Rice",
+        "size": "31.1 Pound (Pack of 1)"
+      },
+      "B0000AH3QW": {
+        "flavor": "Lamb & Rice",
+        "size": "8 Pound (Pack of 1)"
+      },
+      "B07HHN8NSF": {
+        "flavor": "Lamb & Rice",
+        "size": "4 Pound (Pack of 4)"
+      },
+      "B008MKI7KU": {
+        "flavor": "Chicken & Rice",
+        "size": "31.1 Pound (Pack of 1)"
+      },
+      "B01G8JLE0Q": {
+        "flavor": "Lamb & Rice",
+        "size": "40 Pound (Pack of 1)"
+      },
+      "B073PCGRR2": {
+        "flavor": "Chicken & Rice",
+        "size": "40 Pound (Pack of 1)"
+      }
+    },
+    "has_aplus": true,
+    "aplus_images": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/23a8a687-d983-4452-a565-58b56c832d28.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/badc5d0e-1e90-4c54-a4df-f129a14c34cd.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/54846863-079d-4301-9e75-753ee866f4da.jpg"
+    ],
+    "has_brandstory": false,
+    "frequently_bought_together": [
+      {
+        "product_title": "This item:  Purina ONE Dry Dog Food Lamb and Rice Formula - 31.1 lb. Bag",
+        "product_price": "$48.98",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71+spRj9JzL.jpg"
+      },
+      {
+        "product_title": "Milk-Bone Original Dog Treats Biscuits for Medium Dogs, 10 Pound",
+        "product_price": "$14.98",
+        "product_url": "https://www.amazon.com/dp/B000I82DTU",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/81GG7FRSNfL.jpg"
+      },
+      {
+        "product_title": "Milk-Bone MaroSnacks Small Dog Treats With Bone Marrow, 40 Ounce Container",
+        "product_price": "$11.48",
+        "product_url": "https://www.amazon.com/dp/B003PMQMK2",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/81P6Z2vH2-L.jpg"
+      }
+    ],
+    "landing_asin": "B009IOCCD2",
+    "parent_asin": "B0CWRWXSKS"
+  }
+}

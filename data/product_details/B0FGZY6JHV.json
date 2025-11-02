@@ -1,0 +1,128 @@
+{
+  "status": "OK",
+  "request_id": "c1922ce0-beaa-4d18-b53e-3ab31d1c4a4c",
+  "parameters": {
+    "asin": "B0FGZY6JHV",
+    "country": "US",
+    "language": "en_US"
+  },
+  "data": {
+    "asin": "B0FGZY6JHV",
+    "product_title": "KONG Holiday Shakers\u2122 Luvs Santa - for Medium Dogs",
+    "product_price": "9.99",
+    "product_original_price": null,
+    "unit_price": "$9.99",
+    "unit_count": 1,
+    "minimum_order_quantity": null,
+    "currency": "USD",
+    "country": "US",
+    "product_byline": "Visit the KONG Store",
+    "product_byline_link": "https://www.amazon.com/stores/KONG/page/7D6DC828-6EE2-4EA5-B109-8FC70CF44072?is_byline_deeplink=true&deeplink=93BAF70D-F62A-4E10-9ED8-EA0256ACDD59&redirect_store_id=7D6DC828-6EE2-4EA5-B109-8FC70CF44072&lp_asin=B0FGZY6JHV&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto",
+    "product_byline_links": [
+      "https://www.amazon.com/stores/KONG/page/7D6DC828-6EE2-4EA5-B109-8FC70CF44072?is_byline_deeplink=true&deeplink=93BAF70D-F62A-4E10-9ED8-EA0256ACDD59&redirect_store_id=7D6DC828-6EE2-4EA5-B109-8FC70CF44072&lp_asin=B0FGZY6JHV&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    ],
+    "product_star_rating": null,
+    "product_num_ratings": 0,
+    "product_url": "https://www.amazon.com/dp/B0FGZY6JHV",
+    "product_slug": "KONG-Holiday-ShakersTM-Luvs-Santa",
+    "product_photo": "https://m.media-amazon.com/images/I/51tCTFGkzXL._AC_SL1500_.jpg",
+    "product_num_offers": 1,
+    "product_availability": "In Stock",
+    "is_best_seller": false,
+    "is_amazon_choice": false,
+    "is_prime": true,
+    "climate_pledge_friendly": false,
+    "sales_volume": null,
+    "about_product": [
+      "Long body makes shaking more fun",
+      "Squeaker to entice play",
+      "Shaped to fling, fetch and tug",
+      "Designed for light/moderate chewing",
+      "Supervised use only"
+    ],
+    "product_description": "KONG Brand Luvs Shakers Christmas Santa Squeaky Fetch Chew Toy For Dogs\n\nAuthentic and comes Brand New/unused in original manufacturer packaging. \n\nMade for small/medium breed dogs. Designed and tested in USA, but made in China.\n\nProduct Features:\n\nLong body makes shaking more fun\n\nSqueaker to entice play\n\nShaped to fling, fetch and tug\n\nImportant Information:\n\nDesigned for light/moderate chewing\n\nSupervised use only\n\nRemove all packaging\n\nDiscontinue use if damaged",
+    "product_information": {
+      "Item Weight": "0.21 Pounds",
+      "Manufacturer": "KONG",
+      "ASIN": "B0FGZY6JHV",
+      "Date First Available": "July 7, 2025",
+      "Item Package Dimensions L x W x H": "14.57 x 4.65 x 3.15 inches",
+      "Item Dimensions  LxWxH": "6.5 x 3.5 x 2.7 inches",
+      "Brand Name": "KONG",
+      "Target Audience Keyword": "dogs",
+      "Color": "Multicolor",
+      "Number of Items": "1",
+      "Breed Recommendation": "Medium"
+    },
+    "rating_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "product_photos": [
+      "https://m.media-amazon.com/images/I/51tCTFGkzXL._AC_SL1500_.jpg"
+    ],
+    "product_videos": [],
+    "user_uploaded_videos": [],
+    "has_video": false,
+    "product_details": {
+      "Product Dimensions": "6.5 x 3.5 x 2.7 inches; 3.36 ounces",
+      "Date First Available": "July 7, 2025",
+      "Manufacturer": "KONG",
+      "ASIN": "B0FGZY6JHV",
+      "Best Sellers Rank": "#44,841 in Pet Supplies (See Top 100 in Pet Supplies)    #719 in Dog Chew Toys"
+    },
+    "top_reviews": [],
+    "top_reviews_global": [],
+    "delivery": "FREE delivery Saturday, November 1 on orders shipped by Amazon over $35 Or Prime members get FREE delivery Wednesday, October 29. Order within 8 hrs 37 mins. Join Prime",
+    "primary_delivery_time": "Saturday, November 1",
+    "category": {
+      "id": "pets",
+      "name": "Pet Supplies"
+    },
+    "category_path": [
+      {
+        "id": "2619533011",
+        "name": "Pet Supplies",
+        "link": "https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/ref=dp_bc_1?ie=UTF8&node=2619533011"
+      },
+      {
+        "id": "2975312011",
+        "name": "Dogs",
+        "link": "https://www.amazon.com/dogs-supplies-training-beds-collars-grooming/b/ref=dp_bc_2?ie=UTF8&node=2975312011"
+      },
+      {
+        "id": "2975413011",
+        "name": "Toys",
+        "link": "https://www.amazon.com/dogs-toys-gifts-games-plush/b/ref=dp_bc_3?ie=UTF8&node=2975413011"
+      },
+      {
+        "id": "2975415011",
+        "name": "Chew Toys",
+        "link": "https://www.amazon.com/dog-chew-toys/b/ref=dp_bc_4?ie=UTF8&node=2975415011"
+      }
+    ],
+    "product_variations_dimensions": [],
+    "product_variations": [],
+    "all_product_variations": {},
+    "has_aplus": false,
+    "aplus_images": [],
+    "has_brandstory": false,
+    "frequently_bought_together": [
+      {
+        "product_title": "This item:  KONG Holiday Shakers\u2122 Luvs Santa - for Medium Dogs",
+        "product_price": "$9.99",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/51tCTFGkzXL.jpg"
+      },
+      {
+        "product_title": "KONG - Scrunch Knots Raccoon - Internal Knotted Ropes and Minimal Stuffing for Less Mess - For Medium/Large Dogs",
+        "product_price": "$18.89",
+        "product_url": "https://www.amazon.com/dp/B00EAN1OO4",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71lv7liRcnL.jpg"
+      }
+    ],
+    "landing_asin": "B0FGZY6JHV"
+  }
+}

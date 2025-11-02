@@ -1,0 +1,555 @@
+{
+  "status": "OK",
+  "request_id": "23fc3a44-232b-4310-9f79-6e0261d78a3a",
+  "parameters": {
+    "asin": "B0C12TVBV2",
+    "country": "US",
+    "language": "en_US"
+  },
+  "data": {
+    "asin": "B0C12TVBV2",
+    "product_title": "Hill's Science Diet Adult 1-6 Perfect Weight Dry Dog Food, Chicken & Brown Rice, 25 lb. Bag",
+    "product_price": "87.99",
+    "product_original_price": "$94.99",
+    "unit_price": "$3.52",
+    "unit_count": 25,
+    "minimum_order_quantity": null,
+    "currency": "USD",
+    "country": "US",
+    "product_byline": "Visit the Hill's Science Diet Store",
+    "product_byline_link": "https://www.amazon.com/stores/HillsPetNutrition/page/2C03FA0A-DC2B-45C3-AC76-C025ED48AE0D?lp_asin=B0C12TVBV2&ref_=ast_bln",
+    "product_byline_links": [
+      "https://www.amazon.com/stores/HillsPetNutrition/page/2C03FA0A-DC2B-45C3-AC76-C025ED48AE0D?lp_asin=B0C12TVBV2&ref_=ast_bln"
+    ],
+    "product_star_rating": "4.7",
+    "product_num_ratings": 3633,
+    "product_url": "https://www.amazon.com/dp/B0C12TVBV2",
+    "product_slug": "Hills-Science-Diet-Perfect-Chicken",
+    "product_photo": "https://m.media-amazon.com/images/I/814zmvU2PSL._AC_SL1500_.jpg",
+    "product_num_offers": 4,
+    "product_availability": "In Stock",
+    "is_best_seller": false,
+    "is_amazon_choice": false,
+    "is_prime": true,
+    "climate_pledge_friendly": false,
+    "sales_volume": "7K+ bought in past month",
+    "about_product": [
+      "Safe & effective weight loss with visible results within 10 weeks",
+      "Healthy weight maintenance & long lasting weight support",
+      "Lean muscle support",
+      "Made in the USA with global ingredients you can trust",
+      "#1 Veterinarian Recommended"
+    ],
+    "product_description": "Putting your grown dog on a calorie restricted diet can be difficult for you and your canine companion. That's why Hill's Science Diet Perfect Weight Adult Dog Food provides delicious, breakthrough weight management nutrition that your full grown dog can enjoy. With protein for lean muscle maintenance, and clinically proven results in just 10 weeks, this weight control dog food made with natural ingredients is the perfect addition to your adult dog's bowl. This healthy weight dog food is formulated with decades of cutting-edge research to be a great-tasting meal your grown dog can truly enjoy. There\u2019s more to love with the new look of Science Diet. Some of our products also have new names, new kibble shapes & new formulas.",
+    "product_information": {
+      "Item Weight": "25 Pounds",
+      "Manufacturer": "Hill's Pet Nutrition",
+      "ASIN": "B0C12TVBV2",
+      "Item model number": "607827",
+      "Date First Available": "March 31, 2023",
+      "Item Package Dimensions L x W x H": "24.72 x 15.72 x 5.34 inches",
+      "Brand Name": "Hill's Science Diet",
+      "Target Audience Keyword": "dogs",
+      "Directions": "Please see package for complete feeding instructions. Adjust feeding amounts as necessary to maintain optimal weight. If you are unsure, ask your veterinarian. New to this food? Mix increasing amounts of your pet's new food with decreasing amounts of the old food over a 7 day period. Keep fresh water available at all times! Your pet's nutritional needs may change as they age. Ask your vet at every checkup.",
+      "Model Name": "Hill's Science Diet Adult Perfect Weight Chicken Recipe Dry Dog Food, 25 lb bag",
+      "Color": "White",
+      "Size": "25 Pound (Pack of 1)",
+      "Age Range Description": "Adult 1-6",
+      "Number of Items": "1",
+      "Breed Recommendation": "All Breed Sizes",
+      "Specific Uses for Product": "Weight Management Support"
+    },
+    "rating_distribution": {
+      "1": 2,
+      "2": 0,
+      "3": 4,
+      "4": 9,
+      "5": 85
+    },
+    "product_photos": [
+      "https://m.media-amazon.com/images/I/814zmvU2PSL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81cqaN0e1lL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/717D7KaHwcL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81W0jD-V66L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91k-72uRffL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81YEdZbry5L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71TwSmqCKCL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81DJtzf2xuL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71N-a4qCQbL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81JIhNHO7kL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/611jVdYYsnL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/812G2CMrgtL._AC_SL1500_.jpg"
+    ],
+    "product_videos": [
+      {
+        "id": "amzn1.vse.video.0fa73f812d534e93b43528c605413ff4",
+        "title": "Perfect Weight Dog Food",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c4dc6822-6673-43c2-9677-17d4ae9e62a4/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/51jvE1ZUhYL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0C12TVBV2",
+        "parent_asin": "B0CZF9HGYD"
+      },
+      {
+        "id": "amzn1.vse.video.0e0353b8622244c18bfe5e6334c0047b",
+        "title": "Poochini - Science Diet Perfect Weight",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/60496386-0dfa-4569-af94-1605c1dc1578/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/51LakZFAmkL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0C12TVBV2",
+        "parent_asin": "B0CZF9HGYD"
+      },
+      {
+        "id": "amzn1.vse.video.060aa94e4190461f9454993b21c4ddfd",
+        "title": "Dog Food Feeding Transition",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a389ed22-b536-4cbd-b68f-4cf1f8c7a148/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61p2xokhITL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0C12TVBV2",
+        "parent_asin": "B0CZF9HGYD"
+      },
+      {
+        "id": "amzn1.vse.video.0f17dd7b5cd643589f441dff983bab7c",
+        "title": "How To SWITCH Over.- What we do to combat the smell.",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/77c273d2-8899-4bab-b78c-7a8bd0b08e30/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/71SZGbuKYPL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0C12TVBV2",
+        "parent_asin": "B0CZF9HGYD"
+      },
+      {
+        "id": "amzn1.vse.video.0f45277715c84d8f8f027c0b52de8bb7",
+        "title": "HONEST REVIEW- Hills science diet perfect weight",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/55813f6b-20db-4aa9-90c4-a971f9896bc0/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/A1kZDfvUoJL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png",
+        "product_asin": "B0C12TVBV2",
+        "parent_asin": "B0CZF9HGYD"
+      },
+      {
+        "id": "amzn1.vse.video.03291b0c3c994913ad47c5c610d4a0ca",
+        "title": "Kibble that my dog likes",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ab4afd94-cea8-48b4-a4e3-30f33f38f6c5/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/81m+t49V1+L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0C12TVBV2",
+        "parent_asin": "B0CZF9HGYD"
+      },
+      {
+        "id": "amzn1.vse.video.08bee98f45bd41e2a7f41c67315b8acb",
+        "title": "HONEST REVIEW-Science Diet Adult Perfect Weight Dog Food",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a56f0150-192d-458d-9c42-c7fafeae06fa/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/91nxg+qmcKL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0C12TVBV2",
+        "parent_asin": "B0CZF9HGYD"
+      },
+      {
+        "id": "amzn1.vse.video.03c0458b1f9e40e3b3c446d2a194cb69",
+        "title": "#Ad Always love feeding Maple Hills Pet Nutrition",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fcc7d0d1-6cc7-4f60-bfcf-50e3a4b76103/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61UiObNQSpL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0C12TVBV2",
+        "parent_asin": "B0CZF9HGYD"
+      }
+    ],
+    "user_uploaded_videos": [],
+    "video_thumbnail": "https://m.media-amazon.com/images/I/51jvE1ZUhYL.SX522_.jpg",
+    "has_video": true,
+    "product_details": {
+      "Brand": "Hill&#39;s Science Diet",
+      "Flavor": "Chicken &amp; Brown Rice",
+      "Age Range (Description)": "Adult 1-6",
+      "Item Form": "Dry Food",
+      "Specific Uses For Product": "Weight Management Support"
+    },
+    "customers_say": "Customers find this dog food to be of good quality and effective for weight management, particularly for Labrador and Corgi breeds. The food receives positive feedback for its taste and health benefits, with one customer noting improvements in their dog's coat. While some customers report no stomach issues and consider it good value for money, others mention it made their dogs extremely sick and consider it pricey. The size of the bag receives mixed reviews.",
+    "top_reviews": [
+      {
+        "review_id": "R3JSQVE0QDIRCI",
+        "review_title": "Keeps my Dachshund in perfect weight",
+        "review_comment": "Great quality, weight management, cero allergies.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3JSQVE0QDIRCI",
+        "review_author_id": "AEDGRXLO2RYE7OKVM4XHFRVVBYJA",
+        "review_author": "S Gonzalez",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEDGRXLO2RYE7OKVM4XHFRVVBYJA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 19, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0C12TVBV2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "4 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RYJYDRWT7LURK",
+        "review_title": "Weight is under control",
+        "review_comment": "My dog loves this food . Has been eating it for years.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RYJYDRWT7LURK",
+        "review_author_id": "AEOLV62OPQXSLKIKLWUEWVM4D6SQ",
+        "review_author": "Murphy",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEOLV62OPQXSLKIKLWUEWVM4D6SQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 27, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0C12TVBV2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "12 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RCFMEQ4P1RL9W",
+        "review_title": "Has been very helpful for my dog",
+        "review_comment": "I have a miniature Pinscher and she is a lot taller than most min pins. However she has struggled in the past with being just slightly overweight. She also struggled with a case of pancreatitis. With some lifestyle changes things got better. But then all of a sudden we noticed she was having allergic reactions to the dry food we had been feeding her prior which was another weight management food by another brand. When I looked at the bag I realized they had changed their formula and did not advertise it on the bag and it contained one of the ingredients she is allergic to. I was hesitant to go back to hills science diet because she did not like it the very first time we tried it however this time she absolutely loves it. She has been high energy, enjoys the taste ( if she can even taste it she's like a Hoover) and her bowel movements are much better. Purchasing it on Amazon was much cheaper than getting it from the vet. Overall this is a quality dog food that I suggest to anyone whose dog is having health problems as Hill science diet has different types of dry food for all kinds of problems like chronic diarrhea or overall health problems and aging. The ability to start out with a 4 lb bag to see how she would handle it as opposed to a 75 lb bag from my vet is amazing. This also costs much less than big pet store retailers.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RCFMEQ4P1RL9W",
+        "review_author_id": "AHG3IFLTEBLKI5Y62GAXVNHFCHXA",
+        "review_author": "Lazarie",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHG3IFLTEBLKI5Y62GAXVNHFCHXA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on December 5, 2024",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "7 people found this helpful",
+        "reviewed_product_asin": "B0C12TVBV2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "4 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R11LFG2WX0WN9S",
+        "review_title": "Great product to middle to large breeds and for older dogs",
+        "review_comment": "Great product for middle to large breeds and for older dogs. I have a Labradoodle, and she weighs around 47 pounds, so she falls between medium and large. However, this breed tends to be prone to weight gain. So this choice of food was perfect. Since I use it, the vet always comments on how well she is doing with her weight. The ingredients are also good. Friends of mine who prefer to use more natural sources see no difference in their dogs' results compared with mine, and this diet. Coat, weight, etc. When she does #2, the size and texture are just those of a healthy dog. I like to dump it into a canister to keep it dry, but the size of the pellets makes it easy to pick and always have the right measurement for her weight.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R11LFG2WX0WN9S",
+        "review_author_id": "AEZL2DTVAEYO4G6DMZ4S4OG2IWBA",
+        "review_author": "Mauricio E. Giraldo",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEZL2DTVAEYO4G6DMZ4S4OG2IWBA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/064e814f-f08b-4f17-9c47-a36707ccdf5f._CR133%2C0%2C533%2C533_SX460_.jpg",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/715I6Er0lCL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on July 14, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B0C12TVBV2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "4 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2FVAW2R37SE8J",
+        "review_title": "My go to brand and selection",
+        "review_comment": "This is all I\u2019ll use from my dogs. I love them more than most people. If there was something better, I would buy it. I have used this for many many years and find that it is the right combination of caloric intake, nutrition, and quality. I really don\u2019t care what it costs so while there may be cheaper brands out there, I don\u2019t really care. I will stick with this as I\u2019ve discussed it with enough vets who concur that it is the best on the common market.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2FVAW2R37SE8J",
+        "review_author_id": "AFGOMIELERSIJ3IYDF2TYSA3I2ZQ",
+        "review_author": "LAD",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFGOMIELERSIJ3IYDF2TYSA3I2ZQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on August 13, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0C12TVBV2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "25 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RYMEZTGNKM5UR",
+        "review_title": "Science diet",
+        "review_comment": "Good food my dog liked it. Just a little expensive for me.",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RYMEZTGNKM5UR",
+        "review_author_id": "AFSXKYJJZ25OLNP7NOW3AYPDUEVA",
+        "review_author": "meg",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFSXKYJJZ25OLNP7NOW3AYPDUEVA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on June 14, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0C12TVBV2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "4 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1XNPM8L5JR5J7",
+        "review_title": "It works",
+        "review_comment": "This is an update. The weight is coming off. I had taken him off of \u0124ills perfect weight because of what i thought were stomach issues, but he gained almost 20 lbs. In 6 months. After approximately 3 weeks back on, I can see a difference just in the way he looks, and no stomach issues. He was 135 lbs at the vets office and he suggested I put him back on Hills perfect weight as he had gained so much weight. This food does work. He is energetic and is looking like the weight is coming off.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1XNPM8L5JR5J7",
+        "review_author_id": "AG4JD6D2RQ4TLETZV7NX7LONLIPQ",
+        "review_author": "Amazon Customer",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AG4JD6D2RQ4TLETZV7NX7LONLIPQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/91MtFkvw15L.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on August 25, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "2 people found this helpful",
+        "reviewed_product_asin": "B0C12TVBV2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "25 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R22UBWBXSURGIQ",
+        "review_title": "Actually works",
+        "review_comment": "I had tried adding green beans to my lab mix\u2019s regular dog food, decreasing his food intake, and taking short walks to promote weight loss. He had prescriptions for carprofen and glucosamine to help with joint pain. Unfortunately, none of it made a noticeable difference\u2014he remained chunky, lethargic, and in constant discomfort. After switching to Hill's Perfect Weight, everything changed. He finally lost weight and I didn't have to cut the amount of food he was getting. He no longer needs daily pain medication, only taking it occasionally as needed, and his energy has significantly increased. I will warn you, though, the food has a very strong smell!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R22UBWBXSURGIQ",
+        "review_author_id": "AG6FQBXHRG3OAR35PMXAE5CO57IA",
+        "review_author": "Hannah",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AG6FQBXHRG3OAR35PMXAE5CO57IA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on August 21, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B0C12TVBV2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "25 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      }
+    ],
+    "top_reviews_global": [
+      {
+        "review_id": "R21DUMH1SKSIOH",
+        "review_title": "Great diet food for my lab!",
+        "review_comment": "I've had my lab on this food for just over a month. She's slimming down, but not drastically - which means this formula of food has the dogs health at heart. It's a nice, gradual weight loss and she loves the taste of it, which helps too. I'll keep her on this food now and would recommend it.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R21DUMH1SKSIOH",
+        "review_author_id": null,
+        "review_author": "Jessica B",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Canada on June 30, 2024",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0C12TVBV2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "25 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R38PA18D9GP33G",
+        "review_title": "Best sensitive food",
+        "review_comment": "My dogs love this food. It\u2019s gentle on their tummies and maintains their health. It is pricey and i would hope for it to be more affordable but you get what you pay for I guess.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R38PA18D9GP33G",
+        "review_author_id": null,
+        "review_author": "vanitha m.",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in India on February 18, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0C12TVBV2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "4 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3GKKI0V0XXH8D",
+        "review_title": "Love it",
+        "review_comment": "My dog likes it I got the bigger kibbles I have a mini dachshund but he likes these better than the small kibbles",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3GKKI0V0XXH8D",
+        "review_author_id": null,
+        "review_author": "Ev",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Australia on April 8, 2024",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0C12TVBV2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "4 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1G5T6BLBHUZQU",
+        "review_title": "Price",
+        "review_comment": "My Dog loves it",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1G5T6BLBHUZQU",
+        "review_author_id": null,
+        "review_author": "Vic Tytherleigh",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Australia on January 9, 2024",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0C12TVBV2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "4 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R29SIP8U576V8K",
+        "review_title": "Worked after 4 weeks!",
+        "review_comment": "My dog loves the food so much, and she started on loosing weight after 4 weeks. Recommended if you are looking for good quality, healthy food with a decent price!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R29SIP8U576V8K",
+        "review_author_id": null,
+        "review_author": "Kim",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Canada on April 2, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0C12TVBV2",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "25 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      }
+    ],
+    "delivery": "FREE delivery Wednesday, November 5 Or Prime members get FREE delivery Sunday, November 2. Order within 7 hrs 25 mins. Join Prime",
+    "primary_delivery_time": "Wednesday, November 5",
+    "category": {
+      "id": "pets",
+      "name": "Pet Supplies"
+    },
+    "category_path": [
+      {
+        "id": "2619533011",
+        "name": "Pet Supplies",
+        "link": "https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/ref=dp_bc_1?ie=UTF8&node=2619533011"
+      },
+      {
+        "id": "2975312011",
+        "name": "Dogs",
+        "link": "https://www.amazon.com/dogs-supplies-training-beds-collars-grooming/b/ref=dp_bc_2?ie=UTF8&node=2975312011"
+      },
+      {
+        "id": "2975359011",
+        "name": "Food",
+        "link": "https://www.amazon.com/dogs-food-wellness-grain-free/b/ref=dp_bc_3?ie=UTF8&node=2975359011"
+      },
+      {
+        "id": "2975360011",
+        "name": "Dry",
+        "link": "https://www.amazon.com/dry-dog-food/b/ref=dp_bc_4?ie=UTF8&node=2975360011"
+      }
+    ],
+    "product_variations_dimensions": [
+      "flavor",
+      "size"
+    ],
+    "product_variations": {
+      "size": [
+        {
+          "asin": "B00HPZENCO",
+          "value": "4 Pound (Pack of 1)",
+          "is_available": true
+        },
+        {
+          "asin": "B0C12WPNLX",
+          "value": "12 Pound (Pack of 1)",
+          "is_available": true
+        },
+        {
+          "asin": "B0C12TVBV2",
+          "value": "25 Pound (Pack of 1)",
+          "is_available": true
+        }
+      ]
+    },
+    "all_product_variations": {
+      "B00HPZENCO": {
+        "flavor": "Chicken & Brown Rice",
+        "size": "4 Pound (Pack of 1)"
+      },
+      "B0C12TVBV2": {
+        "flavor": "Chicken & Brown Rice",
+        "size": "25 Pound (Pack of 1)"
+      },
+      "B0C12WPNLX": {
+        "flavor": "Chicken & Brown Rice",
+        "size": "12 Pound (Pack of 1)"
+      }
+    },
+    "coupon_text": "Save 20%:  Coupon available when you select",
+    "coupon_discount_percentage": 20,
+    "has_aplus": true,
+    "aplus_images": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/16ada35c-a698-490b-b729-117c77087ee7.jpg"
+    ],
+    "has_brandstory": false,
+    "frequently_bought_together": [
+      {
+        "product_title": "This item:  Hill's Science Diet Adult 1-6 Perfect Weight Dry Dog Food, Chicken & Brown Rice, 25 lb. Bag",
+        "product_price": "$74.99",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/814zmvU2PSL.jpg"
+      },
+      {
+        "product_title": "Hill's Science Diet Perfect Weight, Adult 1-6, Weight Management Support, Wet Dog Food, Chicken & Vegetables Stew, 12.5 oz Can, Case of 12",
+        "product_price": "$50.28",
+        "product_url": "https://www.amazon.com/dp/B01BKECEXU",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71WXfKF4ElL.jpg"
+      },
+      {
+        "product_title": "Hill's Science Diet Perfect Weight, Adult 1-6, Weight Management Support, Small Kibble, Dry Dog Food, Chicken Recipe, 25 lb Bag",
+        "product_price": "$74.95",
+        "product_url": "https://www.amazon.com/dp/B0C12TXNXQ",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/719CThDaGeL.jpg"
+      }
+    ],
+    "landing_asin": "B0C12TVBV2",
+    "parent_asin": "B0CZF9HGYD"
+  }
+}

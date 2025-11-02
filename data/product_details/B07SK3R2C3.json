@@ -1,0 +1,569 @@
+{
+  "status": "OK",
+  "request_id": "405ae5f9-54ba-4a2b-a29d-5e05c56f8575",
+  "parameters": {
+    "asin": "B07SK3R2C3",
+    "country": "US",
+    "language": "en_US"
+  },
+  "data": {
+    "asin": "B07SK3R2C3",
+    "product_title": "Chuckit! Interactive Dog Toy Ultra Fetch Stick - 12 Inch Outdoor Dog Toy for All Breed Sizes",
+    "product_price": "5.19",
+    "product_original_price": "$19.99",
+    "minimum_order_quantity": null,
+    "currency": "USD",
+    "country": "US",
+    "product_byline": "Visit the Chuckit! Store",
+    "product_byline_link": "https://www.amazon.com/stores/Chuckit/page/FC4F3602-3540-4F91-9DCD-6C846E6340C2?is_byline_deeplink=true&deeplink=CB7BF674-45B2-449F-87A3-A6B486440458&redirect_store_id=FC4F3602-3540-4F91-9DCD-6C846E6340C2&lp_asin=B07SK3R2C3&ref_=ast_bln",
+    "product_byline_links": [
+      "https://www.amazon.com/stores/Chuckit/page/FC4F3602-3540-4F91-9DCD-6C846E6340C2?is_byline_deeplink=true&deeplink=CB7BF674-45B2-449F-87A3-A6B486440458&redirect_store_id=FC4F3602-3540-4F91-9DCD-6C846E6340C2&lp_asin=B07SK3R2C3&ref_=ast_bln"
+    ],
+    "product_star_rating": "4.5",
+    "product_num_ratings": 15999,
+    "product_url": "https://www.amazon.com/dp/B07SK3R2C3",
+    "product_slug": "Chuckit-Interactive-Ultra-Fetch-Stick",
+    "product_photo": "https://m.media-amazon.com/images/I/81f+3nxhjZL._AC_SL1500_.jpg",
+    "product_num_offers": 8,
+    "product_availability": "In Stock",
+    "is_best_seller": false,
+    "is_amazon_choice": true,
+    "is_prime": true,
+    "climate_pledge_friendly": false,
+    "sales_volume": "10K+ bought in past month",
+    "about_product": [
+      "HIGH QUALITY DOG TOY: Crafted from tough materials, this dog toy, like the Ultra Ball, makes for long-lasting interactive play for energetic fetch games with your dog.",
+      "EASY HANDLING: This Chuckit! dog toys fetch stick pairs with the Chuckit! RingChaser Launcher for easy pick-up and effortless throwing, keeping your hands slobber-free during playtime",
+      "VISIBLE AND VIBRANT: Designed with bright colors for high visibility, this dog stick toy reduces the risk of losing sight of the toy.",
+      "SUITABLE FOR ALL DOGS: Measuring 12 inches, this long dog toy fits dogs of all sizes, from pups to adults, providing a gentle fetch experience. It is not intended as a chew toy or for aggressive chewers.",
+      "ENHANCED BONDING: With Chuckit!'s design and vibrant colors, each session with these interactive dog toys elevates each adventure"
+    ],
+    "product_description": "Introducing the Chuckit! Ultra Fetch Stick, a favorite among dog toys crafted from high-quality materials like our esteemed Chuckit! Ultra Ball. Vibrant colors ensure these tough dog toys remain visible, minimizing loss during energetic escapades. Whether you're looking for stimulating dog toys or unique dog toys, the Ultra Fetch Stick accommodates dogs of all sizes from small dog toys for small breeds to big dog toys for large dogs. The compatibility with the Chuckit RingChaser Launcher ensures that pickup is slobber-free. Although these outdoor dog toys are strong, they aren\u2019t intended for use as chew toys or for aggressive chewers. Dive into fun with Chuckit!, where each toy helps to provide fun with your furry friend.",
+    "product_information": {
+      "Item Weight": "4.48 ounces",
+      "Department": "Pets",
+      "Manufacturer": "Dosckocil Manufacturing",
+      "ASIN": "B07SK3R2C3",
+      "Item model number": "52088",
+      "Date First Available": "May 29, 2019",
+      "Item Package Dimensions L x W x H": "12.01 x 3.27 x 1.65 inches",
+      "Item Dimensions  LxWxH": "12 x 1.08 x 1.08 inches",
+      "Brand Name": "Chuckit!",
+      "Target Audience Keyword": "dogs",
+      "Model Name": "Fetch Stick",
+      "Color": "Assorted colors",
+      "Size": "Pack of 1",
+      "Material": "Natural Rubber",
+      "Age Range Description": "All Life Stages",
+      "Number of Items": "1",
+      "Style": "Ultra Fetch",
+      "Breed Recommendation": "All Breed Sizes",
+      "Specific Uses for Product": "Active"
+    },
+    "rating_distribution": {
+      "1": 4,
+      "2": 2,
+      "3": 7,
+      "4": 11,
+      "5": 76
+    },
+    "product_photos": [
+      "https://m.media-amazon.com/images/I/81f+3nxhjZL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71+z3bQWuXL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/8132yKSGdIL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71X4WZnCgiL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61tAXzM9QML._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61DMb8kEGKL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81jFjvpyZSL._AC_SL1500_.jpg"
+    ],
+    "product_videos": [
+      {
+        "id": "amzn1.vse.video.0deae2a8812e408db232a6359384414d",
+        "title": "A  Closer Look",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fd956bd1-7704-428a-8be1-25dfb73f6cb2/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/51nIa45HrxL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B07SK3R2C3",
+        "parent_asin": "B0DJM8S653"
+      },
+      {
+        "id": "amzn1.vse.video.0dce18a75458484eaf5df19d0fa196bd",
+        "title": "Our furry friend loves his new Chuckit.",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/61061cd3-fd3f-4c49-bf0d-4f9ec901db56/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61Q+CtIjWzL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B07SK3R2C3",
+        "parent_asin": "B0DJM8S653"
+      },
+      {
+        "id": "amzn1.vse.video.0250a06b1da64632b8d3b0a4fdc19f13",
+        "title": "If your dog loves chuck it balls watch this!",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0a4838b7-4785-4c70-8432-32fe5a3506e5/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61KxYLzttWL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B07SK3R2C3",
+        "parent_asin": "B0DJM8S653"
+      },
+      {
+        "id": "amzn1.vse.video.072b3694596e4cad9d0a03407d973a69",
+        "title": "She's Not So Much A Fetch Girl As A Keep Away Girl",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/430f27e0-5230-4c67-92fa-463069b799f8/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/513zKqWfB1L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B07SK3R2C3",
+        "parent_asin": "B0DJM8S653"
+      },
+      {
+        "id": "amzn1.vse.video.049203f96ae8426786dbdfd6b9a75d0d",
+        "title": "Chuckit! Ultra Fetch Stick, Durable and Visible Dog Toy",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e46690ae-d98f-4843-a5b5-8753336db053/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/A15ksW-kx9L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B07SK3R2C3",
+        "parent_asin": "B0DJM8S653"
+      },
+      {
+        "id": "amzn1.vse.video.0e334066b9c647bd961e70c1a5db74d3",
+        "title": "Dog Fetch Stick Review",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c4a26621-70a1-4d51-a722-e8d476283552/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/A1t7yCgT+rL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B07SK3R2C3",
+        "parent_asin": "B0DJM8S653"
+      }
+    ],
+    "user_uploaded_videos": [],
+    "video_thumbnail": "https://m.media-amazon.com/images/I/51nIa45HrxL.SX522_.jpg",
+    "has_video": true,
+    "product_details": {
+      "Is Discontinued By Manufacturer": "No",
+      "Product Dimensions": "12 x 1.08 x 1.08 inches; 4.48 ounces",
+      "Item model number": "52088",
+      "Department": "Pets",
+      "Date First Available": "May 29, 2019",
+      "Manufacturer": "Dosckocil Manufacturing",
+      "ASIN": "B07SK3R2C3",
+      "Best Sellers Rank": "#648 in Pet Supplies (See Top 100 in Pet Supplies)    #21 in Dog Toys",
+      "Customer Reviews": "4.5             4.5 out of 5 stars          \n\n                          15,999 ratings"
+    },
+    "customers_say": "Customers find this dog toy durable and sturdy, particularly suitable for aggressive chewers, with one noting it's tough enough for gnawing. The toy receives positive feedback for fetch and tug-of-war activities, and customers say it keeps their dogs entertained for endless hours. While customers consider it worth the price, they note it doesn't float at all.",
+    "top_reviews": [
+      {
+        "review_id": "R1JWN969GYIK0S",
+        "review_title": "Durable Fun That Keeps My Dog Moving",
+        "review_comment": "The Chuckit! Ultra Fetch Stick is a fantastic toy for active dogs. It\u2019s tough enough to withstand heavy chewing and rough play, yet lightweight and easy to throw. My dog loves chasing it across the yard, and it\u2019s great for water play too\u2014it floats! The bright color makes it easy to spot, and the material is gentle on teeth. It\u2019s become a staple in our daily fetch routine. If your pup loves to play, this stick delivers endless fun.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1JWN969GYIK0S",
+        "review_author_id": "AFIVQPQKB6LRTV5TIOQSK5FBAG2A",
+        "review_author": "Dazzza",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFIVQPQKB6LRTV5TIOQSK5FBAG2A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/2e850f22-697c-4ce2-b9b0-53afc9b84a12._CR0%2C0%2C500%2C500_SX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 8, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B07SK3R2C3",
+        "reviewed_product_variant": {
+          "Style": "Ultra Fetch",
+          "Size": "Pack of 1"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1FH8BRWXPA0PG",
+        "review_title": "Great toy for the pups!!!",
+        "review_comment": "I have bought this toy on three different occasions in the past year for my hyperactive black lab puppy and he loves it. My other dog who is older age 6 lives it as well as the rubber is gentler on her teeth. They even play tug of war and aggressively chew and it holds up! It\u2019s also a very good fetch stick for playing fetch. It\u2019s flexible and smells of clean rubber. It\u2019s about 9 or 10 inch\u2019s long and smaller than a silver dollar in diameter pretty light for its size. Has a nice bounce to it as well when throwing or even just tossing.Also Amazon has had the best price for this toy so far, coming in at about 5 dollars cheaper than some retail pet stores. 10 out of 10 I definitely recommend!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1FH8BRWXPA0PG",
+        "review_author_id": "AFNKOJJXKKP5MYGC6CXRQQPUPVKQ",
+        "review_author": "Sadiej",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFNKOJJXKKP5MYGC6CXRQQPUPVKQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 27, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B07SK3R2C3",
+        "reviewed_product_variant": {
+          "Style": "Ultra Fetch",
+          "Size": "Pack of 1"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R12SHPBMP0QIS4",
+        "review_title": "Best dog toy ever!",
+        "review_comment": "This stick is AMAZING! My mini Aussiedoodle chews through even the hardest and toughest dog toys and this one has lasted the longest by far. She hasn\u2019t been able to destroy it or even take any chunks out. It\u2019s great for playing fetch, keeping her busy by chewing for hours, and is basically indestructible. I\u2019ve bought several to have around the house to keep her occupied. Highly highly recommend. It\u2019s perfect.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R12SHPBMP0QIS4",
+        "review_author_id": "AFNX5IDIQPFOQDI6CRQ2CIKPVSYQ",
+        "review_author": "Aundrea",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFNX5IDIQPFOQDI6CRQ2CIKPVSYQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 16, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B07SK3R2C3",
+        "reviewed_product_variant": {
+          "Style": "Ultra Fetch",
+          "Size": "Pack of 1"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1PF5LUTH7EWO3",
+        "review_title": "Wish it also floated",
+        "review_comment": "This fetch stick is great and my puppy loves it. I love that it doesn't squeak. She is currently teething and this shows no sign of wear yet. She is a lab and loves retrieving so this is perfect. It was too big for her when we first purchased it, but it didn't stop her from trying to carry it around. The only thing that would make it perfect were if it would float so we could use it at the lake, but unfortunately, it does not.",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1PF5LUTH7EWO3",
+        "review_author_id": "AELCJ4U2CQR75OIL442IOF76UZEQ",
+        "review_author": "sec682",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AELCJ4U2CQR75OIL442IOF76UZEQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/911B8Q2ZMaL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on July 21, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "4 people found this helpful",
+        "reviewed_product_asin": "B07SK3R2C3",
+        "reviewed_product_variant": {
+          "Style": "Ultra Fetch",
+          "Size": "Pack of 1"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2ABLE3LSYWPKQ",
+        "review_title": "Best dog toy for a retriever and heavy chewer",
+        "review_comment": "My pitbull is the best retriever :) She loves to chase after things. But she's also a chewer. This means anything she loves gets destroyed in a day or so. This is our solution! It is on repeat in my Amazon cart (more so because she loses them). Super lightweight (so easy to throw) but heavy enough for a weak arm like me to get some good distance. It bounces! Our pittie loves this as it surprises her by veering in a different direction. It is bright orange so way easier to find in long grass after the pittie gets distracted by an animal. And it is sturdy. She can chew on it for weeks. However, once she gets a little piece gnawed off, that's my sign to order a replacement (I usually have another week or so before the original one is demolished). And you can't beat the price! Great investment as it lasts for months.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2ABLE3LSYWPKQ",
+        "review_author_id": "AEJF2SBYNCUO26ISRB5FTK5YNG4Q",
+        "review_author": "Kiwidoig",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEJF2SBYNCUO26ISRB5FTK5YNG4Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on May 21, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "14 people found this helpful",
+        "reviewed_product_asin": "B07SK3R2C3",
+        "reviewed_product_variant": {
+          "Style": "Ultra Fetch",
+          "Size": "Pack of 1"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R37DBGMAFH53EI",
+        "review_title": "Great fetch toy",
+        "review_comment": "I've bought this several times for friends pups. It's a great, sturdy, fetch stick. It's very affordable & Chuckit! is a trusted brand. Even if your dog chews it, it will withstand strong teeth. If your dog likes playing fetch, they will love this toy.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R37DBGMAFH53EI",
+        "review_author_id": "AELRLHRZZN4OGNQP4OCCND4T3QWA",
+        "review_author": "barbdwyer",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AELRLHRZZN4OGNQP4OCCND4T3QWA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/87007934-9da4-4580-a6ad-55634ec9481b._CR0%2C0%2C375%2C375_UX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 20, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B07SK3R2C3",
+        "reviewed_product_variant": {
+          "Style": "Ultra Fetch",
+          "Size": "Pack of 1"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RZAUUIOQ5RBKE",
+        "review_title": "Misleading company customer beware",
+        "review_comment": "DOES NOT FLOAT Pictures are misleading, the black Lab coming out of the water is misleading. It gives you the impression you can throw chuck-it into the water. IT DOES NOT FLOAT. IT WILL SINK TO THE BOTTOM OF ANY WATER WAY. Unfortunately the disription DOES NOT clearly say that, which it should. Durability is great, my dogs love to play fetch so it works well for that. I would give more stars if they just would of made clear it does not float. Misleading customers is not a good way to do business especially in today's market. I'd would not recommend this product find a company that cares enough about customers that they are honest and upfront with us.",
+        "review_star_rating": "3",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RZAUUIOQ5RBKE",
+        "review_author_id": "AFKP3MGD6P4G5RBDDKLGI72OPQBA",
+        "review_author": "What can Brown do for you",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFKP3MGD6P4G5RBDDKLGI72OPQBA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 3, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "3 people found this helpful",
+        "reviewed_product_asin": "B07SK3R2C3",
+        "reviewed_product_variant": {
+          "Style": "Ultra Fetch",
+          "Size": "Pack of 1"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R348H1L22HTAR9",
+        "review_title": "Great dog toy",
+        "review_comment": "Love these great toy. Very rubbery and bounces when u throw them. Very good size and very durable. Dog can\u2019t chew thru them. Great toy if u have a dog tgg he eat like sticks but eats the wood on real ones this is a great replacement for them.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R348H1L22HTAR9",
+        "review_author_id": "AFXFU2N3O7IZ7VXOSRH22NI7R72Q",
+        "review_author": "Jen ",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFXFU2N3O7IZ7VXOSRH22NI7R72Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on August 13, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B07SK3R2C3",
+        "reviewed_product_variant": {
+          "Style": "Ultra Fetch",
+          "Size": "Pack of 1"
+        },
+        "is_vine": false
+      }
+    ],
+    "top_reviews_global": [
+      {
+        "review_id": "R1HQYU11NST9U",
+        "review_title": "\u00dcr\u00fcn guzel",
+        "review_comment": "\u00c7ok g\u00fczel lakin belcika malonois i\u00e7in uygun de\u011fil an\u0131nda par\u00e7alad\u0131.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1HQYU11NST9U",
+        "review_author_id": null,
+        "review_author": "Esin",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Turkey on August 28, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B07SK3R2C3",
+        "reviewed_product_variant": {
+          "Style": "Ultra Fetch",
+          "Size": "Pack of 1"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1ODUMSP63AOHF",
+        "review_title": "Suave y para morder o lanzar",
+        "review_comment": "C\u00f3mprenlo! Le encanta, es suave y resistente",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1ODUMSP63AOHF",
+        "review_author_id": null,
+        "review_author": "CAROLINA FAVELA",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/61DTnNTbjUL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in Mexico on October 4, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B07SK3R2C3",
+        "reviewed_product_variant": {
+          "Style": "Ultra Fetch",
+          "Size": "Pack of 1"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R212ZTID54YS2L",
+        "review_title": "D'une r\u00e9sistance \u00e0 toute \u00e9preuve",
+        "review_comment": "Est-il vraiment indestructible ? Notre chienne Malinois de 9 mois maintenant l'adore ! Apr\u00e8s des mois d'uilisation intensive, le b\u00e2ton n'a pas boug\u00e9 d'une iota malgr\u00e9 la puissance de la m\u00e2choire de notre belle qui d\u00e9truit pourtant la majorit\u00e9 des jouets en quelques minutes / heures / jours. J'en ai achet\u00e9 un deuxi\u00e8me pour parer \u00e0 toute perte \u00e9ventuelle tant elle serait triste sans son b\u00e2ton.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R212ZTID54YS2L",
+        "review_author_id": null,
+        "review_author": "Valky",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/b1ecd119-f6ca-4a49-84ef-878e52c75069._CR0%2C0%2C500%2C500_SX460_.jpg",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/81ULD5qNUXL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in France on August 23, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B07SK3R2C3",
+        "reviewed_product_variant": {
+          "Style": "Ultra Fetch",
+          "Size": "Pack of 1"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2BBWZANWIDXCB",
+        "review_title": "Robust und gut",
+        "review_comment": "Ich und meine H\u00fcndin sind sehr gl\u00fccklich damit, meine H\u00fcndin spielt gerne mit dem St\u00f6ckchen und hatte sich damit dann manchmal verletzt am Maul deswegen habe ich mir diese Alternative gekauft und es im Grunde genau das gleiche wie mit einem nat\u00fcrlich St\u00f6ckchen nur ohne blutiges Maul beim Versuch es zu zerkauen. Aber jeder Hund ist nat\u00fcrlich anders.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2BBWZANWIDXCB",
+        "review_author_id": null,
+        "review_author": "Vanessa",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Germany on May 17, 2024",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B07SK3R2C3",
+        "reviewed_product_variant": {
+          "Style": "Max Glow",
+          "Size": "Pack of 1"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2G4RBA0WUQ0Q",
+        "review_title": "\u3044\u3044\u3093\u3060\u3051\u3069",
+        "review_comment": "\u7d30\u8eab\u306a\u306e\u3067\u4e2d\u578b\u72ac\u3067\u3082\u54a5\u3048\u3089\u308c\u308b\u3068\u601d\u3044\u307e\u3059\u3002\u305f\u3060\u6c34\u306b\u6d6e\u304b\u306a\u3044\u3002\u30a6\u30c1\u306f\u6d77\u3084\u5ddd\u3084\u30d7\u30fc\u30eb\u3067\u30d5\u30a7\u30c3\u30c1\u3059\u308b\u306e\u3067\u6b8b\u5ff5\u3002",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2G4RBA0WUQ0Q",
+        "review_author_id": null,
+        "review_author": "\u3057\u308d\u3042\u3093\u3071\u3093",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/76559e9d-5aed-49b6-8f7d-34d1094a7cba._CR58%2C0%2C384%2C384_SX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Japan on September 1, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B07SK3R2C3",
+        "reviewed_product_variant": {
+          "Style": "Ultra Fetch",
+          "Size": "Pack of 1"
+        },
+        "is_vine": false
+      }
+    ],
+    "delivery": "FREE delivery Saturday, November 1 on orders shipped by Amazon over $35 Or Prime members get FREE delivery Wednesday, October 29. Order within 8 hrs 36 mins. Join Prime",
+    "primary_delivery_time": "Saturday, November 1",
+    "category": {
+      "id": "pets",
+      "name": "Pet Supplies"
+    },
+    "category_path": [
+      {
+        "id": "2619533011",
+        "name": "Pet Supplies",
+        "link": "https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/ref=dp_bc_1?ie=UTF8&node=2619533011"
+      },
+      {
+        "id": "2975312011",
+        "name": "Dogs",
+        "link": "https://www.amazon.com/dogs-supplies-training-beds-collars-grooming/b/ref=dp_bc_2?ie=UTF8&node=2975312011"
+      },
+      {
+        "id": "2975413011",
+        "name": "Toys",
+        "link": "https://www.amazon.com/dogs-toys-gifts-games-plush/b/ref=dp_bc_3?ie=UTF8&node=2975413011"
+      }
+    ],
+    "product_variations_dimensions": [
+      "style",
+      "size"
+    ],
+    "product_variations": {
+      "style": [
+        {
+          "asin": "B0DQVL3FQ3",
+          "value": "Bacon",
+          "is_available": true
+        },
+        {
+          "asin": "B0F9ZTHHJC",
+          "value": "Day n Night",
+          "is_available": false
+        },
+        {
+          "asin": "B0BH913L43",
+          "value": "Max Glow",
+          "is_available": true
+        },
+        {
+          "asin": "B0DQVJCP1M",
+          "value": "Peanut Butter",
+          "is_available": true
+        },
+        {
+          "asin": "B07SK3R2C3",
+          "value": "Ultra Fetch",
+          "is_available": true
+        }
+      ],
+      "size": [
+        {
+          "asin": "B07SK3R2C3",
+          "value": "Pack of 1",
+          "is_available": true
+        },
+        {
+          "asin": "B0FBZLH87J",
+          "value": "Pack of 2",
+          "is_available": true
+        }
+      ]
+    },
+    "all_product_variations": {
+      "B0DQVL3FQ3": {
+        "style": "Bacon",
+        "size": "Pack of 1"
+      },
+      "B0BH913L43": {
+        "style": "Max Glow",
+        "size": "Pack of 1"
+      },
+      "B0DQVJCP1M": {
+        "style": "Peanut Butter",
+        "size": "Pack of 1"
+      },
+      "B07SK3R2C3": {
+        "style": "Ultra Fetch",
+        "size": "Pack of 1"
+      },
+      "B0FBZLH87J": {
+        "style": "Ultra Fetch",
+        "size": "Pack of 2"
+      },
+      "B0F9ZTHHJC": {
+        "style": "Day n Night",
+        "size": "Pack of 2"
+      }
+    },
+    "coupon_code": "284E7F72",
+    "has_aplus": true,
+    "aplus_images": [
+      "https://m.media-amazon.com/images/S/aplus-media/vc/391a4d00-c78f-4d56-b097-87245570b385.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/a6ab94fe-6026-4fff-ae5d-4610fc9045cd.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/967ebc32-0bbf-4bbd-b677-336a88d1cc48.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/da26295f-0e0b-4b78-8a5e-1fff017ddc68.png"
+    ],
+    "has_brandstory": true,
+    "frequently_bought_together": [
+      {
+        "product_title": "This item:  Chuckit! Interactive Dog Toy Ultra Fetch Stick - 12 Inch Outdoor Dog Toy for All Breed Sizes",
+        "product_price": "$5.19",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/81f+3nxhjZL.jpg"
+      },
+      {
+        "product_title": "Chuckit! Ultra Ball Dog Toy - Medium Bouncy Fetch Balls For Dogs 20-60 lbs - Made from Durable Rubber - Floating Water Pet Toys - Size Medium - 2.5-inch Diameter - Pack of 2",
+        "product_price": "$5.59",
+        "product_url": "https://www.amazon.com/dp/B000F4AVPA",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/714HUsBpO+L.jpg"
+      },
+      {
+        "product_title": "Chuckit! Ultra Tug Dog Toy, Medium Fetch and Dog Ball Tug Toy for Dogs 20-60 Pounds",
+        "product_price": "$5.56",
+        "product_url": "https://www.amazon.com/dp/B008APMKO6",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71cmqqsfpvL.jpg"
+      }
+    ],
+    "landing_asin": "B07SK3R2C3",
+    "parent_asin": "B0DJM8S653"
+  }
+}

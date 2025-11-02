@@ -1,0 +1,527 @@
+{
+  "status": "OK",
+  "request_id": "b40ec576-8dd2-4b61-8271-2829d9012393",
+  "parameters": {
+    "asin": "B006JCUGVQ",
+    "country": "US",
+    "language": "en_US"
+  },
+  "data": {
+    "asin": "B006JCUGVQ",
+    "product_title": "Purina ONE Chicken and Rice Formula Dry Dog Food - 16.5 lb. Bag",
+    "product_price": "30.28",
+    "product_original_price": "$33.31",
+    "unit_price": "$1.84",
+    "unit_count": 16,
+    "minimum_order_quantity": null,
+    "currency": "USD",
+    "country": "US",
+    "product_byline": "Visit the Purina ONE Store",
+    "product_byline_link": "https://www.amazon.com/stores/PurinaONE/page/C262B2FE-1277-4D8E-BC87-DA98858D6F02?lp_asin=B006JCUGVQ&ref_=ast_bln",
+    "product_byline_links": [
+      "https://www.amazon.com/stores/PurinaONE/page/C262B2FE-1277-4D8E-BC87-DA98858D6F02?lp_asin=B006JCUGVQ&ref_=ast_bln"
+    ],
+    "product_star_rating": "4.7",
+    "product_num_ratings": 10254,
+    "product_url": "https://www.amazon.com/dp/B006JCUGVQ",
+    "product_slug": "Purina-Smartblend-Natural-Chicken-Formula",
+    "product_photo": "https://m.media-amazon.com/images/I/71EGdA+FpuL._AC_SL1500_.jpg",
+    "product_num_offers": 16,
+    "product_availability": "In Stock",
+    "is_best_seller": false,
+    "is_amazon_choice": false,
+    "is_prime": true,
+    "climate_pledge_friendly": false,
+    "sales_volume": "10K+ bought in past month",
+    "about_product": [
+      "Purina ONE chicken and rice dog food offers a microbiome balance and a SmartBlend of high-quality ingredients, including prebiotic fiber for dogs, to help your pal live up to his full potential",
+      "With real chicken as the first ingredient, this high quality dog food supports your dog's strong muscles, including his healthy heart, and has high-quality carbohydrate sources for healthy energy",
+      "This high protein dry dog food for skin and coat care is highly digestible and has omega-6 fatty acids, vitamins and minerals, plus four antioxidant sources for a strong immune system",
+      "Is Purina ONE good for dogs? Purina red bag dog food provides 100 percent complete and balanced nutrition for adult dogs and features natural glucosamine sources to promote joint health for dogs",
+      "Is Purina ONE made in the USA? This digestive care dog food with glucosamine for dogs blends crunchy bites and tender, meaty morsels for extra yum and is crafted in Purina-owned, U.S. facilities"
+    ],
+    "product_description": "Serve meals inspired by the science of nature when you pick up that familiar red bag of Purina ONE Natural Chicken and Rice Formula With Added Vitamins, Minerals and Nutrients adult dog food. What are the ingredients in Purina ONE? We choose our SmartBlend of Purina ONE dog food ingredients for a purpose. The high protein dog food features high-quality sources of protein for dogs, such as real chicken as the first ingredient, to help support strong muscles, including a healthy heart. With 100 percent nutrition and 0 percent fillers, this natural dog food has the added vitamins, minerals and nutrients adult dogs need. Plus, the adult dog food includes prebiotic fiber for gut health and immune support and vitamins A and E to support bright eyes. With added calcium, the crunchy dog food kibble helps support strong teeth, too. Check out the Purina ONE chicken dog food bag for the Purina ONE feeding chart, calories per serving, dog food ingredients list and instructions on changing dog food.",
+    "product_information": {
+      "Item Weight": "16.5 Pounds",
+      "Department": "Food",
+      "Manufacturer": "Nestle Purina Pet",
+      "ASIN": "B006JCUGVQ",
+      "Item model number": "178546",
+      "Date First Available": "September 29, 2011",
+      "Item Package Dimensions L x W x H": "24 x 15 x 4 inches",
+      "Item Dimensions  LxWxH": "23 x 15.75 x 4.5 inches",
+      "Brand Name": "Purina ONE",
+      "Target Audience Keyword": "dogs",
+      "Directions": "Please see product packaging for details.",
+      "Warranty Description": "See the Difference Guaranteed. We're so sure you'll see a healthy difference in your dog, we're offering a money-back guarantee. If this product has not met your expectations, we will gladly refund your purchase price. Cut out the \"Best If Used By\" date box and weight circle from this bag. Send within 60 days of date on receipt along with your original purchase receipt with the price circled, a brief explanation of why you were dissatisfied with the product, and your name and street address (P.O. Box not accepted) to: Satisfaction Guarantee, PO Box 1326, Wilkes Barre, PA 18703. Offer good only in USA, APOs and FPOs.",
+      "Model Name": "ONE Dog Chkn Ri",
+      "Size": "16.5 Pound (Pack of 1)",
+      "Age Range Description": "Adult",
+      "Number of Items": "1",
+      "Style": "Chicken & Rice Formula",
+      "Breed Recommendation": "All Breed Sizes",
+      "Included Components": "One (1) 16.5 lb. Bag - Purina ONE Natural Dry Dog Food, SmartBlend Chicken & Rice Formula",
+      "Specific Uses for Product": "Active, Coat, Heart, Joints, Stomach"
+    },
+    "rating_distribution": {
+      "1": 2,
+      "2": 0,
+      "3": 4,
+      "4": 10,
+      "5": 84
+    },
+    "product_photos": [
+      "https://m.media-amazon.com/images/I/71EGdA+FpuL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81kdencbmXL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91DygjggpHL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/31BVz98wj-L._AC_.jpg",
+      "https://m.media-amazon.com/images/I/818XOtW+vGL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91OeDitrKtL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/816VAC8vFOL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Jl6lLt1UL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81T4xN29RuL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/818sWHoGUQL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71efPI8Rz6L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/715ZdzY+R+L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71cyW+HbzTL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91OeDitrKtL._AC_SL1500_.jpg"
+    ],
+    "product_videos": [
+      {
+        "id": "amzn1.vse.video.7efa7a8dbd2342c6a711977521c97cb3",
+        "title": "Purina ONE Dry Dog",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5181d0ac-7a28-4e72-99f5-bb24d41c4543/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61AU4NO-wSL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B006JCUGVQ",
+        "parent_asin": "B0CWRYFCWJ"
+      },
+      {
+        "id": "amzn1.vse.video.02c20481d42645dea6cbb07e64af1c19",
+        "title": "REAL Chicken - Purina ONE Chicken and Rice Dry Dog Food",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5d872562-bba5-41f6-91ec-f1b6194ba059/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/A1JaICLMdJL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png",
+        "product_asin": "B006JCUGVQ",
+        "parent_asin": "B0CWRYFCWJ"
+      },
+      {
+        "id": "amzn1.vse.video.09452dbdebe843a69437f98a1f037e19",
+        "title": "Honest Review of Purina ONE Natural Dog Food Chicken & Rice",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c6a2463a-2101-467f-a5e1-514cb87d0aaf/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/B1XW+IqXF6L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png",
+        "product_asin": "B006JCUGVQ",
+        "parent_asin": "B0CWRYFCWJ"
+      },
+      {
+        "id": "amzn1.vse.video.0cc18baefc004a6e9eb10e010e51fccc",
+        "title": "I TESTED THIS WITH 30+ PUPPIES. Purina dry dog food",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/03e8fd24-fe38-479b-af27-1e3e4ae188a0/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61innO8jZ5L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B006JCUGVQ",
+        "parent_asin": "B0CWRYFCWJ"
+      },
+      {
+        "id": "amzn1.vse.video.07919c14fab64c58b1292cb60894cd9e",
+        "title": "PUPPIES TEST IT OUT. Purina ONE Dry Dog Food",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c1d7f1bb-81a0-4c47-81c8-bec8c2a286b9/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61BO20j9LKL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B006JCUGVQ",
+        "parent_asin": "B0CWRYFCWJ"
+      },
+      {
+        "id": "amzn1.vse.video.05fccd0b53454154afee1fe29bcee9b2",
+        "title": "Feed your pup the best!",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9dbab6f2-1d13-4a83-a2da-57b4bd279496/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61zExojQ0IL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B006JCUGVQ",
+        "parent_asin": "B0CWRYFCWJ"
+      }
+    ],
+    "user_uploaded_videos": [],
+    "video_thumbnail": "https://m.media-amazon.com/images/I/61AU4NO-wSL.SX522_.jpg",
+    "has_video": true,
+    "product_details": {
+      "Brand": "Purina ONE",
+      "Flavor": "Chicken &amp; Rice",
+      "Age Range (Description)": "Adult",
+      "Item Form": "Pellet",
+      "Specific Uses For Product": "Active, Coat, Heart, Joints, Stomach"
+    },
+    "customers_say": "Customers find this dog food to be of good quality and value, particularly noting it's cost-effective for feeding multiple dogs. The food receives positive feedback for its taste, chicken content, and health benefits, with customers appreciating the chicken pieces and noting it provides all-around nutrition. While some customers report their dogs enjoy eating it without digestive issues, others mention their dogs won't eat it or experience diarrhea. The shelf life receives mixed reviews, with some customers reporting fresh deliveries while others received expired products.",
+    "top_reviews": [
+      {
+        "review_id": "R2V50KAO1Q2K1S",
+        "review_title": "Good product, always our go too dog food.",
+        "review_comment": "Our fur babies love this product. No issues on many bags purchased!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2V50KAO1Q2K1S",
+        "review_author_id": "AGN5FPLXDG72PTJ5RFZASXKEUTHQ",
+        "review_author": "Lynne Mccrary",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGN5FPLXDG72PTJ5RFZASXKEUTHQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 11, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B006JCUGVQ",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Rice",
+          "Size": "16.5 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RMYRX7U6C1AF9",
+        "review_title": "Trusted for years",
+        "review_comment": "This is the only food I have given my dog.. I honestly don't know how long back but he really seems to like it. Never given him diarrhea and our lil old man seems to be regular even at an older age eating this food. I feel like he likes the taste of the soft lil meaty bits the most because he eats them first. He digs his nose around in the food to find them all! It does smell better than a regular dog food I think. Always nice and fresh, maybe a bit pricey but I still chose it over others.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RMYRX7U6C1AF9",
+        "review_author_id": "AEUFSADZ5RMOLRK4NM7WN5NYBQQA",
+        "review_author": "May",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEUFSADZ5RMOLRK4NM7WN5NYBQQA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/d32474ba-c85b-4006-a3e9-b9ad23fe8859._CR0%2C0%2C500%2C500_SX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on June 28, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B006JCUGVQ",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Rice",
+          "Size": "8 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R145NBQLVRR5ZD",
+        "review_title": "Great price!",
+        "review_comment": "My dog loves this brand and I love not lugging the bag from the store!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R145NBQLVRR5ZD",
+        "review_author_id": "AEUG7QSIWVBV25CSXVHVJEUZREXQ",
+        "review_author": "Chelle ",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEUG7QSIWVBV25CSXVHVJEUZREXQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 29, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B006JCUGVQ",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Rice",
+          "Size": "16.5 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1KGPC2FRU8BNP",
+        "review_title": "Dog loves it",
+        "review_comment": "My dog loves this food! I purchased this for years before I had to switch to a more easy to digest kind. My baby is 17 years so her stomach is super sensitive. Only reason I switched or else I would still be purchasing",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1KGPC2FRU8BNP",
+        "review_author_id": "AEIFBGL2VWVV7G6LXB554G7A2LZA",
+        "review_author": "Kimberly chappell",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEIFBGL2VWVV7G6LXB554G7A2LZA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 18, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B006JCUGVQ",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Rice",
+          "Size": "8 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R37SYV6XO31K4R",
+        "review_title": "If I can get dog food in 1 day",
+        "review_comment": "Excellent food for labs",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R37SYV6XO31K4R",
+        "review_author_id": "AEG3SQXLGBUHUKZ27MROVSOPE2ZQ",
+        "review_author": "Richard Stewart",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEG3SQXLGBUHUKZ27MROVSOPE2ZQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/81xTZyzwEhL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on August 19, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B006JCUGVQ",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Rice",
+          "Size": "8 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R17Y62OPERYIX5",
+        "review_title": "Good value",
+        "review_comment": "Great price my dog lives this food, easy to digest, the size of the bag is a good value.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R17Y62OPERYIX5",
+        "review_author_id": "AHO5FCPMZX33UMEEFBKBK43XHHUA",
+        "review_author": "C.P.",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHO5FCPMZX33UMEEFBKBK43XHHUA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on August 30, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B006JCUGVQ",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Rice",
+          "Size": "16.5 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3RKMR32R3TMT9",
+        "review_title": "Dogs love it!",
+        "review_comment": "This product continues to be a favorite our two smaller dogs. I was afraid that they would eventually get tired of the same dog food as they have in the past but a year in and they still love it.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3RKMR32R3TMT9",
+        "review_author_id": "AFMWHZMRZNUK5XUEOMQ46DCAASYQ",
+        "review_author": "bret mm",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFMWHZMRZNUK5XUEOMQ46DCAASYQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 17, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B006JCUGVQ",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Rice",
+          "Size": "16.5 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1RE8TTFD75VG8",
+        "review_title": "Purina One Dry Dog Food",
+        "review_comment": "This is the dry dog food I give my Huskies. I just mix this with 2 teaspoons of wet canned Dog food with warm water to make gravy. They really love this product. It keeps their coats shiney and it is good for them. Highly recommended \ud83d\ude01\ud83d\ude01\ud83d\udc4d",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1RE8TTFD75VG8",
+        "review_author_id": "AFEX7CK4D5SHTDI3IYELLCGFXPAA",
+        "review_author": "Chas",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFEX7CK4D5SHTDI3IYELLCGFXPAA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 10, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B006JCUGVQ",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Rice",
+          "Size": "8 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      }
+    ],
+    "top_reviews_global": [
+      {
+        "review_id": "R3BW33MZ09920Q",
+        "review_title": "Bugs inside the food!!!!!!!!",
+        "review_comment": "Bugs inside the food!!!!!!!!",
+        "review_star_rating": "1",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3BW33MZ09920Q",
+        "review_author_id": null,
+        "review_author": "SARA PANDINI E MICHELE MINCHILLO",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/8bb14fbe-a91c-427e-a50a-49bee087187a._CR0%2C0%2C1000%2C1000_SX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United Arab Emirates on September 16, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B006JCUGVQ",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Rice",
+          "Size": "8 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2M8QZI78PXLTY",
+        "review_title": "Rip off",
+        "review_comment": "What a rip off. $60 + for a 7kg bag when u can get from another seller for less then half the price. My mistake though I thought it was 16kg and not 16 pounds. The bag itself says 7kg not 16.5 pounds.. what a rip off and you can not return as it is food.. not impressed",
+        "review_star_rating": "1",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2M8QZI78PXLTY",
+        "review_author_id": null,
+        "review_author": "Dallas L",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Canada on May 28, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B006JCUGVQ",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Rice",
+          "Size": "16.5 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RT5FFJ351TDBY",
+        "review_title": "Le prix n'est pas juste, trop cher pour la quantit\u00e9.",
+        "review_comment": "Il y a un probl\u00e8me avec le prix. Je paye 69$ pour un 7 kg. Alors que l'item que j'ai command\u00e9 avant, je payais 45$ pour un 14 kg. C'est du vol!!! Je n'ai pas vu que je commandais un autre item que l'item de la derni\u00e8re fois.",
+        "review_star_rating": "1",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RT5FFJ351TDBY",
+        "review_author_id": null,
+        "review_author": "Rachel Ladouceur",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Canada on June 2, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B006JCUGVQ",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Rice",
+          "Size": "16.5 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3JX9EMIPDIJLG",
+        "review_title": "Too expensive and no return policy",
+        "review_comment": "I bought this product by mistake, so bad that they don't have return policy. I won't buy anymore. It is way too expensive.",
+        "review_star_rating": "1",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3JX9EMIPDIJLG",
+        "review_author_id": null,
+        "review_author": "Yun Zhang",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Canada on May 31, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B006JCUGVQ",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Rice",
+          "Size": "16.5 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1B0DWN4IAF9XZ",
+        "review_title": "Bandit",
+        "review_comment": "7kg pour le prix de 14 kg ,osti de crosseur",
+        "review_star_rating": "1",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1B0DWN4IAF9XZ",
+        "review_author_id": null,
+        "review_author": "mario perron",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Canada on May 25, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B006JCUGVQ",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Rice",
+          "Size": "16.5 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      }
+    ],
+    "delivery": "FREE delivery Wednesday, November 5 on orders shipped by Amazon over $35 Or Prime members get FREE delivery Sunday, November 2. Order within 7 hrs 25 mins. Join Prime",
+    "primary_delivery_time": "Wednesday, November 5",
+    "category": {
+      "id": "pets",
+      "name": "Pet Supplies"
+    },
+    "category_path": [
+      {
+        "id": "2619533011",
+        "name": "Pet Supplies",
+        "link": "https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/ref=dp_bc_1?ie=UTF8&node=2619533011"
+      },
+      {
+        "id": "2975312011",
+        "name": "Dogs",
+        "link": "https://www.amazon.com/dogs-supplies-training-beds-collars-grooming/b/ref=dp_bc_2?ie=UTF8&node=2975312011"
+      },
+      {
+        "id": "2975359011",
+        "name": "Food",
+        "link": "https://www.amazon.com/dogs-food-wellness-grain-free/b/ref=dp_bc_3?ie=UTF8&node=2975359011"
+      },
+      {
+        "id": "2975360011",
+        "name": "Dry",
+        "link": "https://www.amazon.com/dry-dog-food/b/ref=dp_bc_4?ie=UTF8&node=2975360011"
+      }
+    ],
+    "product_variations_dimensions": [
+      "flavor",
+      "size"
+    ],
+    "product_variations": {
+      "size": [
+        {
+          "asin": "B0000AH3QT",
+          "value": "8 Pound (Pack of 1)",
+          "is_available": true
+        },
+        {
+          "asin": "B006JCUGVQ",
+          "value": "16.5 Pound (Pack of 1)",
+          "is_available": true
+        }
+      ]
+    },
+    "all_product_variations": {
+      "B006JCUGVQ": {
+        "flavor": "Chicken & Rice",
+        "size": "16.5 Pound (Pack of 1)"
+      },
+      "B0000AH3QT": {
+        "flavor": "Chicken & Rice",
+        "size": "8 Pound (Pack of 1)"
+      }
+    },
+    "has_aplus": true,
+    "aplus_images": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/23a8a687-d983-4452-a565-58b56c832d28.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/badc5d0e-1e90-4c54-a4df-f129a14c34cd.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/54846863-079d-4301-9e75-753ee866f4da.jpg"
+    ],
+    "has_brandstory": false,
+    "frequently_bought_together": [
+      {
+        "product_title": "This item:  Purina ONE Chicken and Rice Formula Dry Dog Food - 16.5 lb. Bag",
+        "product_price": "$30.28",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71EGdA+FpuL.jpg"
+      },
+      {
+        "product_title": "Purina ONE Dry Dog Food Lamb and Rice Formula - 16.5 lb. Bag",
+        "product_price": "$30.28",
+        "product_url": "https://www.amazon.com/dp/B000PTS2JW",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71TBAISN9BL.jpg"
+      },
+      {
+        "product_title": "Cat's Pride Premium Lightweight Clumping Litter: Complete Care - Up to 10 Days of Powerful Odor Control - Hypoallergenic - Multi-Cat, Unscented, 10 Pounds",
+        "product_price": "$11.48",
+        "product_url": "https://www.amazon.com/dp/B01MRLPOK6",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71rRY95cz6L.jpg"
+      }
+    ],
+    "landing_asin": "B006JCUGVQ",
+    "parent_asin": "B0CWRYFCWJ"
+  }
+}

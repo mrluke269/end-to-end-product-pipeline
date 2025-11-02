@@ -1,0 +1,676 @@
+{
+  "status": "OK",
+  "request_id": "4672893b-c339-4881-99ce-b6dab2fbe15a",
+  "parameters": {
+    "asin": "B00CPDWT2M",
+    "country": "US",
+    "language": "en_US"
+  },
+  "data": {
+    "asin": "B00CPDWT2M",
+    "product_title": "Benebone Wishbone Durable Dog Chew Toy for Aggressive Chewers, Real Bacon, Made in USA, Medium",
+    "product_price": "12.78",
+    "product_original_price": "$12.78",
+    "minimum_order_quantity": null,
+    "currency": "USD",
+    "country": "US",
+    "product_byline": "Visit the Benebone Store",
+    "product_byline_link": "https://www.amazon.com/stores/Benebone/page/5A61B428-C811-46E1-B497-8214CC592338?is_byline_deeplink=true&deeplink=DFC23C90-CC8F-4C49-A6B5-66742AD421B7&redirect_store_id=5A61B428-C811-46E1-B497-8214CC592338&lp_asin=B00CPDWT2M&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto",
+    "product_byline_links": [
+      "https://www.amazon.com/stores/Benebone/page/5A61B428-C811-46E1-B497-8214CC592338?is_byline_deeplink=true&deeplink=DFC23C90-CC8F-4C49-A6B5-66742AD421B7&redirect_store_id=5A61B428-C811-46E1-B497-8214CC592338&lp_asin=B00CPDWT2M&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    ],
+    "product_star_rating": "4.5",
+    "product_num_ratings": 103957,
+    "product_url": "https://www.amazon.com/dp/B00CPDWT2M",
+    "product_slug": "Benebone-Wishbone-Durable-Aggressive-Chewers",
+    "product_photo": "https://m.media-amazon.com/images/I/71fKSebqrZL._AC_SL1500_.jpg",
+    "product_num_offers": 5,
+    "product_availability": "In Stock",
+    "is_best_seller": false,
+    "is_amazon_choice": true,
+    "is_prime": true,
+    "climate_pledge_friendly": false,
+    "sales_volume": "30K+ bought in past month",
+    "about_product": [
+      "DURABLE, LONG-LASTING \u2013 Super chewer? Bring it on. Benebones are tougher than real bones and last for weeks.",
+      "REAL BACON! \u2013 We use only 100% REAL BACON for flavor. Trust us, dogs can tell the difference.",
+      "EASY TO PICK UP AND CHEW \u2013 The Wishbone is curved for a paw-friendly grip so your pup can quickly grab it and get a good chew going. Think about it: dogs don\u2019t have thumbs.",
+      "MADE TOUGH IN AMERICA \u2013 You need it tough, right? We get it. It's made and sourced in the USA.",
+      "HAPPINESS, GUARANTEED \u2013 Have an issue? Want to chat? Reach out to us directly and you\u2019ll get a real person whose sole job is to make you and your pup happy."
+    ],
+    "product_description": "The Benebone Wishbone\n Dogs love to chew, especially on stuff that tastes like real bacon. The Wishbone is easy to handle, tastes awesome, and stands up to heavy chewing.\n \nAbout Benebone\n At Benebone, we started with the premise that dogs experience scent and flavor in a way we can\u2019t even grasp. So we ditched the neon colors and loud squeaks. Inspired by a dog\u2019s powerful sense of smell, we developed a long-lasting durable chew that\u2019s jam-packed with real bacon. Once your dog takes a bite of our USA-made chews, he\u2019ll be hooked. \n \nWe\u2019re Obsessed with Safety Too\n Wonder if Benebone is right for your dog? Here\u2019s what you need to know. Since it\u2019s hard, it\u2019s important that your pup has strong teeth. If you\u2019re unsure, check with your vet. Nobody likes an unexpected trip to the dentist. Keep an eye out for wear and tear. Within a month or so, we find that most dogs chew Benebone into submission. See the wear page on our website for helpful photos to determine when to replace yours. Keep away from households with peanut or other allergies.\n \nWhat\u2019s Inside?\n Nothing but Nylon and Real Bacon for Tantalizing Flavor",
+    "product_information": {
+      "Item Weight": "0.17 Kilograms",
+      "Department": "Pets",
+      "Manufacturer": "Benebone",
+      "Language": "English",
+      "ASIN": "B00CPDWT2M",
+      "Item model number": "808600",
+      "Date First Available": "November 11, 2014",
+      "Item Package Dimensions L x W x H": "8.5 x 5.16 x 1.69 inches",
+      "Item Dimensions  LxWxH": "7 x 1.5 x 4.75 inches",
+      "Brand Name": "Benebone",
+      "Target Audience Keyword": "Dogs",
+      "Directions": "Chomp and Enjoy!",
+      "Country of Origin": "United States",
+      "Warranty Description": "HAPPINESS, GUARANTEED \u2013 Have an issue? Want to chat? Reach out to us directly and you\u2019ll get a real person whose sole job is to make you and your pup happy.",
+      "Model Name": "808600",
+      "Color": "Brown",
+      "Size": "Medium",
+      "Material": "Nylon",
+      "Age Range Description": "All Life Stages",
+      "Number of Items": "1",
+      "Style": "Durable",
+      "Breed Recommendation": "Medium Breeds",
+      "Included Components": "Benebone Wishbone Durable Dog Chew Toy for Aggress",
+      "Specific Uses for Product": "Active"
+    },
+    "rating_distribution": {
+      "1": 4,
+      "2": 2,
+      "3": 5,
+      "4": 11,
+      "5": 78
+    },
+    "product_photos": [
+      "https://m.media-amazon.com/images/I/71fKSebqrZL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71bT+uHKl9L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81cEF0UZTDL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/617rzDfaejL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81k07Ibs9VL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81G08aHZlCL._AC_SL1500_.jpg"
+    ],
+    "product_videos": [
+      {
+        "id": "amzn1.vse.video.0a64fff6d5d44b40aae86517ec9f86e9",
+        "title": "Introducing the Benebone Wishbone for Dogs",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c8f65fb6-e8ec-4b2c-b1cb-382389ea60e7/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/41kpXrR+elL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B00CPDWT2M",
+        "parent_asin": "B07QS5N1D8"
+      },
+      {
+        "id": "amzn1.vse.video.2216f98a282b4ac999060f68e5fa450b",
+        "title": "Benebone Wishbone Dog Chew Toy for Aggressive Chewers",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/10377df7-7a4c-4c1c-8e76-b4b6ef4c37df/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61fisTZocbL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B00CPDWT2M",
+        "parent_asin": "B07QS5N1D8"
+      },
+      {
+        "id": "amzn1.vse.video.0355b1b003e6438f81a210df611322a5",
+        "title": "Benebone vs. Nylabone-What Is Better for Aggressive Chewers?",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/36878cc9-f10f-456b-9783-4ee0cb22bfd1/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/A12nbfiHORL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png",
+        "product_asin": "B00CPDWT2M",
+        "parent_asin": "B07QS5N1D8"
+      },
+      {
+        "id": "amzn1.vse.video.0c247ef92a464ae09f4af13a565143b1",
+        "title": "Should this be the best selling dog bone?",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7f60d61b-395c-426b-800d-41dff7ec8fec/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61f7MdT32wL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B00CPDWT2M",
+        "parent_asin": "B07QS5N1D8"
+      },
+      {
+        "id": "amzn1.vse.video.022829b5fa9d4447be07ec03c94f34bb",
+        "title": "How Much This Puppy Loves His Bacon Dog Chew &amp; Made in USA",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/18de28ec-6885-40a6-a6e0-53d0136279b9/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/B1bspF6IAML.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B00CPDWT2M",
+        "parent_asin": "B07QS5N1D8"
+      },
+      {
+        "id": "amzn1.vse.video.0462a9581e804acba369697d909dd0a5",
+        "title": "Review: Benebone Wishbone Durable Dog Chew Toy",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c6b2dc6a-4342-4aff-bcc5-b9dd0d39a35b/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61K4a25pq2L.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B00CPDWT2M",
+        "parent_asin": "B07QS5N1D8"
+      },
+      {
+        "id": "amzn1.vse.video.0e08d53f87ed40648bc7243492991582",
+        "title": "Before You Buy - Dog's Review of Benebone Wishbone",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2bcac090-6e49-4f9c-8d00-c2475f36dbb7/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/A1UuirGqolL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png",
+        "product_asin": "B00CPDWT2M",
+        "parent_asin": "B07QS5N1D8"
+      }
+    ],
+    "user_uploaded_videos": [],
+    "video_thumbnail": "https://m.media-amazon.com/images/I/41kpXrR+elL.SX522_.jpg",
+    "has_video": true,
+    "product_details": {
+      "Is Discontinued By Manufacturer": "No",
+      "Language": "English",
+      "Product Dimensions": "7 x 1.5 x 4.75 inches; 6 ounces",
+      "Manufacturer recommended age": "1 month and up",
+      "Item model number": "808600",
+      "Department": "Pets",
+      "Date First Available": "November 11, 2014",
+      "Manufacturer": "Benebone",
+      "ASIN": "B00CPDWT2M",
+      "Best Sellers Rank": "#42 in Pet Supplies (See Top 100 in Pet Supplies)    #1 in Dog Chew Toys",
+      "Customer Reviews": "4.5             4.5 out of 5 stars          \n\n                          103,957 ratings"
+    },
+    "customers_say": "Customers find this chew toy durable and highly recommend it for aggressive chewers, keeping dogs busy for hours. The product receives positive feedback for its quality, with one customer noting it's better than Nylabone. While some customers say it's sturdy, others report pieces breaking off, and opinions on value are mixed, with some finding it worth the price while others consider it overpriced.",
+    "top_reviews": [
+      {
+        "review_id": "R43ABVI9T9TBL",
+        "review_title": "No mess chew toy",
+        "review_comment": "My 35lb doodle is a moderate chewer and this is his go-to chew toy. He doesn't go nuts for it, but it keeps him occupied and it lasts forever. No mess or smell. We get the peanut butter flavor.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R43ABVI9T9TBL",
+        "review_author_id": "AFIFNYKM6BCCRJEZN7USH5LE42PA",
+        "review_author": "Dawn",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFIFNYKM6BCCRJEZN7USH5LE42PA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 12, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B00CPDWT2M",
+        "reviewed_product_variant": {
+          "Flavor Name": "REAL Peanut",
+          "Size": "Medium"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1YPLJM6X1HVZB",
+        "review_title": "Tough chew toy that lasts",
+        "review_comment": "My dogs love these and they last a long time. They're great for something to chew on that doesn't make a mess. They're big enough for our big Rottweiler and Cane Corso, but our puppies even like to chew on them. It keeps the dogs occupied for a good while.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1YPLJM6X1HVZB",
+        "review_author_id": "AECWFSGKENC7OJX6CGHIRHLQ4WFA",
+        "review_author": "Annie",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AECWFSGKENC7OJX6CGHIRHLQ4WFA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 7, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "4 people found this helpful",
+        "reviewed_product_asin": "B00CPDWT2M",
+        "reviewed_product_variant": {
+          "Flavor Name": "REAL Bacon",
+          "Size": "Medium"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R18FKXQZN9F283",
+        "review_title": "Long lasting",
+        "review_comment": "My dog loves this bone! She spends hours a day chewing on it and it has lasted a long time!! This bone does not cause damage to my dogs teeth and does not easily chip off into pieces. Will be buying this again when the one she currently has eventually wears down!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R18FKXQZN9F283",
+        "review_author_id": "AHVF4LL6MPCVFX5FONH5EO22JK3A",
+        "review_author": "Brooke Blyly",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHVF4LL6MPCVFX5FONH5EO22JK3A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 23, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B00CPDWT2M",
+        "reviewed_product_variant": {
+          "Flavor Name": "REAL Bacon",
+          "Size": "Medium"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1RWARYXF9NNZS",
+        "review_title": "Well worth it for a big and strong chewer",
+        "review_comment": "This is the real deal if you have a large chewer. It is durable and the heavy weight gives my dog something to beat on. shaped like a muscular \"Y\", each end is capped by a ball shape, perfect for knawing",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1RWARYXF9NNZS",
+        "review_author_id": "AHQNA5LPY4SBKVKU4WPQXRYVWCIQ",
+        "review_author": "Jin Choy",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHQNA5LPY4SBKVKU4WPQXRYVWCIQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 27, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "2 people found this helpful",
+        "reviewed_product_asin": "B00CPDWT2M",
+        "reviewed_product_variant": {
+          "Flavor Name": "REAL Bacon",
+          "Size": "Large"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3TNMWDKARQEJ",
+        "review_title": "Great Design, But One End Broke Off Almost Immediately",
+        "review_comment": "***EDIT 3: I have upgraded this to four stars. I received two replacement JUMBO bones after the one I purchased broke off almost instantly. I think that product had a defect in it, which is a little dangerous because it broke into a piece that could be swallowed. HOWEVER, the two replacement bones have been excellent. One got chewed up first, and it did slowly whittle away, but it did not break into any dangerous pieces and it did not get sharp. My puppy loved it! The second bone she has had a little more trouble chewing away, and it still gets her attention after months of hard chewing. Which makes me think that the bones have different hardness levels in the batches they are made, but that is just speculation. Regardless, the bone is great and does does not break into little pieces which could be choking hazards, and it does not get sharp. Great product, a little inconsistent in batches maybe, but it will get your dog's attention, provide hours of chewing, and the scent does not get on the carpet like other chew toys or bones. Good purchase! ***Edit 1: Benebone contacted me almost immediately and offered a replacement of the larger size. Their customer service representative has been friendly and I forwarded my contact information through their website for the replacement. I will update when I receive the new product and my experience.*** ***Edit 2: When I contacted Benebone's customer service to provide my address, they immediately responded in approximately an hour. In fact, they already sent and I received not one replacement, but TWO replacement bones and a nice handwritten note. I have attached a photo below proving it. The replacements were the LARGER, upgraded sizes too! I have upgraded this review to 3 Stars premised on the sincere and strong customer service they have shown me. THIS COMPANY STANDS BEHIND THEIR PRODUCTS. For that, I think it is just to upgrade my 2 star review to 3 stars. I still stand by what I had said below regarding the smaller size, but so far my puppy LOVES the JUMBO Benebone and I will surely review the JUMBO in two weeks to see how it holds up. So far, the JUMBO is 5 STARS for sure; it has held up much better than the other chew toy, despite my puppy's intense chewing on this bone (it smells much stronger than the little bone and the flavor must be super intense for her). Despite this intense chewing, the bone has taken very little damage from her--it is holding up much better. ADVICE: Do not go by the weight recommendations and size. If your puppy/dog prefers to chew on hard bones, just get the largest size for 100 lb dogs. If your puppy chews on hard bones once in awhile but not really, then you can go for the size for 70 lb dogs. I still think the 70 lb Benebone I got had a defect which resulted in one branch completely falling off immediately--the other two branches are solid despite heavy chewing--but this new JUMBO bone is amazing! ***Original Review*** - 2 Stars I purchased this for my 45 lb, 8 month old pit bull/shepherd mix. It is a good idea and design, but one whole end was destroyed in no time. Perhaps I got a defective one with an air bubble or crack, as you can see from the photo below that one end completely broke off/wore down but the other two ends are barely damaged despite my puppy's chewing. Regardless, I feel a little mislead that it was rated for dogs up to 70 lbs and, while the packaging warns you that this is just an estimate, one who anticipate that it would last longer than a week for a puppy 25 lbs lighter than the estimate. Nylabones and elk antlers lasted much longer than this did and my puppy seriously chews on the elk antlers quite intensely. As way of some background, my puppy has a lot of chew toys ranging from bones, rawhide, ropes, stuffed animals, nylabones, and rubber balls. She certainly spent a lot of attention on this toy the last week, but it wasn't exclusive and her chewing was shared with some of her other staples. I like that this toy has bacon mixed in with it. If you smell the toy, particularly where your dog has been chewing, you can kind of smell a meaty aroma. It does not get on the rug or rub off, and it is a faint smell, but on the chewed parts you can smell something. It is not noticeable when you are sitting next to your dog/puppy and the toy, or near the toy; it is only when you pick up the toy and put it right to your nose. I can only imagine what this smells like to dogs with their super sense of smell! I also can't argue with the design/shape of the toy--it's perfect! The curve of the toy is great, as she can scoop it up or put pressure on one end to elevate the opposite end to chew on it. But I just can't get over how quickly that one end came off. I got it about two weeks ago and I gave it to her last week (I slowly introduce new toys to keep her occupied and her mind stimulated). Compared to other chew toys--including nylabone and elk antlers--this toy wore down much quicker. In fact, the nylabone she has had for much longer, the puppy nylabones nonetheless, have outlasted this toy and the nylabone has been around since we first took her home at 2 months. She has also had an elk antler which has also lasted much longer and she REALLY goes after that one. I have attached a photo below of my puppy and the damage to the bone. For the cost, which is about the same as a nylabone, I would have wished it lasted much longer than it did--which is why I got it in the first place as opposed to another nylabone. I would be happy if it lasted a few months, which is what I would guess to be its normal lifespan. I would not classify my puppy as a big chewer either. She certainly chews and can do damage to hard bones or chew toys, but she is by no means a destroyer--she does not even shred her stuffed animals and has executed only a few (some were not even dog chew toys but children's toys she was given to play with). This is the first hard toy she has destroyed where I had to take it away. CONCLUSION: Perhaps I got a Benebone that had a defect, or my puppy really just destroyed this one in a mere week, but I simply cannot recommend this version of the Benebone I got. I might try to get the jumbo Benebone or one rated higher for bigger dogs up to 100 lbs if they go on sale, but I don't think that my 8 month old puppy should warrant a toy for dogs up to 100 lbs when she has not destroyed any of her other toys like this one. It even takes her longer to go through some of the large rawhide toys she has!",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3TNMWDKARQEJ",
+        "review_author_id": "AHFWRMO7ENVC5NXZG5MY6K6QIPKA",
+        "review_author": "Vine Customer",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHFWRMO7ENVC5NXZG5MY6K6QIPKA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/81RakpY8PkL.jpg",
+          "https://m.media-amazon.com/images/I/81QldPSTlaL.jpg",
+          "https://m.media-amazon.com/images/I/81Xvq8v41GL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on November 25, 2015",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "241 people found this helpful",
+        "reviewed_product_asin": "B00CPDWT2M",
+        "reviewed_product_variant": {
+          "Flavor Name": "REAL Bacon",
+          "Size": "Medium"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3398YHNMCQGY9",
+        "review_title": "An excellent alternative to Nylabones",
+        "review_comment": "A nice alternative to Nylabone (and in many instances, cheaper!) We've used these bones for years, for our furkids. I try to be careful as to how often they can chew on these because I don't want any of them to end up with a broken tooth/teeth. Sometimes, they'll just chew and chew on these things because they absolutely love them! One just needs to be conscientious, like any hard bones or chews, they can break dogs' teeth. PROS: Long lasting, nice quality CONS: Not a negative but rather, just a caution: just make sure you're watching your dogs as they chew on these. It can result in broken teeth, an expensive proposition once we get a vet bill. (It happened to me!)",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3398YHNMCQGY9",
+        "review_author_id": "AHVVBWQGDS5WOBFQN7O7BTU3VFCQ",
+        "review_author": "GeauxBucks!",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHVVBWQGDS5WOBFQN7O7BTU3VFCQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on August 19, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "12 people found this helpful",
+        "reviewed_product_asin": "B00CPDWT2M",
+        "reviewed_product_variant": {
+          "Flavor Name": "REAL Bacon",
+          "Size": "Medium"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RNWPSJRF4R6L5",
+        "review_title": "Nick Nack Paddywhack give your dog this bone",
+        "review_comment": "If you\u2019re searching for the chew toy your dog will proudly parade through the house and gnaw on at 3:07 a.m. like it\u2019s a sacred relic\u2014this is the one. The Benebone Wishbone (AKA The Insomnia Summoner) has instantly become my dog\u2019s favorite portable obsession. The shape gives them great \u201cpaws-on\u201d leverage, so they can really go to town, and the flavor infusion keeps them coming back like it\u2019s an everlasting snack they somehow haven\u2019t finished. Mine carries it from room to room, sets it down dramatically, then reintroduces it to their molars with the focus of a master craftsman. Is it loud on hardwood at dawn? Occasionally. Do I forgive it? Absolutely\u2014because nothing tires out the canine chaos machine quite like this thing. It satisfies the chewing instinct, saves the furniture, and delivers that blissed-out post-chew flop we all dream of. Durable? Very. Interesting enough to keep their attention while you keep your slippers? Also yes. Bonus: no gross residue or crumbly mess. Would I buy it again? Without hesitation. 10/10: The bone they\u2019ll love\u2014and the one you\u2019ll learn to recognize by the sound of peaceful silence after the storm of chewing.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RNWPSJRF4R6L5",
+        "review_author_id": "AFNVY5ZX7W24IPZM4JZ4U3QUXBSQ",
+        "review_author": "Mestophales",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFNVY5ZX7W24IPZM4JZ4U3QUXBSQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/20ec4c5c-152a-40be-9b3e-65ac5f72e9bc._CR0%2C0%2C200%2C200_UX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on July 19, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "25 people found this helpful",
+        "reviewed_product_asin": "B00CPDWT2M",
+        "reviewed_product_variant": {
+          "Flavor Name": "REAL Bacon",
+          "Size": "Medium"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RCHTUX9EXORS6",
+        "review_title": "Lasts a while and digs love them",
+        "review_comment": "Dogs love them. They last about a year with big dogs about 6 months with big puppy cheers. Pittie puppy.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RCHTUX9EXORS6",
+        "review_author_id": "AF3OIWKBFTP42OZMCXYEYA6YWVGQ",
+        "review_author": "KO",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AF3OIWKBFTP42OZMCXYEYA6YWVGQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 22, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B00CPDWT2M",
+        "reviewed_product_variant": {
+          "Flavor Name": "REAL Chicken",
+          "Size": "Medium"
+        },
+        "is_vine": false
+      }
+    ],
+    "top_reviews_global": [
+      {
+        "review_id": "R182Z3Y0X3G0SL",
+        "review_title": "Keeps my puppy busy",
+        "review_comment": "The media could not be loaded. It is almost indestructible.. my puppy has been at it for months. However she has chipped off the edges and those have become sharp. Need to be careful handling it after that",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R182Z3Y0X3G0SL",
+        "review_author_id": null,
+        "review_author": "Sangeetha",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": {
+          "stream_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/8e75d991-e263-4f02-9b32-c87b7805bc95/default.jobtemplate.hls.m3u8",
+          "closed_captions_url": "https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-eu-west-1-prod/closedCaptions/f0d28c71-16c8-4220-970f-df2a8bac7a38.vtt",
+          "thumbnail_url": "https://m.media-amazon.com/images/I/71SS9P+4V8L._SY256.jpg"
+        },
+        "review_date": "Reviewed in India on June 17, 2023",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B00CPDWT2M",
+        "reviewed_product_variant": {
+          "Flavor Name": "REAL Bacon",
+          "Size": "Medium"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1AD1QNUXQQHBV",
+        "review_title": "H\u00e5rt och bra",
+        "review_comment": "Verkar h\u00e5lla s\u00e5 bra som det utlovats.",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1AD1QNUXQQHBV",
+        "review_author_id": null,
+        "review_author": "Peter K",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Sweden on October 15, 2022",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B00CPDWT2M",
+        "reviewed_product_variant": {
+          "Flavor Name": "REAL Bacon",
+          "Size": "Medium"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1CNFM9EGW337J",
+        "review_title": "My dog is not too interested in chewing it so far.",
+        "review_comment": "My dog is not too interested in chewing it so far.",
+        "review_star_rating": "3",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1CNFM9EGW337J",
+        "review_author_id": null,
+        "review_author": "TJ",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Belgium on May 2, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B00CPDWT2M",
+        "reviewed_product_variant": {
+          "Flavor Name": "REAL Peanut",
+          "Size": "Medium"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1DR0YFF1LBZXM",
+        "review_title": "Ba\u015far\u0131l\u0131",
+        "review_comment": "Evde olmad\u0131\u011f\u0131m\u0131zda k\u00f6peklerimi oyal\u0131yor. Olduk\u00e7a memnun kald\u0131k",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1DR0YFF1LBZXM",
+        "review_author_id": null,
+        "review_author": "Mustafa Mert Ozel",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Turkey on June 30, 2024",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B00CPDWT2M",
+        "reviewed_product_variant": {
+          "Flavor Name": "REAL Bacon",
+          "Size": "Large"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1EBU39QZTFROZ",
+        "review_title": "Buen producto",
+        "review_comment": "Mi perrita se entretiene mucho con el hueso, es su favorito. Resistente y de buen tama\u00f1o",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1EBU39QZTFROZ",
+        "review_author_id": null,
+        "review_author": "Nidya",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Mexico on June 2, 2021",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B00CPDWT2M",
+        "reviewed_product_variant": {
+          "Flavor Name": "REAL Bacon",
+          "Size": "Medium"
+        },
+        "is_vine": false
+      }
+    ],
+    "delivery": "FREE delivery Saturday, November 1 on orders shipped by Amazon over $35 Or Prime members get FREE delivery Wednesday, October 29. Order within 8 hrs 37 mins. Join Prime",
+    "primary_delivery_time": "Saturday, November 1",
+    "category": {
+      "id": "pets",
+      "name": "Pet Supplies"
+    },
+    "category_path": [
+      {
+        "id": "2619533011",
+        "name": "Pet Supplies",
+        "link": "https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/ref=dp_bc_1?ie=UTF8&node=2619533011"
+      },
+      {
+        "id": "2975312011",
+        "name": "Dogs",
+        "link": "https://www.amazon.com/dogs-supplies-training-beds-collars-grooming/b/ref=dp_bc_2?ie=UTF8&node=2975312011"
+      },
+      {
+        "id": "2975413011",
+        "name": "Toys",
+        "link": "https://www.amazon.com/dogs-toys-gifts-games-plush/b/ref=dp_bc_3?ie=UTF8&node=2975413011"
+      },
+      {
+        "id": "2975415011",
+        "name": "Chew Toys",
+        "link": "https://www.amazon.com/dog-chew-toys/b/ref=dp_bc_4?ie=UTF8&node=2975415011"
+      }
+    ],
+    "product_variations_dimensions": [
+      "flavor",
+      "size"
+    ],
+    "product_variations": {
+      "flavor": [
+        {
+          "asin": "B0DBRQ4LNN",
+          "value": "LIMITED EDITION: Pumpkin",
+          "is_available": true
+        },
+        {
+          "asin": "B00CPDWT2M",
+          "value": "REAL Bacon",
+          "is_available": true
+        },
+        {
+          "asin": "B00O690E5W",
+          "value": "REAL Chicken",
+          "is_available": true
+        },
+        {
+          "asin": "B00IK243R6",
+          "value": "REAL Peanut",
+          "is_available": true
+        },
+        {
+          "asin": "B0FDDDT5ZM",
+          "value": "Variety Pack",
+          "is_available": false
+        }
+      ],
+      "size": [
+        {
+          "asin": "B0FDDDT5ZM",
+          "value": "3 Pack - Small",
+          "is_available": false
+        },
+        {
+          "asin": "B00MHZTKXY",
+          "value": "Small",
+          "is_available": true
+        },
+        {
+          "asin": "B0FDDN4TVD",
+          "value": "3 Pack - Medium",
+          "is_available": false
+        },
+        {
+          "asin": "B00CPDWT2M",
+          "value": "Medium",
+          "is_available": true
+        },
+        {
+          "asin": "B0FDD7WSBD",
+          "value": "3 Pack - Large",
+          "is_available": false
+        },
+        {
+          "asin": "B014JY9E9U",
+          "value": "Large",
+          "is_available": true
+        },
+        {
+          "asin": "B07YM1ZT2T",
+          "value": "Giant",
+          "is_available": true
+        },
+        {
+          "asin": "B0DV7BR7Q5",
+          "value": "Tiny",
+          "is_available": true
+        }
+      ]
+    },
+    "all_product_variations": {
+      "B0FH5L63F2": {
+        "flavor": "LIMITED EDITION: Pumpkin",
+        "size": "Large"
+      },
+      "B00MHZTKXY": {
+        "flavor": "REAL Bacon",
+        "size": "Small"
+      },
+      "B014JY9E9U": {
+        "flavor": "REAL Bacon",
+        "size": "Large"
+      },
+      "B07YM1ZT2T": {
+        "flavor": "REAL Bacon",
+        "size": "Giant"
+      },
+      "B00O69O6X8": {
+        "flavor": "REAL Chicken",
+        "size": "Small"
+      },
+      "B00CPDWT2M": {
+        "flavor": "REAL Bacon",
+        "size": "Medium"
+      },
+      "B01727IGFY": {
+        "flavor": "REAL Peanut",
+        "size": "Large"
+      },
+      "B00IK243R6": {
+        "flavor": "REAL Peanut",
+        "size": "Medium"
+      },
+      "B08LMDVK97": {
+        "flavor": "REAL Chicken",
+        "size": "Giant"
+      },
+      "B0DBRQ4LNN": {
+        "flavor": "LIMITED EDITION: Pumpkin",
+        "size": "Medium"
+      },
+      "B01727R0MO": {
+        "flavor": "REAL Chicken",
+        "size": "Large"
+      },
+      "B0FDD7WSBD": {
+        "flavor": "Variety Pack",
+        "size": "3 Pack - Large"
+      },
+      "B0FDDDT5ZM": {
+        "flavor": "Variety Pack",
+        "size": "3 Pack - Small"
+      },
+      "B08LMCVM1S": {
+        "flavor": "REAL Peanut",
+        "size": "Giant"
+      },
+      "B00O690E5W": {
+        "flavor": "REAL Chicken",
+        "size": "Medium"
+      },
+      "B0FDDN4TVD": {
+        "flavor": "Variety Pack",
+        "size": "3 Pack - Medium"
+      },
+      "B00MI5BXOM": {
+        "flavor": "REAL Peanut",
+        "size": "Small"
+      },
+      "B0DV7BR7Q5": {
+        "flavor": "REAL Bacon",
+        "size": "Tiny"
+      },
+      "B0FH5KF9TR": {
+        "flavor": "LIMITED EDITION: Pumpkin",
+        "size": "Small"
+      }
+    },
+    "coupon_code": "284E7F72",
+    "has_aplus": true,
+    "aplus_images": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/275b9511-a3d0-4daa-872f-700fa636fe97.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8edb8e50-3201-491c-8621-bf1aeb1adb62.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ab213ab3-e6b7-458b-9a8e-4f88efe9baee.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/10fe98fa-bcdf-4f40-8247-80352fb8d3a6.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/53fed3c9-bfea-4eb4-bf53-9b651c1b3794.png"
+    ],
+    "has_brandstory": true,
+    "frequently_bought_together": [
+      {
+        "product_title": "This item:  Benebone Wishbone Durable Dog Chew Toy for Aggressive Chewers, Real Bacon, Made in USA, Medium",
+        "product_price": "$12.78",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71fKSebqrZL.jpg"
+      },
+      {
+        "product_title": "Best Pet Supplies Interactive Squeaky Dog Chew Toy, Ideal Dog Toys for Chewers, Small, Medium & Large Dogs, and Fetch Lovers - Crinkle Duck (Yellow), Large",
+        "product_price": "$6.79",
+        "product_url": "https://www.amazon.com/dp/B09BBM5CX8",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/61c1VfRJIvL.jpg"
+      },
+      {
+        "product_title": "Feeko Heavy Duty Dog Rope Toys for Large Breed Aggressive Chewers, 2 Pack Indestructible Teeth Cleaning Tug of War Toy",
+        "product_price": "$12.99",
+        "product_url": "https://www.amazon.com/dp/B08TLM91CK",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71YHIVcyxYS.jpg"
+      }
+    ],
+    "landing_asin": "B00CPDWT2M",
+    "parent_asin": "B07QS5N1D8"
+  }
+}

@@ -1,0 +1,646 @@
+{
+  "status": "OK",
+  "request_id": "91b457f3-8426-4341-8269-69afd0fe4fbe",
+  "parameters": {
+    "asin": "B07YKRPYJH",
+    "country": "US",
+    "language": "en_US"
+  },
+  "data": {
+    "asin": "B07YKRPYJH",
+    "product_title": "Tempcore Pet Cat Tunnel Tube Cat Toys 3 Way Collapsible, Tunnels for Indoor Cats\uff0cKitty Bored Peek Hole Toy Ball Cat, Puppy, Kitty, Kitten, Rabbit",
+    "product_price": "11.99",
+    "product_original_price": "$14.99",
+    "minimum_order_quantity": null,
+    "currency": "USD",
+    "country": "US",
+    "product_byline": "Brand: Tempcore",
+    "product_byline_link": "https://www.amazon.com/Tempcore/b/ref=bl_dp_s_web_20793474011?ie=UTF8&node=20793474011&field-lbr_brands_browse-bin=Tempcore",
+    "product_byline_links": [
+      "https://www.amazon.com/Tempcore/b/ref=bl_dp_s_web_20793474011?ie=UTF8&node=20793474011&field-lbr_brands_browse-bin=Tempcore"
+    ],
+    "product_star_rating": "4.6",
+    "product_num_ratings": 16242,
+    "product_url": "https://www.amazon.com/dp/B07YKRPYJH",
+    "product_slug": "Tempcore-Tunnel-Collapsible-Tunnels-Cats%EF%BC%8CKitty",
+    "product_photo": "https://m.media-amazon.com/images/I/61FN+6TrJWL._AC_SL1500_.jpg",
+    "product_num_offers": 1,
+    "product_availability": "In Stock",
+    "is_best_seller": false,
+    "is_amazon_choice": true,
+    "is_prime": true,
+    "climate_pledge_friendly": false,
+    "sales_volume": "9K+ bought in past month",
+    "about_product": [
+      "Best Ways to Play: Our cat tunnel with 3 spacious tunnels, peephole & ball toy, this popular cat toy gives your kitty more ways to have fun. Provides hours of exercise & self-amusement. This cat tunnel is more suitable for kittens and is made of polyester material.",
+      "Durable Construction: This cat tunnels for indoor cats use polyester fabric material design, not easy to scratch, sturdy spring steel frame, with protective end, Can play hide and seek game.",
+      "Collapsible & portable: Our cat tunnel folds down small in seconds for easy travel and storage. Each tube is about 10 inches tall and 17 inches deep.Take the entertainment with you anywhere, so your pet is never bored!",
+      "Keep Your Pet Active: Compared to cat tents, scratch posts, mouse toys etc, our kitty tunnel offers the most interactive fun with the dangling ball on the exits, truly a great way to encourage daily exercise and keep your pet active.",
+      "Buy With Confidence! \"A perfect cat toy, My cat plays for hours.\" if you (or your pet) aren't thrilled with our cat tunnel, simply let us know for a full and prompt replacement or refund. There's no risk to buy now."
+    ],
+    "product_description": null,
+    "product_information": {
+      "Item Weight": "200 Grams",
+      "Manufacturer": "TEMPCORE",
+      "ASIN": "B07YKRPYJH",
+      "Item model number": "TEUSA9CY1AL1A",
+      "Date First Available": "September 30, 2019",
+      "Item Package Dimensions L x W x H": "12.39 x 11.78 x 1.1 inches",
+      "Item Dimensions  LxWxH": "31.5 x 21.6 x 11 inches",
+      "Brand Name": "Tempcore",
+      "Target Audience Keyword": "house-cats, small-animal-pets",
+      "Color": "3-Way Blue",
+      "Size": "3-Way",
+      "Material": "Polyester",
+      "Care Instructions": "Hand Wash Only",
+      "Style": "Peephole",
+      "Breed Recommendation": "Kitten"
+    },
+    "rating_distribution": {
+      "1": 2,
+      "2": 2,
+      "3": 6,
+      "4": 13,
+      "5": 77
+    },
+    "product_photos": [
+      "https://m.media-amazon.com/images/I/61FN+6TrJWL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71+5MRgy8oL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51oe3AxSf7L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/915GGpVdE5L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71fkzxIwnML._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71TRpbUxWyL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71J-nd0ufQL._AC_SL1500_.jpg"
+    ],
+    "product_videos": [
+      {
+        "id": "amzn1.vse.video.02cc1d9ff7514a5aac8c2b994e7da0cf",
+        "title": "cat tunnel toys",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2234908f-83ae-4c5b-8f48-4c0978950fa2/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/51uuB1i2C4L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B07YKRPYJH",
+        "parent_asin": "B07YKTK8Y6"
+      },
+      {
+        "id": "amzn1.vse.video.01d1d30f88a940ec9c0162d4e83fca6e",
+        "title": "Product Overview Video",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/463c0068-279b-4ce8-85f6-2333048671a3/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/71j1YEGSCPL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B07YKRPYJH",
+        "parent_asin": "B07YKTK8Y6"
+      },
+      {
+        "id": "amzn1.vse.video.0f133efa19424e24a77f3dfc30dfb940",
+        "title": "My cats love this Tempcore Pet 3 Way Collapsible Tunnel Toy",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4e45e5da-214c-41c8-bc01-2a287a2e0f31/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/A1GukEbvWVL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png",
+        "product_asin": "B07YKRPYJH",
+        "parent_asin": "B07YKTK8Y6"
+      },
+      {
+        "id": "amzn1.vse.video.063409a2f85949faa97d57b8475250f2",
+        "title": "What You Should Know Before Purchasing - Watch First!",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9dc0fd15-95d3-4271-a390-f2d6c4ad061a/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/81UkZAHQP-L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png",
+        "product_asin": "B07YKRPYJH",
+        "parent_asin": "B07YKTK8Y6"
+      },
+      {
+        "id": "amzn1.vse.video.0c08800bf81e4121981a5d363889172a",
+        "title": "Best cat tunnel for endless fun",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/03067d71-7704-4202-9771-4d5a2edeb88c/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/B1+2gqGiliL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B07YKRPYJH",
+        "parent_asin": "B07YKTK8Y6"
+      },
+      {
+        "id": "amzn1.vse.video.05b116a6ad45434a9883a37ca2f4a5b9",
+        "title": "This tunnel activates hunt mode",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3e017ead-5c3f-4581-8291-ac7aa663cb45/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/A1SZIEvOliL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png",
+        "product_asin": "B07YKRPYJH",
+        "parent_asin": "B07YKTK8Y6"
+      },
+      {
+        "id": "amzn1.vse.video.0f800a78560d4c29aaef343cd450ec63",
+        "title": "My Cat LOVES Her Cat Tunnel - Product Review",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a998391a-2a16-4e3e-9eb5-bedbb7a3aa57/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/81lgxSMLS3L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B07YKRPYJH",
+        "parent_asin": "B07YKTK8Y6"
+      }
+    ],
+    "user_uploaded_videos": [],
+    "video_thumbnail": "https://m.media-amazon.com/images/I/51uuB1i2C4L.SX522_.jpg",
+    "has_video": true,
+    "product_details": {
+      "Product Dimensions": "31.5&#34;L x 21.6&#34;W x 9.8&#34;H",
+      "Breed Recommendation": "Kitten",
+      "Material": "Polyester",
+      "Mounting Type": "Floor Mount",
+      "Style": "Peephole"
+    },
+    "customers_say": "Customers find the cat tunnel keeps their pets entertained throughout the day and is well worth the price. The product receives positive feedback for its quality, with one customer noting it's sturdy enough to support multiple cats. Customers disagree on the tunnel's size and length, with some finding it perfect for kittens while others say it's too small. The durability receives mixed reviews, with some reporting it holds up well while others find it not durable at all.",
+    "top_reviews": [
+      {
+        "review_id": "R3JDPNSMHJ7HJW",
+        "review_title": "Hours of Entertainment",
+        "review_comment": "This has quickly become the favorite toy for the kittens providing hours of playtime and fun! Well-made and very durable. Great value for the price.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3JDPNSMHJ7HJW",
+        "review_author_id": "AHHLY2AOYUXDCA5YBPAMPPN4SCIQ",
+        "review_author": "R. Sim",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHHLY2AOYUXDCA5YBPAMPPN4SCIQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 28, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B07YKRPYJH",
+        "reviewed_product_variant": {
+          "Size": "3-Way",
+          "Color": "3-Way Blue"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1SU75SNNEX2UD",
+        "review_title": "Got kittens? Just get it!",
+        "review_comment": "I foster cats and kittens. So I've been buying toys, trying to find some stuff to entertain these 4 kittens & tire them out so they stop destroying curtains, blinds, my clothes drying rack... and pretty much everything I own. Listen, they dont care about the tunnel much. But the little toy that comes with this? Pure Magic. The kittens love it. They're like synchronized swimmers when playing with it, and its entertaining to watch. It also tires them out very quickly, so they go into the tunnel to nap. So I am not complaining. I mean, the male kitten seems to be afraid of the toy, but hes coming around... slowly. But all the others? It works like melatonin. Keeps them busy, cats and humans both have fun, you learn how many flips your cat can do in the air and how high they can jump. Well worth the purchase. If you have cats you need to tire out so they dont attack your feet and run across you constantly after trying to go to bed, then get this. My toes have been safe at bedtime since playing with them with this toy and watching them go to sleep in the tunnel before safely tucking myself into bed.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1SU75SNNEX2UD",
+        "review_author_id": "AFDHDC3DEY6GRFLUY45T725XXTTA",
+        "review_author": "Candis Vargo",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFDHDC3DEY6GRFLUY45T725XXTTA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/280f6de9-d0c1-4321-9fd9-a99cf2871903._CR0%2C0%2C400%2C400_UX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on July 24, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "10 people found this helpful",
+        "reviewed_product_asin": "B07YKRPYJH",
+        "reviewed_product_variant": {
+          "Size": "3-Way",
+          "Color": "3-Way Blue"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1Z3HEYMN4BH99",
+        "review_title": "Glow in the Dark Fun\u2014My Cat Can\u2019t Get Enough! \ud83c\udf1f\ud83d\udc3e",
+        "review_comment": "The Tempcore 3-way cat tunnel is a total hit in our home! My cat was immediately curious, and now it\u2019s one of her favorite places to play, hide, and nap. The peek hole and dangling toy ball add extra excitement, and the crinkly sound keeps her engaged for ages. What really sets this tunnel apart is the photoluminescent glow-in-the-dark feature\u2014it\u2019s such a fun touch, especially for evening zoomies! The tunnel is super lightweight, easy to set up, and collapses down for quick storage when needed. Perfect for kittens, adult cats, or any bored indoor feline who needs some extra enrichment. It\u2019s durable, interactive, and just plain fun. Highly recommend for anyone looking to upgrade playtime! \ud83d\ude3b\ud83c\udf19\u2728",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1Z3HEYMN4BH99",
+        "review_author_id": "AGOEIUTJFEJDROONFNR2JVZFEHAQ",
+        "review_author": "Samantha Elizabeth",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGOEIUTJFEJDROONFNR2JVZFEHAQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/8a66a61a-e9d5-456e-bafd-1da95264877d._CR0%2C0%2C375%2C375_UX460_.jpg",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/81vZpYZYPxL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on July 30, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "9 people found this helpful",
+        "reviewed_product_asin": "B07YKRPYJH",
+        "reviewed_product_variant": {
+          "Size": "3-Way",
+          "Color": "3-Way Grey-Luminous"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3DYZ97U78MQXK",
+        "review_title": "Good small tunnel and wand toy set",
+        "review_comment": "I received this product very promptly, and I appreciated that it did not come in a box! It was just shipped by itself in the original packaging, having a routing slip stuck to the original plastic package. So I thought that that was very practical and a way to reduce waste. When I open the product and straightened out the tunnel, what I noticed is that it is rather flimsy where the three tunnel pieces merge. It seems to me that those areas could potentially be reinforced. That is why I gave this a 4 star rating. Because the area where they join is not reinforced one of the tunnel pieces gets jacked up and kind of makes a tripod out of the tunnel. But that doesn\u2019t really affect my kittens interest in the toy. He still cruises through the tunnel and is very interested in the little ball that is attached to it. The package also came with what looked to be a flimsy little short handled wand toy, however, my kitten absolutely adores that toy. It\u2019s got a short handle and a stiff but springy wand. I can stick the handle under a seat cushion so the toy is elevated and he just has a ball, jumping and attacking the little feather toy that is attached to the end of the wand. My little guy loves this little tunnel which fits perfectly in his night sleeping and time-out room!",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3DYZ97U78MQXK",
+        "review_author_id": "AEKDEBIQCRHMBZWLLYSJ7WSXUCSA",
+        "review_author": "K. Nooney",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEKDEBIQCRHMBZWLLYSJ7WSXUCSA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on August 30, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "2 people found this helpful",
+        "reviewed_product_asin": "B07YKRPYJH",
+        "reviewed_product_variant": {
+          "Size": "3-Way",
+          "Color": "3-Way Blue"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RT4V7X71SF6VB",
+        "review_title": "My Cats Love It!",
+        "review_comment": "I was very surprised both my cats love playing inside this simple cat tunnel on a daily basis. It might be a little more fun with 2 or more cats as they both can play together inside and out. Countless hours of fun for such an inexpensive price!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RT4V7X71SF6VB",
+        "review_author_id": "AGUAIO4N5R33XNNSD2XUYY4OGXPQ",
+        "review_author": "beatlemarc",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGUAIO4N5R33XNNSD2XUYY4OGXPQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/71J42NC0X6L.jpg",
+          "https://m.media-amazon.com/images/I/81HV90yIgCL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 21, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B07YKRPYJH",
+        "reviewed_product_variant": {
+          "Size": "3-Way",
+          "Color": "3-Way Blue"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R33ZLAQBN9IVSL",
+        "review_title": "Good value, maybe a little small for play",
+        "review_comment": "I foster kittens and they always love a good tunnel. I thought I\u2019d give this a try, see if the configuration is a hit. I had one of these years ago that they loved, but it took up a lot of space. This one has a much smaller footprint, but it also means that the actual tunnels are pretty short, and the kittens don\u2019t seem to enjoy it as much. They are quite small, usually 5 to 8 weeks old, and it\u2019s still a little small for them to get the same vigorously out of it they do with the long tunnels. That said it seems like a good quality product. I really like the pattern. And I like that it doesn\u2019t take up too much floor space in a small foster room, even if it seems less fun for them than the longer tunnels. The wand toy that comes with this is a MASSIVE hit, though. All in all this is a really good value and super happy with it.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R33ZLAQBN9IVSL",
+        "review_author_id": "AHCXYTMQBUICSROJICSNZGI3NHNA",
+        "review_author": "JJ",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHCXYTMQBUICSROJICSNZGI3NHNA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 11, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B07YKRPYJH",
+        "reviewed_product_variant": {
+          "Size": "3-Way",
+          "Color": "3-Way Grey-Coin"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1CV5S6MAUY0FK",
+        "review_title": "Hours of Cat Fun!",
+        "review_comment": "Recently, we purchased this awesome new cat tunnel to keep our pets entertained while we were on vacation. Our pet sitter sent us daily reports saying how much our cats LOVED this tri-tunnel. Now that we are home, the novelty of this toy has not worn off! This toy is made of great material with an adorable woodland animal pattern. It is soft, yet strong enough to endure intense cat play. I can\u2019t believe that our cats have not torn or punctured the material. It also comes with a feathered wand so you can interact with your cats while they are inside of the tunnel. This has become a daily routine for them! It\u2019s so cute! If you have cats, this tunnel toy is a must! Great product!!!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1CV5S6MAUY0FK",
+        "review_author_id": "AEML5LCBSKHZZKOIM6LR6ISKUDWA",
+        "review_author": "Steven Reilly",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEML5LCBSKHZZKOIM6LR6ISKUDWA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/715bE1FJAHL.jpg",
+          "https://m.media-amazon.com/images/I/71340BqxPcL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on July 23, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "7 people found this helpful",
+        "reviewed_product_asin": "B07YKRPYJH",
+        "reviewed_product_variant": {
+          "Size": "3-Way",
+          "Color": "3-Way Beige Deer"
+        },
+        "is_vine": false
+      }
+    ],
+    "top_reviews_global": [
+      {
+        "review_id": "R3EUYKD0DMRHB6",
+        "review_title": "They Loved it!!",
+        "review_comment": "Good Quality but expected a big one.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3EUYKD0DMRHB6",
+        "review_author_id": null,
+        "review_author": "Bhavya",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/71+g11oqEXL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in India on March 25, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B07YKRPYJH",
+        "reviewed_product_variant": {
+          "Size": "3-Way",
+          "Color": "3-Way Blue"
+        },
+        "is_vine": false
+      }
+    ],
+    "delivery": "FREE delivery Tuesday, November 4 on orders shipped by Amazon over $35 Or Prime members get FREE delivery Saturday, November 1. Order within 7 hrs 12 mins. Join Prime",
+    "primary_delivery_time": "Tuesday, November 4",
+    "category": {
+      "id": "pets",
+      "name": "Pet Supplies"
+    },
+    "category_path": [
+      {
+        "id": "2619533011",
+        "name": "Pet Supplies",
+        "link": "https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/ref=dp_bc_1?ie=UTF8&node=2619533011"
+      },
+      {
+        "id": "2975241011",
+        "name": "Cats",
+        "link": "https://www.amazon.com/cats-supplies-kittens-catnip-tree-litter/b/ref=dp_bc_2?ie=UTF8&node=2975241011"
+      },
+      {
+        "id": "2975303011",
+        "name": "Toys",
+        "link": "https://www.amazon.com/cat-feather-laser-toys-catnip/b/ref=dp_bc_3?ie=UTF8&node=2975303011"
+      },
+      {
+        "id": "17592598011",
+        "name": "Tunnels",
+        "link": "https://www.amazon.com/b/ref=dp_bc_4?ie=UTF8&node=17592598011"
+      }
+    ],
+    "product_variations_dimensions": [
+      "size",
+      "color"
+    ],
+    "product_variations": {
+      "color": [
+        {
+          "asin": "B07YKRPYJH",
+          "value": "3-Way Blue",
+          "photo": "https://m.media-amazon.com/images/I/41WIhAn4f0L.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0CCRN5PTF",
+          "value": "3-Way Black&Rainbow",
+          "photo": "https://m.media-amazon.com/images/I/41FymyzWETL.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B083ZMKRS8",
+          "value": "3-Way Blue-Coin",
+          "photo": "https://m.media-amazon.com/images/I/51djL4G+KML.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0DL5NLX2X",
+          "value": "3-Way Daisy Blue Printed",
+          "photo": "https://m.media-amazon.com/images/I/41wJ-VDs+ZL.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0DGXWFBDL",
+          "value": "3-Way Daisy Burlwood",
+          "photo": "https://m.media-amazon.com/images/I/41bbk6V0bKL.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0DL5M9QY9",
+          "value": "3-Way Daisy Green",
+          "photo": "https://m.media-amazon.com/images/I/4125y4769+L.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0DL5JL6CW",
+          "value": "3-Way Daisy Green Printed",
+          "photo": "https://m.media-amazon.com/images/I/41IOs4MtoFL.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0DGXVL2GD",
+          "value": "3-Way Geometry Blue",
+          "photo": "https://m.media-amazon.com/images/I/41tOiGUYdHL.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0DGY12Q6K",
+          "value": "3-Way Geometry Grey",
+          "photo": "https://m.media-amazon.com/images/I/41OMP60Bc5L.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0DHCDNCB4",
+          "value": "3-Way Gray Sun",
+          "photo": "https://m.media-amazon.com/images/I/41jHb-smyqL.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B083ZN2YXV",
+          "value": "3-Way Grey-Coin",
+          "photo": "https://m.media-amazon.com/images/I/51KB6HyyshL.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0BQ65J5C1",
+          "value": "3-Way Grey-Luminous",
+          "photo": "https://m.media-amazon.com/images/I/41DnlVqg9IL.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0DL5NRKK1",
+          "value": "3-Way Khaki Coconut Tree",
+          "photo": "https://m.media-amazon.com/images/I/51SeA9SJC7L.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0CCRNBJYG",
+          "value": "3-Way Light Grey",
+          "photo": "https://m.media-amazon.com/images/I/41CmMxQEWKL.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0CL6DX2Z7",
+          "value": "3-Way Pentagram",
+          "photo": "https://m.media-amazon.com/images/I/41AJzdHN4KL.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0CCRN16S4",
+          "value": "3-Way Rainbow",
+          "photo": "https://m.media-amazon.com/images/I/41f8u0maulL.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B083ZMHP3V",
+          "value": "3-Way Red",
+          "photo": "https://m.media-amazon.com/images/I/415O1Rl03WL.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0CP41RVNM",
+          "value": "Plush 3-Way Light Grey",
+          "photo": "https://m.media-amazon.com/images/I/41u9kpoAK0L.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0CSRVC5KY",
+          "value": "Plush 3-Way Rainbow Color",
+          "photo": "https://m.media-amazon.com/images/I/41ny9pQbZuL.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0DL5LZBMB",
+          "value": "3-Way Beige Deer",
+          "photo": "https://m.media-amazon.com/images/I/41lhHFpPRLL.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0DL5LV74K",
+          "value": "3-Way Khaki Hedgehog",
+          "photo": "https://m.media-amazon.com/images/I/418KiQ-saYL.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0BNNH28V6",
+          "value": "3-Way Pink-Rabbit",
+          "photo": "https://m.media-amazon.com/images/I/417W-HHVttL.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0D9Y5B9QS",
+          "value": "3-Way-Large Blue",
+          "photo": "https://m.media-amazon.com/images/I/41zc1VdUTIL.jpg",
+          "is_available": true
+        }
+      ]
+    },
+    "all_product_variations": {
+      "B0DL5NRKK1": {
+        "size": "3-Way",
+        "color": "3-Way Khaki Coconut Tree"
+      },
+      "B0CP41RVNM": {
+        "size": "3-Way",
+        "color": "Plush 3-Way Light Grey"
+      },
+      "B0CSRVC5KY": {
+        "size": "3-Way",
+        "color": "Plush 3-Way Rainbow Color"
+      },
+      "B0DGY12Q6K": {
+        "size": "3-Way",
+        "color": "3-Way Geometry Grey"
+      },
+      "B0CL6DX2Z7": {
+        "size": "3-Way",
+        "color": "3-Way Pentagram"
+      },
+      "B0BNNH28V6": {
+        "size": "3-Way",
+        "color": "3-Way Pink-Rabbit"
+      },
+      "B0BQ65J5C1": {
+        "size": "3-Way",
+        "color": "3-Way Grey-Luminous"
+      },
+      "B0DGXVL2GD": {
+        "size": "3-Way",
+        "color": "3-Way Geometry Blue"
+      },
+      "B0CCRNBJYG": {
+        "size": "3-Way",
+        "color": "3-Way Light Grey"
+      },
+      "B0DL5NLX2X": {
+        "size": "3-Way",
+        "color": "3-Way Daisy Blue Printed"
+      },
+      "B07YKRPYJH": {
+        "size": "3-Way",
+        "color": "3-Way Blue"
+      },
+      "B083ZMKRS8": {
+        "size": "3-Way",
+        "color": "3-Way Blue-Coin"
+      },
+      "B0DL5M9QY9": {
+        "size": "3-Way",
+        "color": "3-Way Daisy Green"
+      },
+      "B0DL5LV74K": {
+        "size": "3-Way",
+        "color": "3-Way Khaki Hedgehog"
+      },
+      "B0CCRN5PTF": {
+        "size": "3-Way",
+        "color": "3-Way Black&Rainbow"
+      },
+      "B0DHCDNCB4": {
+        "size": "3-Way",
+        "color": "3-Way Gray Sun"
+      },
+      "B083ZMHP3V": {
+        "size": "3-Way",
+        "color": "3-Way Red"
+      },
+      "B0CCRN16S4": {
+        "size": "3-Way",
+        "color": "3-Way Rainbow"
+      },
+      "B0DGXWFBDL": {
+        "size": "3-Way",
+        "color": "3-Way Daisy Burlwood"
+      },
+      "B083ZN2YXV": {
+        "size": "3-Way",
+        "color": "3-Way Grey-Coin"
+      },
+      "B0D9Y5B9QS": {
+        "size": "3-Way",
+        "color": "3-Way-Large Blue"
+      },
+      "B0DL5JL6CW": {
+        "size": "3-Way",
+        "color": "3-Way Daisy Green Printed"
+      },
+      "B0DL5LZBMB": {
+        "size": "3-Way",
+        "color": "3-Way Beige Deer"
+      }
+    },
+    "has_aplus": true,
+    "aplus_images": [
+      "https://m.media-amazon.com/images/S/aplus-media/sc/c5b08251-d8de-471a-af73-c7cd841aa9d9.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sc/273072cf-ae2c-48c9-b22f-adf2c239e683.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sc/42362802-19ae-4cf7-b034-e0b4e1d10feb.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sc/31d99894-bbbc-4a3c-a087-bb2934ce8182.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sc/e2b2ce52-ed39-42aa-acb0-b1af73300411.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sc/ec6f01d9-331c-4995-95f5-62fef1301ccc.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sc/500f44ba-4f01-4c27-b0e9-6a1dd5b2e60f.jpg"
+    ],
+    "has_brandstory": true,
+    "frequently_bought_together": [
+      {
+        "product_title": "This item:  Tempcore Pet Cat Tunnel Tube Cat Toys 3 Way Collapsible, Tunnels for Indoor Cats\uff0cKitty Bored Peek Hole Toy Ball Cat, Puppy, Kitty, Kitten, Rabbit",
+        "product_price": "$11.99",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/61FN+6TrJWL.jpg"
+      },
+      {
+        "product_title": "Catstages Tower of Tracks 3-Level Cat Track Toy with 6 Balls, Interactive Toy for Indoor Cats, Orange",
+        "product_price": "$10.55",
+        "product_url": "https://www.amazon.com/dp/B00DT2WL26",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/812MUtPNc-L.jpg"
+      },
+      {
+        "product_title": "Fashion's Talk Cat Toys Variety Pack for Kitty 20 Pieces",
+        "product_price": "$9.99",
+        "product_url": "https://www.amazon.com/dp/B01AHM6P18",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71YnqjUr2OL.jpg"
+      }
+    ],
+    "landing_asin": "B07YKRPYJH",
+    "parent_asin": "B07YKTK8Y6"
+  }
+}

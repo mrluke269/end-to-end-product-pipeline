@@ -1,0 +1,508 @@
+{
+  "status": "OK",
+  "request_id": "6d8b3b21-f266-43f6-9f4e-813e293d4991",
+  "parameters": {
+    "asin": "B0DG1X5KHM",
+    "country": "US",
+    "language": "en_US"
+  },
+  "data": {
+    "asin": "B0DG1X5KHM",
+    "product_title": "Interactive Cat Toys for Indoor Cats,The 3rd Generation Agile Moving Cat Ball with Elastic Mesh Tail,Automatic Kitten Toys for Bored Indoor Adult Cats,Motion Activated (Orange)",
+    "product_price": "14.99",
+    "product_original_price": "$19.99",
+    "unit_price": "$14.99",
+    "unit_count": 1,
+    "minimum_order_quantity": null,
+    "currency": "USD",
+    "country": "US",
+    "product_byline": "Brand: Jkanti",
+    "product_byline_link": "https://www.amazon.com/s/ref=bl_dp_s_web_0?ie=UTF8&search-alias=aps&field-keywords=Jkanti",
+    "product_byline_links": [
+      "https://www.amazon.com/s/ref=bl_dp_s_web_0?ie=UTF8&search-alias=aps&field-keywords=Jkanti"
+    ],
+    "product_star_rating": "4.2",
+    "product_num_ratings": 4980,
+    "product_url": "https://www.amazon.com/dp/B0DG1X5KHM",
+    "product_slug": "Jkanti-Interactive-Generation-Automatic-Activated",
+    "product_photo": "https://m.media-amazon.com/images/I/71+hyff3QAL._AC_SL1500_.jpg",
+    "product_num_offers": 3,
+    "product_availability": "In Stock",
+    "is_best_seller": false,
+    "is_amazon_choice": true,
+    "is_prime": true,
+    "climate_pledge_friendly": false,
+    "sales_volume": "10K+ bought in past month",
+    "about_product": [
+      "\u3010Can Play On Any Floor\u3011The powerful motor enables the interactive cat ball toy to move quickly on thick carpets, thin carpets, and hard floors. However, the movement speed on carpets is slightly slower than that on hard floors. If you notice a significant slowdown in running speed compared to before, follow the instructions to clean the hair on the connecting rod",
+      "\u3010Skin-friendly Material\u3011The surface of the ball is made of flocking and silica gel. The fluffy touch makes cats willing to get close to it. The 2.3-inch size is suitable for adult cats and kittens. You can regularly wipe the dirt on the surface of the toy ball",
+      "\u3010Two Interaction Modes\u3011Press and hold the button for 1 second to activate the slow mode (the red light flashes and then turns off). It is suitable for timid, less active, or older cats. We have specifically turned off the light for these cats to avoid scaring or harming their eyes. Press the button again briefly to switch to the fast mode (the blue light is on continuously). This mode is applicable to all surfaces such as carpets and hard floors and is ideal for bold and energetic adult cats",
+      "\u3010Interesting Tail Accessory\u3011The elastic tail accessory and the ball move quickly together, making cats think this is an agile mouse and go crazy for it. In the package, we have included two tail accessories for your convenience to replace",
+      "\u3010Motion Activatied\u3011After the cat toy is turned on and you play with your cat for 3 minutes, it enters standby mode. When your cat pats or touches it again, it will be reactivated to play with your cat for another three minutes. During each activation, a bird chirping sound will be emitted to attract cats to chase and catch, stimulating their hunting instincts",
+      "\u3010Rechargeable\u3011The electric ball has a built-in 600mAh rechargeable battery. It is recommended that you use a mobile phone charger and the Type-C USB cable included in the package to charge the interactive cat toy. There is no need to purchase additional batteries",
+      "\u3010Warm Tip\u3011The electric ball toy is not waterproof. Please use the damp cloth (included) to clean the dirt on the surface. If you receive a defective ball or encounter any problems during use, please contact our after-sales team. We will surely satisfy you"
+    ],
+    "product_description": null,
+    "product_information": {
+      "Item Weight": "5.3 Ounces",
+      "Manufacturer": "Jkanti",
+      "ASIN": "B0DG1X5KHM",
+      "Item model number": "LS9",
+      "Batteries": "1 D batteries required.",
+      "Date First Available": "October 10, 2024",
+      "Item Package Dimensions L x W x H": "4.02 x 3.19 x 2.64 inches",
+      "Item Dimensions  LxWxH": "2.28 x 2.28 x 3.19 inches",
+      "Brand Name": "Jkanti",
+      "Target Audience Keyword": "Cats, house-cats",
+      "Directions": "1. If the ball moves slowly or stops moving, please clean the hair stuck to the product.<br>2. If you think that the rolling speed of the ball is too fast and might scare the cat, you can switch to the low-speed gear. We have also thoughtfully turned off the light for your cat.<br>3. Accessories are consumable items. For more accessories, please contact the seller<br>4. Before playing with your cat, please check whether the surface of your cat ball toy is in good condition. If not, please contact the seller for a new replacement.<br>5.After receiving the toy, please use a mobile phone charger and the Type-C USB cable in the package to fully charge it.",
+      "Warranty Description": "1 Year",
+      "Model Name": "Interactive Cat Toy Ball",
+      "Color": "Orange",
+      "Size": "S",
+      "Material": "Flocking/Silica gel",
+      "Age Range Description": "All Life Stages",
+      "Number of Items": "1",
+      "Breed Recommendation": "Cats",
+      "Included Components": "Ball Toy x1,Tail accessory x2,USB Cable x1, User Manual x1,Glasses Cloth x1",
+      "Specific Uses for Product": "Active, Behavior, Indoor, Weight"
+    },
+    "rating_distribution": {
+      "1": 5,
+      "2": 4,
+      "3": 11,
+      "4": 19,
+      "5": 61
+    },
+    "product_photos": [
+      "https://m.media-amazon.com/images/I/71+hyff3QAL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71G2o8cQvwL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71sSlZUebyL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/810gq5aG4CL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61tKT3zLpaL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71VdW4hgT5L._AC_SL1500_.jpg"
+    ],
+    "product_videos": [
+      {
+        "id": "amzn1.vse.video.03dd3b811bff4cdc887866f8b079ac61",
+        "title": "Interactive Cat Toy Ball Toy",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6b837094-12fa-4769-bdad-9e0bda3eeca2/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/A1jYNT6wh8L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0DG1X5KHM",
+        "parent_asin": "B0FCFD743M"
+      },
+      {
+        "id": "amzn1.vse.video.01ac4861d57d4f05a0656bae20a1da41",
+        "title": "Interactive Cat Ball Toy",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/34f460f7-0b8a-40db-9099-ae7b6cd0045b/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/A1gvyJJGKyL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0DG1X5KHM",
+        "parent_asin": "B0FCFD743M"
+      },
+      {
+        "id": "amzn1.vse.video.0e0ab43a6c7545c595bbdc000d198991",
+        "title": "Interactive Cat Toy Ball",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f4a95883-e299-4891-a33c-a9929bbc96ba/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1440",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/A1jYNT6wh8L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0DG1X5KHM",
+        "parent_asin": "B0FCFD743M"
+      },
+      {
+        "id": "amzn1.vse.video.022bd384e23f4b36a39b46fd69d8952f",
+        "title": "Comparing and Ranking 9 Cat Ball Toys To Find the Best",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7f03e256-dbf6-4fe6-8b4e-35daaca76afd/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/81XodW+StCL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0DG1X5KHM",
+        "parent_asin": "B0FCFD743M"
+      },
+      {
+        "id": "amzn1.vse.video.0aec9a8566a44bc9bd0bfb1e8fc2a200",
+        "title": "BIG WARNING JKANTI Ball HAS A MUST SEE DETAIL FOR YOUR CAT",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5240b469-d6e4-49e8-a670-86b5ee62dd15/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/91hjn6ahJQL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png",
+        "product_asin": "B0DG1X5KHM",
+        "parent_asin": "B0FCFD743M"
+      },
+      {
+        "id": "amzn1.vse.video.0ced4a23b54d415a817a57e04b1ea90e",
+        "title": "Giociv Vs Jkanti Interactive Cat Ball Toy. Which wins?",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/910a9974-efd3-4bf5-8067-a7fd5dd73edb/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61uqEaWvZEL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0DG1X5KHM",
+        "parent_asin": "B0FCFD743M"
+      },
+      {
+        "id": "amzn1.vse.video.023298c567ee4e7d91e5ea62bbf83a76",
+        "title": "Jkanti Vs Viwik Cat Ball Toy. Which is Better?",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/509ff637-0219-4dc9-ac81-f55a8e1e3af0/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/B1VtUjnE1tL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0DG1X5KHM",
+        "parent_asin": "B0FCFD743M"
+      },
+      {
+        "id": "amzn1.vse.video.03d5ecda010b4711ae4489f7680b5785",
+        "title": "Pros and Cons of Jkanti Vs Tchernt Cat Ball Toys",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/301486a9-af31-40a2-a767-937b928f9925/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/B1B8OuOmB-L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0DG1X5KHM",
+        "parent_asin": "B0FCFD743M"
+      }
+    ],
+    "user_uploaded_videos": [],
+    "video_thumbnail": "https://m.media-amazon.com/images/I/A1jYNT6wh8L.SX522_.jpg",
+    "has_video": true,
+    "product_details": {
+      "Product Dimensions": "2.28 x 2.28 x 3.19 inches; 5.3 ounces",
+      "Item model number": "LS9",
+      "Batteries": "1 D batteries required.",
+      "Date First Available": "October 10, 2024",
+      "Manufacturer": "Jkanti",
+      "ASIN": "B0DG1X5KHM",
+      "Best Sellers Rank": "#622 in Pet Supplies (See Top 100 in Pet Supplies)    #2 in Cat Toy Balls",
+      "Customer Reviews": "4.2             4.2 out of 5 stars          \n\n                          4,980 ratings"
+    },
+    "customers_say": "Customers find this cat toy to be great for indoor cats, entertaining their pets for hours with its unpredictable movements and fast rolling action. The product is worth the price and stays charged for a long time, with one customer noting it works well even in tight spaces. While some say it holds up well, others report it breaking quickly, and opinions are mixed about its functionality, with some units stopping working after two days. The noise level also receives mixed feedback, with some finding it not too loud while others consider it too noisy.",
+    "top_reviews": [
+      {
+        "review_id": "RN4W4P5E3E1OY",
+        "review_title": "Great toy to keep cats occupied.",
+        "review_comment": "Cats love it. You might want to get a couple because they always end up somewhere the cats cannot get them. If you have a big open space without a lot of places for it to get stuck it helps. They like the tail on it and you get a spare. I just ordered 2 more (8 rescue cats) They like the sound effects too. They do not take a long time to charge up. I have not used the fast speed but the slow feed is pretty fast. It zips all over and changes directions. As long as it does not get stuck under furniture there is no stopping it.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RN4W4P5E3E1OY",
+        "review_author_id": "AEWBSODUSD2RKJBHZWUEYBOJ6G7Q",
+        "review_author": "gsxrsquid",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEWBSODUSD2RKJBHZWUEYBOJ6G7Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 8, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B0DG1X5KHM",
+        "reviewed_product_variant": {
+          "Color": "Orange"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R18DR2ORB4KB4C",
+        "review_title": "Best cat toy",
+        "review_comment": "We recently got a new kitten, and she is the most playful kitten I\u2019ve had so far. My two older cats (6y and 4y) are absolutely annoyed by our 4 month old kitten always chasing them and trying to play. I\u2019ve gotten her several cat toys now but she keeps losing them! I have no idea where they end up. And poor Zafina looks so sad when no one will play with her. We got this yesterday though and I turned it on and she\u2019s gone wild for it. I left it on for her when I went to bed and she was still chasing it around when I got up this morning. I turned it off and she\u2019s was swatting at it trying to get it going again. I\u2019m amazed it doesn\u2019t need to be charged yet. The little chirping sounds get my older cats interested in it too. All three of them have been stalking this thing since I set it to the high speed setting. It has not gotten stuck anywhere, but my kitten will pin it down and it tries to shake itself loose from her hold. It has no problem on our rugs as well as the wood floors. I would consider this an amazing value for the price. Not only does it entertain the cats but it does what I was hoping it would do: save my toes and give some peace for my older cats.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R18DR2ORB4KB4C",
+        "review_author_id": "AHWBUX6CHNDVGA4R7VULNIXBRFXA",
+        "review_author": "Sarah",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHWBUX6CHNDVGA4R7VULNIXBRFXA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 18, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B0DG1X5KHM",
+        "reviewed_product_variant": {
+          "Color": "Orange"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3B0MGJVHINT3H",
+        "review_title": "It's ALIVE! LOL! Cats love it!",
+        "review_comment": "I swear this this is ALIVE! LOL!!!! OK so yah if your cats are timid start off with the low setting. Our mother and son rescue kitties love toys but this was their first moving/noisy toy. Mama is more timid and it took a while for her to do more than just sit and watch it. The kitten and her would sit and watch it-- that was entertaining to us! We were glad that it was even holding their attention! But now the kitten chases it around and does summersaults around with it. Mama will even pick it up by its \"tail\" and has rescued it with it gets stuck. Yes it gets stuck under things. Sometimes the ball can shake itself loose and sometimes it needs help. It will roll to the same spots. I wonder if it's part Roomba how it does that. It even rolls around my feet like the kitten and seems to hide in/behind things. Its weird! Lol! I'm glad it comes with an extra tail but I wish it was stronger. The (petals/feathers?) were the first thing to fall off. The net part got a hole in it so I removed the bell before they could swallow it. The poofy balls get caught on stuff and so the tail is way stretched out. But oh well. They don't care. Hair does get stuck around where it spins and it is a bit hard to get it out from under the button area. Then I always hit the button putting the clear piece back on. Lol. When it does get lost, you can still find it if it's making noise. If the lights are off in the room you may see its occasional blinking. But I do love that it turns off until its mived again so I can leave it out. I wish we could whistle or something and have it chirp to find it easier. Or a remote. Haha. But if you forget about it, trust your cats will find it and wake you up at 5am playing with it! Lol! The cats do love it so it's definitely worth the money! Charging it is quick and convenient. I have to hide it in a drawer when I charge it, but the kitten knows exactly where it is and will sit on the drawer and paw at it. So kitty approved! Edit: As of June 2025: They wore it down already! The orange cover half came on but I used some non toxic glue to put it back on. Ordered more tails and one had to be glued at the base out of the box. Motor has slowed but they'll still watch it and sometimes attack it. They preferred the fast speed so I will have to buy a new one (or 2 lol) and retire the other. Still worth it for all the playtime they got out of it!",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3B0MGJVHINT3H",
+        "review_author_id": "AFE5JQX5DLLUXWXMZYX7EZRQKNNQ",
+        "review_author": "Bcgphotography and Art",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFE5JQX5DLLUXWXMZYX7EZRQKNNQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/61afc2d3-9d4c-4608-96a7-26c0d4f3b5bf._CR0%2C0%2C499%2C499_SX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on February 25, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "37 people found this helpful",
+        "reviewed_product_asin": "B0DG1X5KHM",
+        "reviewed_product_variant": {
+          "Color": "Orange"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3MP73ABRL1SN8",
+        "review_title": "Awesome entertainment and good quality toy",
+        "review_comment": "I like this toy a lot. Bought it over 2 months ago. My cats (about 2 years old) love to watch it and chase it; they will be captivated for hours. It is not too loud, or too heavy. One of my cats is normally timid and anxious about unusual noises or movement - but she really likes this ball toy. The charge lasts for approximately 6 hours or so and it comes with a USB cable for charging. I let it loose about twice a week so they don't burnt out on it. It makes occasional chirping noises moves kinda random, and pauses for minutes at a time. It has 2 modes I think, the second being a little faster and longer bursts. It hardly ever gets stuck on anything so I rarely have to move it back into the open area. I bought the accessory pack with extra tails but have not needed it so far. It comes with 2 tails and we are still using the first one and its holding up well considering they bite and claw it a lot.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3MP73ABRL1SN8",
+        "review_author_id": "AHBZA2RFGENEW3XABGL4B6NY3ESQ",
+        "review_author": "Grumpy Old Man",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHBZA2RFGENEW3XABGL4B6NY3ESQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on August 17, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "35 people found this helpful",
+        "reviewed_product_asin": "B0DG1X5KHM",
+        "reviewed_product_variant": {
+          "Color": "Orange"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1LF61WL43C9IL",
+        "review_title": "Good movement. Annoying \"chirping\" sound",
+        "review_comment": "So far works great. I have a timid cat and the slow mode is good for her. I really wish there was an option to turn off the \"simulated bird song\". It is a loud robotic chirping that goes off every 30 seconds or so anytime the toy is activated on both the fast and slow mode. It's loud enough to wake you up or annoy housemates and makes it so I have to locate the toy and make sure it is off every night so that the cat cannot activate the loud chirping in the middle of the night.",
+        "review_star_rating": "3",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1LF61WL43C9IL",
+        "review_author_id": "AEIASE4AHEFIHR3LXBRBRXC7GWXQ",
+        "review_author": "Lesli van Moon",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEIASE4AHEFIHR3LXBRBRXC7GWXQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 23, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0DG1X5KHM",
+        "reviewed_product_variant": {
+          "Color": "Orange"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R12WYEJVDX53OG",
+        "review_title": "My kitten adores it",
+        "review_comment": "My kitten adores this toy. It charged fast (much less than the two hours indicated), and as long as it\u2019s still charged, his attention is riveted. It flips the tail section over itself and then runs away making squeaky noises: irresistible! The manufacturer also includes a spare tail attachment and a cleaning cloth. This one was worth the price..",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R12WYEJVDX53OG",
+        "review_author_id": "AHWMSCHKX7USBF3T2UAGLZ6EMM7A",
+        "review_author": "Tootsie",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHWMSCHKX7USBF3T2UAGLZ6EMM7A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 20, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0DG1X5KHM",
+        "reviewed_product_variant": {
+          "Color": "Orange"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1IR138NL6NDUZ",
+        "review_title": "Cats Love It",
+        "review_comment": "well thought out. Excellent toy. makes chirping sounds and alternates between moving and not moving. So easy to remove the trapped hair. I rescue cats and due to the outdoor dangers ( cars, dirty water, toxic things they can eat) they r indoors. this stimulates their curiosity and playfulness. We bought one then a second one after we saw hoe much they love it.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1IR138NL6NDUZ",
+        "review_author_id": "AHZITH46G4CIEJHCOAVNH23BAYXQ",
+        "review_author": "petCare",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHZITH46G4CIEJHCOAVNH23BAYXQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 24, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0DG1X5KHM",
+        "reviewed_product_variant": {
+          "Color": "Orange"
+        },
+        "is_vine": false
+      }
+    ],
+    "top_reviews_global": [
+      {
+        "review_id": "R25K9411D9HLGV",
+        "review_title": "cat toy",
+        "review_comment": "great cat toys my cat loves it",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R25K9411D9HLGV",
+        "review_author_id": null,
+        "review_author": "sam euripides",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Australia on October 6, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0DG1X5KHM",
+        "reviewed_product_variant": {
+          "Color": "Orange"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2CL0H7IKEMU2L",
+        "review_title": "Value for money; smart & simple design",
+        "review_comment": "Performs as advertised. A little too fast & aggressive but harmless to my cats. Not interactive just keeps their attention fixed on the movement. Battery life is short but charges quickly as well so not much of an issue. Run time is about 10 min. Definitely a good buy as the price is reasonable and the material is of decent quality.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2CL0H7IKEMU2L",
+        "review_author_id": null,
+        "review_author": "Charumathi ",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in India on August 7, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0DG1X5KHM",
+        "reviewed_product_variant": {
+          "Color": "Green"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3NDGUEH6RZDCP",
+        "review_title": "Robust toy for an active kitten!",
+        "review_comment": "This is an amazing toy I use every day with my Bengal-mix kitten. I've had it for over a month and it's still going and going. The variation in motion and sound keeps my crazy kitten playing for at least an hour each time I turn it on. It's a robust toy that won't let you down like other cheaper models. I know... I bought a cheap version and it only lasted 5 days. This one is a little larger, heavier and padded with a material that prevents ruining your walls and furniture, but will keep your kitten extremely entertained. Absolutely fun to watch!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3NDGUEH6RZDCP",
+        "review_author_id": null,
+        "review_author": "Helene",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Canada on April 27, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0DG1X5KHM",
+        "reviewed_product_variant": {
+          "Color": "Orange"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R6AZB5RASQ7HI",
+        "review_title": "Best entertainment for a kitten or a curious mature cat",
+        "review_comment": "It\u2019s very entertaining for a kitten\u2026 best part if it goes under a sofa if automatically comes out.. no more bending down to retrieve toy.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R6AZB5RASQ7HI",
+        "review_author_id": null,
+        "review_author": "Cynthia Ann Perry",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United Kingdom on September 7, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0DG1X5KHM",
+        "reviewed_product_variant": {
+          "Color": "Orange"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R22AEAGJAOB3KE",
+        "review_title": "Really good toy for adventurous cats ( not suitable for shy or timid cats though)",
+        "review_comment": "Brilliant toy. Tremendous fun for adventurous cats. Can attach other things to it. \ud83d\ude0a\ud83d\udc4d",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R22AEAGJAOB3KE",
+        "review_author_id": null,
+        "review_author": "Cathy",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United Kingdom on July 26, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0DG1X5KHM",
+        "reviewed_product_variant": {
+          "Color": "Orange"
+        },
+        "is_vine": false
+      }
+    ],
+    "delivery": "FREE delivery Tuesday, November 4 on orders shipped by Amazon over $35 Or Prime members get FREE delivery Saturday, November 1. Order within 7 hrs 12 mins. Join Prime",
+    "primary_delivery_time": "Tuesday, November 4",
+    "category": {
+      "id": "pets",
+      "name": "Pet Supplies"
+    },
+    "category_path": [
+      {
+        "id": "2619533011",
+        "name": "Pet Supplies",
+        "link": "https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/ref=dp_bc_1?ie=UTF8&node=2619533011"
+      },
+      {
+        "id": "2975241011",
+        "name": "Cats",
+        "link": "https://www.amazon.com/cats-supplies-kittens-catnip-tree-litter/b/ref=dp_bc_2?ie=UTF8&node=2975241011"
+      },
+      {
+        "id": "2975303011",
+        "name": "Toys",
+        "link": "https://www.amazon.com/cat-feather-laser-toys-catnip/b/ref=dp_bc_3?ie=UTF8&node=2975303011"
+      },
+      {
+        "id": "2975304011",
+        "name": "Balls",
+        "link": "https://www.amazon.com/cat-toys-balls/b/ref=dp_bc_4?ie=UTF8&node=2975304011"
+      }
+    ],
+    "product_variations_dimensions": [
+      "color"
+    ],
+    "product_variations": {
+      "color": [
+        {
+          "asin": "B0DG1X5KHM",
+          "value": "Orange",
+          "photo": "https://m.media-amazon.com/images/I/31YvLOoWZsL.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0DG2DVS14",
+          "value": "Green",
+          "photo": "https://m.media-amazon.com/images/I/317lBrgHu+L.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0DG26GGMS",
+          "value": "Red",
+          "photo": "https://m.media-amazon.com/images/I/31cBdYpvawL.jpg",
+          "is_available": true
+        }
+      ]
+    },
+    "all_product_variations": {
+      "B0DG26GGMS": {
+        "color": "Red"
+      },
+      "B0DG2DVS14": {
+        "color": "Green"
+      },
+      "B0DG1X5KHM": {
+        "color": "Orange"
+      }
+    },
+    "has_aplus": true,
+    "aplus_images": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/99ea43a2-aee7-4ac6-9d6d-b2c1dcf3d004.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/df5b601e-9fdc-476c-906c-f73d17be1ef1.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b0317222-2e3f-41be-b190-5147c6ce5e3f.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9e522d01-0969-470c-8fdf-7ce02f2036a4.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c2b2da8f-59c9-4d10-b349-566ba0fc9d44.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b87ed9f7-c259-4943-92c6-92e2472b5a4e.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/10fe4399-dba5-4a54-b234-1ff4ac29ce88.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ed38f8bf-5d62-4aef-9a8e-cc906debb02b.jpg"
+    ],
+    "has_brandstory": false,
+    "frequently_bought_together": [],
+    "landing_asin": "B0DG1X5KHM",
+    "parent_asin": "B0FCFD743M"
+  }
+}

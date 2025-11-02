@@ -1,0 +1,537 @@
+{
+  "status": "OK",
+  "request_id": "1068b02c-f276-4bd6-8246-6201978a892f",
+  "parameters": {
+    "asin": "B0D91JB7CR",
+    "country": "US",
+    "language": "en_US"
+  },
+  "data": {
+    "asin": "B0D91JB7CR",
+    "product_title": "Yaheetech 42 inch Double Door Dog Crate w/Divider for Puppy to Adult XL Collapsible Metal Crate with Removable Tray Wire Dog Kennel for Large Dogs Portable Travel Cage, Black",
+    "product_price": "55.99",
+    "product_original_price": "$69.99",
+    "minimum_order_quantity": null,
+    "currency": "USD",
+    "country": "US",
+    "product_byline": "Visit the Yaheetech Store",
+    "product_byline_link": "https://www.amazon.com/stores/Yaheetech/page/45E49FA9-D441-4518-9236-4BBE8AE0C8CD?is_byline_deeplink=true&deeplink=D540D845-A1D6-43ED-857E-0C8897FC98EA&redirect_store_id=45E49FA9-D441-4518-9236-4BBE8AE0C8CD&lp_asin=B0D91JB7CR&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto",
+    "product_byline_links": [
+      "https://www.amazon.com/stores/Yaheetech/page/45E49FA9-D441-4518-9236-4BBE8AE0C8CD?is_byline_deeplink=true&deeplink=D540D845-A1D6-43ED-857E-0C8897FC98EA&redirect_store_id=45E49FA9-D441-4518-9236-4BBE8AE0C8CD&lp_asin=B0D91JB7CR&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    ],
+    "product_star_rating": "4.5",
+    "product_num_ratings": 1430,
+    "product_url": "https://www.amazon.com/dp/B0D91JB7CR",
+    "product_slug": "Yaheetech-Collapsible-Removable-Portable-Black",
+    "product_photo": "https://m.media-amazon.com/images/I/81QkynBKf4L._AC_SL1500_.jpg",
+    "product_num_offers": 3,
+    "product_availability": "In Stock",
+    "is_best_seller": false,
+    "is_amazon_choice": true,
+    "is_prime": false,
+    "climate_pledge_friendly": false,
+    "sales_volume": "3K+ bought in past month",
+    "about_product": [
+      "Versatile Dog Crate for All Stages: From playful puppies to adult dogs, this dog crate with divider adapts to every stage. Whether teaching your puppy good potty habits or helping them create a cozy, designated sleeping area, this adjustable divider helps tailor the space to ensure comfort and convenience",
+      "Portable & Collapsible Dog Crate: With its convenient buckle setup and a detachable handle, this 107 cm dog crate can be easily folded down to a compact size of 108.5 cm L \u00d7 61 cm W \u00d7 10 cm H. This dog cage is ideal for easy carrying during trips or camping and can be conveniently stored under your bed, sofa, or in tight spaces when not in use",
+      "Spacious Haven for Medium-Sized to Large Dogs: Tailored flawlessly for medium-sized to large dogs, this 42-inch pet cage is an ideal retreat for breeds like Labradors, Golden Retrievers, and Border Collies. Your furry friend will have plenty of room to lounge, stretch out, or chill comfortably in this cozy space",
+      "Pull-Out Leak-Proof Tray: This pet crate includes a pull-out leak-proof tray at the bottom to catch spills and accidents. The tray can be easily removed for cleaning, making maintaining a snap. The locking buckles keep the tray securely in place",
+      "Grow-with-Me Interior: This dog crate features a clever divider that adjusts the living space as your puppy grows. It\u2019s not just a cozy home but a great assistant for enhancing potty training during those early days"
+    ],
+    "product_description": null,
+    "product_information": {
+      "Item Weight": "30 Pounds",
+      "Manufacturer": "Yaheetech",
+      "ASIN": "B0D91JB7CR",
+      "Item model number": "614627 Black",
+      "Date First Available": "July 8, 2024",
+      "Item Package Dimensions L x W x H": "43 x 25.25 x 4 inches",
+      "Item Dimensions  LxWxH": "42 x 24 x 26 inches",
+      "Brand Name": "Yaheetech",
+      "Target Audience Keyword": "dogs",
+      "Directions": "With a foldable design with locking buckles and a handle for portability, it's ideal for journeys and outdoor adventures with your furry companion.",
+      "Warranty Description": "3 Year Manufacturer",
+      "Model Name": "614627 Black",
+      "Color": "Black",
+      "Size": "42\u2033 L \u00d7 24\u2033 W \u00d7 26\u2033 H",
+      "Material": "Metal, Plastic",
+      "Age Range Description": "All Life Stages",
+      "Breed Recommendation": "Large",
+      "Included Components": "Divider, Removable Tray",
+      "Specific Uses for Product": "Indoor, Outdoor, Transport"
+    },
+    "rating_distribution": {
+      "1": 4,
+      "2": 2,
+      "3": 5,
+      "4": 13,
+      "5": 76
+    },
+    "product_photos": [
+      "https://m.media-amazon.com/images/I/81QkynBKf4L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91bYAXE4eAL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81AyPl+6t0L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81f2yUJjYWL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91-dRx8qCEL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81YkFyEcNAL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81tNzwOMPIL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91V8J8ITUsL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71eahlSLJAL._AC_SL1500_.jpg"
+    ],
+    "product_videos": [
+      {
+        "id": "amzn1.vse.video.00be72bef8314468a4dfe4d000e084fd",
+        "title": "Versatile Yaheetech Dog Crate for All Stages",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bd30028e-b59b-43e6-90e2-844cd6fd4c7a/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/51T9WuSy8zL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0D91JB7CR",
+        "parent_asin": "B0D91K3MD5"
+      },
+      {
+        "id": "amzn1.vse.video.0bbacccec4fb4e6abadefb20ec5bf6d6",
+        "title": "Double Door Dog Crate With Divider",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bae5c1d5-9e3b-4597-8cc6-76fc34280990/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/81AxcHCTgWL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png",
+        "product_asin": "B0D91JB7CR",
+        "parent_asin": "B0D91K3MD5"
+      },
+      {
+        "id": "amzn1.vse.video.099809698b4745f4851751e9949309b7",
+        "title": "Phillips Family Review of XL Dog Kennel",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/43896934-bcdb-41ad-b58f-0b7ed7eed259/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/71k++nK0caL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0D91JB7CR",
+        "parent_asin": "B0D91K3MD5"
+      },
+      {
+        "id": "amzn1.vse.video.0a3e65b87bf14d1d97aeb2f4cc2f8c6a",
+        "title": "Double Door Crate for Easy In and Out",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5c68a494-8a91-49c4-8114-ad5bb34932bf/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/91x+POWE92L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0D91JB7CR",
+        "parent_asin": "B0D91K3MD5"
+      },
+      {
+        "id": "amzn1.vse.video.0825a27255b14dbca79d4c47568f0383",
+        "title": "Is this dog crate WORTH IT!?",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/32f7ab07-aa15-42b7-bbf3-aa673242d92d/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/91xyVpOlYOL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png",
+        "product_asin": "B0D91JB7CR",
+        "parent_asin": "B0D91K3MD5"
+      },
+      {
+        "id": "amzn1.vse.video.052da3fbb3ec4d3d9a5b3d7119778eef",
+        "title": "Worth Purchasing?!? Check this out!",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5643d061-6cfa-42f9-a251-8d69adeea649/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61ALKeKArcL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0D91JB7CR",
+        "parent_asin": "B0D91K3MD5"
+      }
+    ],
+    "user_uploaded_videos": [],
+    "video_thumbnail": "https://m.media-amazon.com/images/I/51T9WuSy8zL.SX522_.jpg",
+    "has_video": true,
+    "product_details": {
+      "Brand": "Yaheetech",
+      "Product Dimensions": "42&#34;L x 24&#34;W x 26&#34;H",
+      "Gap Size": "1.3 Inches",
+      "Material": "Metal, Plastic",
+      "Specific Uses For Product": "Indoor, Outdoor, Transport"
+    },
+    "customers_say": "Customers find the dog crate to be of good quality and appreciate its size, particularly noting it's suitable for Great Danes and growing puppies. The crate is easy to assemble and offers decent value for money. While some customers report sturdy construction, others find it isn't very sturdy, and the latches are difficult to open. The functionality receives positive feedback, with customers saying it works well for most dogs, including 30 lbs mini bernedoodles.",
+    "top_reviews": [
+      {
+        "review_id": "RA5L82STUI228",
+        "review_title": "Easy to Set Up & Perfect for My Dog!",
+        "review_comment": "I recently purchased the Yaheetech 36-inch Dog Crate for my puppy, and I\u2019m really impressed! The setup was incredibly easy, which made the whole process so much smoother. The crate is sturdy, functional, and provides plenty of space for my dog to grow into. Pros: \u2714\ufe0f Easy Assembly \u2013 I was able to set it up in just a few minutes\u2014no tools required! \u2714\ufe0f Durable & Well-Made \u2013 The metal construction feels strong, and the removable tray is super convenient for cleaning. \u2714\ufe0f Double Doors \u2013 The two doors make it easier to access my dog from different angles, and they latch securely. \u2714\ufe0f Divider for Puppies \u2013 The divider is a great feature, allowing me to adjust the space as my puppy grows. \u2714\ufe0f Portable & Collapsible \u2013 The collapsible design makes it easy to store or travel with, which is a huge plus. Cons: \u2796 Size \u2013 While the crate is perfect for small to medium dogs, it might be a bit tight for larger breeds. Final Thoughts: This dog crate is an excellent choice for puppies or small to medium dogs. It\u2019s easy to set up, portable, and built to last. I love the divider and removable tray, which make it even more functional. Highly recommend it to anyone looking for a reliable, affordable dog crate!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RA5L82STUI228",
+        "review_author_id": "AHUM3VILLYW5RESJC7HROKCCZNNQ",
+        "review_author": "Jelly",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHUM3VILLYW5RESJC7HROKCCZNNQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on March 2, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "5 people found this helpful",
+        "reviewed_product_asin": "B0D91JB7CR",
+        "reviewed_product_variant": {
+          "Size": "36\u2033 L \u00d7 22.5\u2033 W \u00d7 25\u2033 H"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2A44QZBPU4BFK",
+        "review_title": "Great price and good quality!",
+        "review_comment": "Easy to assemble, sturdy and roomy!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2A44QZBPU4BFK",
+        "review_author_id": "AHW6VO3KSTGAGRZGGQDNP7ZTTVSQ",
+        "review_author": "Rene",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHW6VO3KSTGAGRZGGQDNP7ZTTVSQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 5, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0D91JB7CR",
+        "reviewed_product_variant": {
+          "Size": "42\u2033 L \u00d7 24\u2033 W \u00d7 26\u2033 H"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R15SDOQKED9M5F",
+        "review_title": "Dog Breeder Review: Fantastic crate, identical to more expensive ones",
+        "review_comment": "I was hesitant to buy this crate because I saw some of the negative reviews and as a disabled person, I was worried that I would have trouble managing the latches, but it was on sale and then had a coupon and so my roommate and I both bought one of these crates. Both of the crates came in fantastic condition. They were in boxes that were dented so I was a bit worried but the crates were in perfect condition. The latches work smoothly, unlike one of the reviews stated. I have bought dozens of crates in the past because I breed a luxury type of golden retriever. With every puppy I sell I send a crate home with them. In fact I crate train my puppies before they leave. So as you can imagine getting crates inexpensively that are still quality is important to me. The picture is of a 4.5 month old golden retriever that I moved from a 30 inch crate where his head and his butt were touching both ends and he couldn\u2019t sit up straight to this 42 inch crate which should last him for life. It\u2019s gonna be a great size for him to grow into. His mom doesn\u2019t even like crates and as soon as I set this up, she went inside of it before he did which was kind of funny. I realize that doesn\u2019t really say anything about the crate but clearly she thought it was a good crate too. If you\u2019re seeing little prongs on the top of it, that\u2019s just the divider that I set on top of it. My dog is potty trained so there is no need for me to use it. One of the reviews complains that the dividers tips were metal. I have to tell you, out of all the crates I\u2019ve bought in my lifetime I\u2019ve never seen one where the divider tips weren\u2019t metal. The secret to ensuring that your dog doesn\u2019t fishhook their eyes or another part of their body on these is that once you put the dividers in you use pliers and you pinch them. This does mean that if you have to move the divider or take it out then you have to open it with the pliers again, but that\u2019s the way to safely put them in. Also, I want to tell people about a little hack that you can do with these crates, which is awesome if you need a bigger crate or want to put two dogs in a crate you can remove one of the end panels by opening up the little hooks on the bottom and then you can zip tie two different crates together at the end. This makes one long crate and it\u2019s something that I did for puppies as they were being crate trained, and were transitioning from being able to be together all the time to being alone in a crate. It works great. Doesn\u2019t permanently damage the crate you just open the hook slightly push down on the side of the door. The door comes off. You do that on both crates. You remove the doors and store them somewhere safe and then later on you can put them back on and tighten the hooks back up with pliers and it doesn\u2019t damage them. It doesn\u2019t make them weak. I did see that some of the people that left reviews got this as a free item and man I wish I would\u2019ve been here for that. But I don\u2019t mind paying what I did for it and I wouldn\u2019t mind paying a little bit more without the coupon. This is literally the exact same as the crate that I had him in before, just a different brand and actually the crate I had him before cost me just as much as this one did and was only 30 inches and came bent. Different brand entirely but this crate is exactly the same but did not come bent. This one fit better in the box it came in too. You won\u2019t be disappointed in this crate.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R15SDOQKED9M5F",
+        "review_author_id": "AFXLMNIYTXJY3PFYOULVYSRHVQQQ",
+        "review_author": "Laura Denney",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFXLMNIYTXJY3PFYOULVYSRHVQQQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/81qPxXizzNL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 19, 2024",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "70 people found this helpful",
+        "reviewed_product_asin": "B0D91JB7CR",
+        "reviewed_product_variant": {
+          "Size": "42\u2033 L \u00d7 24\u2033 W \u00d7 26\u2033 H"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3Q2GYA6I93LV3",
+        "review_title": "good if your on a budget or traveling",
+        "review_comment": "it\u2019s a good cage for the price! if you have a dog that will try to escape i would definitely look for something more sturdy.. we got this because it\u2019s very easy to take down and put up for traveling. i was a little scared to purchase because i feel like nothing ever fits my 60lbs dog but he has plenty of room and i could see i dog up to 120lbs fitting in here. overall im very impressed and don\u2019t regret buying.. both the doors are very sturdy and well made",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3Q2GYA6I93LV3",
+        "review_author_id": "AHYYJILLRHPKIVU2GAJ47KVX7A5Q",
+        "review_author": "Barbara stoltzfus",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHYYJILLRHPKIVU2GAJ47KVX7A5Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/71h83nO74lL.jpg",
+          "https://m.media-amazon.com/images/I/81gfQ4sce6L.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on June 6, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "4 people found this helpful",
+        "reviewed_product_asin": "B0D91JB7CR",
+        "reviewed_product_variant": {
+          "Size": "48\u2033 L \u00d7 29\u2033 W \u00d7 31.5\u2033 H"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R9LDMBZFL9E2X",
+        "review_title": "Great quality for the price!",
+        "review_comment": "I have bought many of these! We rescue dogs and these are VERY well made and don\u2019t rust. I love the double doors so that it is convenient to put in different parts of the room. The latches are good, but easy to open by my Husky who loves to let his friends out in the middle of the night to play. LOL.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R9LDMBZFL9E2X",
+        "review_author_id": "AFDPKEKGK3COI7ZPZP4BRO3GHESQ",
+        "review_author": "Lynda A.",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFDPKEKGK3COI7ZPZP4BRO3GHESQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 26, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0D91JB7CR",
+        "reviewed_product_variant": {
+          "Size": "42\u2033 L \u00d7 24\u2033 W \u00d7 26\u2033 H"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R32XE8UAH5AW1I",
+        "review_title": "Great",
+        "review_comment": "Nice and sturdy, easy to assemble, perfect size, and delivered 3 days early!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R32XE8UAH5AW1I",
+        "review_author_id": "AGGHDBS7FM7AH4JGO3LIQWAMFT5Q",
+        "review_author": "Sierra",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGGHDBS7FM7AH4JGO3LIQWAMFT5Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 11, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0D91JB7CR",
+        "reviewed_product_variant": {
+          "Size": "42\u2033 L \u00d7 24\u2033 W \u00d7 26\u2033 H"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3RC1LNB33GIXX",
+        "review_title": "Crate is sturdy and durable!",
+        "review_comment": "Great dog crate for small dogs. I wouldn't get it for a dog more than 8-10 pounds for sure. My dog is about 9 pounds and there is enough room for the dog bed to cover the whole bottom of the crate and he can stand a move around a little. If you want your dog to have more room to move around I would go with the next size up. I got the 24 inch. It is really well made just wish I had gone up one size, but it works for night time just fine.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3RC1LNB33GIXX",
+        "review_author_id": "AH233J2PVMT75DG6HWHQSVB335LA",
+        "review_author": "KiKi2016",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AH233J2PVMT75DG6HWHQSVB335LA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on August 10, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B0D91JB7CR",
+        "reviewed_product_variant": {
+          "Size": "24\u2033 L \u00d7 16.5\u2033 W \u00d7 18.5\u2033 H"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3SDPP6J2O1D82",
+        "review_title": "Very sturdy and easy to assemble",
+        "review_comment": "I was very happy with this. It\u2019s very sturdy. Easy to collapse and store. And easy to assemble. Exactly what I wanted and at a great price.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3SDPP6J2O1D82",
+        "review_author_id": "AFMROGQAWEFTH7YCUCXQCEW266NA",
+        "review_author": "S Fuller",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFMROGQAWEFTH7YCUCXQCEW266NA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 25, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0D91JB7CR",
+        "reviewed_product_variant": {
+          "Size": "42\u2033 L \u00d7 24\u2033 W \u00d7 26\u2033 H"
+        },
+        "is_vine": false
+      }
+    ],
+    "top_reviews_global": [
+      {
+        "review_id": "R3M5O8031Q7A2K",
+        "review_title": "Tr\u00e8s bon choix facile \u00e0 monter je le recommande fortement.",
+        "review_comment": "Qualit\u00e9 du produit et robuste",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3M5O8031Q7A2K",
+        "review_author_id": null,
+        "review_author": "Sylvie Tremblay",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Canada on September 19, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0D91JB7CR",
+        "reviewed_product_variant": {
+          "Size": "30\u2033 L \u00d7 17.5\u2033 W \u00d7 20\u2033 H"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RTMUOB9P0PT9N",
+        "review_title": "Heavy",
+        "review_comment": "Easy to set up and well made",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RTMUOB9P0PT9N",
+        "review_author_id": null,
+        "review_author": "G P Wylie",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Canada on September 1, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0D91JB7CR",
+        "reviewed_product_variant": {
+          "Size": "42\u2033 L \u00d7 24\u2033 W \u00d7 26\u2033 H"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3JPPE9CN09MLI",
+        "review_title": "Great kennel",
+        "review_comment": "Our 8 month old Shephard Cross pup has lots of room and it is so easy to clean when accidents happen. Easy to put together.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3JPPE9CN09MLI",
+        "review_author_id": null,
+        "review_author": "Bonnie-Lee Copeman",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Canada on August 8, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0D91JB7CR",
+        "reviewed_product_variant": {
+          "Size": "48\u2033 L \u00d7 29\u2033 W \u00d7 31.5\u2033 H"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R18MLRU31YEXHY",
+        "review_title": "Good item !",
+        "review_comment": "Great cage, easy to use. A bit heavy to carry, but easy to fold",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R18MLRU31YEXHY",
+        "review_author_id": null,
+        "review_author": "Sam",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Canada on September 24, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0D91JB7CR",
+        "reviewed_product_variant": {
+          "Size": "48\u2033 L \u00d7 29\u2033 W \u00d7 31.5\u2033 H"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R21OFNPZJ529FL",
+        "review_title": "Solidit\u00e9",
+        "review_comment": "Belle cage pour le prix",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R21OFNPZJ529FL",
+        "review_author_id": null,
+        "review_author": "Frank ",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Canada on September 29, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0D91JB7CR",
+        "reviewed_product_variant": {
+          "Size": "42\u2033 L \u00d7 24\u2033 W \u00d7 26\u2033 H"
+        },
+        "is_vine": false
+      }
+    ],
+    "delivery": "FREE delivery Tuesday, November 4. Order within 6 hrs 25 mins",
+    "primary_delivery_time": "Tuesday, November 4",
+    "category": {
+      "id": "pets",
+      "name": "Pet Supplies"
+    },
+    "category_path": [
+      {
+        "id": "2619533011",
+        "name": "Pet Supplies",
+        "link": "https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/ref=dp_bc_1?ie=UTF8&node=2619533011"
+      },
+      {
+        "id": "2975312011",
+        "name": "Dogs",
+        "link": "https://www.amazon.com/dogs-supplies-training-beds-collars-grooming/b/ref=dp_bc_2?ie=UTF8&node=2975312011"
+      },
+      {
+        "id": "2975400011",
+        "name": "Crates, Houses & Pens",
+        "link": "https://www.amazon.com/dogs-crates-kennels-houses-house-crate/b/ref=dp_bc_3?ie=UTF8&node=2975400011"
+      },
+      {
+        "id": "2975401011",
+        "name": "Crates",
+        "link": "https://www.amazon.com/dog-crates-kennels/b/ref=dp_bc_4?ie=UTF8&node=2975401011"
+      },
+      {
+        "id": "3024223011",
+        "name": "Basic Crates",
+        "link": "https://www.amazon.com/dog-crates/b/ref=dp_bc_5?ie=UTF8&node=3024223011"
+      }
+    ],
+    "product_variations_dimensions": [
+      "size"
+    ],
+    "product_variations": {
+      "size": [
+        {
+          "asin": "B0D91J7VTG",
+          "value": "24\u2033 L \u00d7 16.5\u2033 W \u00d7 18.5\u2033 H",
+          "is_available": true
+        },
+        {
+          "asin": "B0D91JPWS1",
+          "value": "30\u2033 L \u00d7 17.5\u2033 W \u00d7 20\u2033 H",
+          "is_available": true
+        },
+        {
+          "asin": "B0D91K26Q2",
+          "value": "36\u2033 L \u00d7 22.5\u2033 W \u00d7 25\u2033 H",
+          "is_available": true
+        },
+        {
+          "asin": "B0D91JB7CR",
+          "value": "42\u2033 L \u00d7 24\u2033 W \u00d7 26\u2033 H",
+          "is_available": true
+        },
+        {
+          "asin": "B0D91J6TK9",
+          "value": "48\u2033 L \u00d7 29\u2033 W \u00d7 31.5\u2033 H",
+          "is_available": true
+        }
+      ]
+    },
+    "all_product_variations": {
+      "B0D91JB7CR": {
+        "size": "42\u2033 L \u00d7 24\u2033 W \u00d7 26\u2033 H"
+      },
+      "B0D91J6TK9": {
+        "size": "48\u2033 L \u00d7 29\u2033 W \u00d7 31.5\u2033 H"
+      },
+      "B0D91JPWS1": {
+        "size": "30\u2033 L \u00d7 17.5\u2033 W \u00d7 20\u2033 H"
+      },
+      "B0D91K26Q2": {
+        "size": "36\u2033 L \u00d7 22.5\u2033 W \u00d7 25\u2033 H"
+      },
+      "B0D91J7VTG": {
+        "size": "24\u2033 L \u00d7 16.5\u2033 W \u00d7 18.5\u2033 H"
+      }
+    },
+    "has_aplus": true,
+    "aplus_images": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f485b96a-6493-46c1-a9a2-ede6b25b1c86.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0dc3fb8c-ef18-4a37-bfbf-a9caada8d76f.jpg"
+    ],
+    "has_brandstory": true,
+    "frequently_bought_together": [
+      {
+        "product_title": "This item:  Yaheetech 42 inch Double Door Dog Crate w/Divider for Puppy to Adult XL Collapsible Metal Crate with Removable Tray Wire Dog Kennel for Large Dogs Portable Travel Cage, Black",
+        "product_price": "$55.99",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/81QkynBKf4L.jpg"
+      },
+      {
+        "product_title": "Amazon Basics Dog and Puppy Pee Pads, 5-Layer Leak-Proof Super Absorbent, Quick-Dry Surface, Potty Training, Regular (22x22\"), 50 Count, Blue & White",
+        "product_price": "$9.99",
+        "product_url": "https://www.amazon.com/dp/B00MW8G3YU",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71Co+yjlWAL.jpg"
+      },
+      {
+        "product_title": "Amazon Basics Dog Poop Bags with Dispenser, 300 Count, Enhanced for Guaranteed Leakproof, Unscented, Includes Leash Clip",
+        "product_price": "$9.26",
+        "product_url": "https://www.amazon.com/dp/B00NABTC8M",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/61AaxwRtBkL.jpg"
+      }
+    ],
+    "landing_asin": "B0D91JB7CR",
+    "parent_asin": "B0D91K3MD5"
+  }
+}

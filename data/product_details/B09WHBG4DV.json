@@ -1,0 +1,504 @@
+{
+  "status": "OK",
+  "request_id": "65773f4b-3b19-4e22-adf7-a6a30cca80a1",
+  "parameters": {
+    "asin": "B09WHBG4DV",
+    "country": "US",
+    "language": "en_US"
+  },
+  "data": {
+    "asin": "B09WHBG4DV",
+    "product_title": "Potaroma Cat Toys Pillows, 3 Pack, Soft and Durable Crinkle Sound with Catnip Inside, Interactive Indoor Kitten Kicker, Promotes Kitty Exercise",
+    "product_price": "9.98",
+    "product_original_price": "$15.99",
+    "minimum_order_quantity": null,
+    "currency": "USD",
+    "country": "US",
+    "product_byline": "Visit the Potaroma Store",
+    "product_byline_link": "https://www.amazon.com/stores/Potaroma/page/D45F2790-5323-4207-9F98-249B8ACBEFB4?is_byline_deeplink=true&deeplink=B0DCA53F-2178-45BB-BB89-C7A32D2D0E1A&redirect_store_id=D45F2790-5323-4207-9F98-249B8ACBEFB4&lp_asin=B09WHBG4DV&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto",
+    "product_byline_links": [
+      "https://www.amazon.com/stores/Potaroma/page/D45F2790-5323-4207-9F98-249B8ACBEFB4?is_byline_deeplink=true&deeplink=B0DCA53F-2178-45BB-BB89-C7A32D2D0E1A&redirect_store_id=D45F2790-5323-4207-9F98-249B8ACBEFB4&lp_asin=B09WHBG4DV&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    ],
+    "product_star_rating": "4.6",
+    "product_num_ratings": 9976,
+    "product_url": "https://www.amazon.com/dp/B09WHBG4DV",
+    "product_slug": "Pillows-Durable-Interactive-Promotes-Exercise",
+    "product_photo": "https://m.media-amazon.com/images/I/71Ay6ojN2mL._AC_SL1500_.jpg",
+    "product_num_offers": 1,
+    "product_availability": "In Stock",
+    "is_best_seller": false,
+    "is_amazon_choice": true,
+    "is_prime": true,
+    "climate_pledge_friendly": false,
+    "sales_volume": "10K+ bought in past month",
+    "about_product": [
+      "Cozy Companion: Our catnip kicker toys are all made of soft plush material and baby-level cotton, soft and comfortable enough for your feline friends to snuggle and chew.",
+      "Organic Catnip Filled: Stuffed with 100% pure, potent and organic catnip. Catnip, the favorite natural herb of most cats, will maximize the chance to make cats excited and make interactive playtime irresistible.",
+      "Boredom Relief: Cats have a natural instinct to pat and pounce. Kitten kicker toy can help cats chase and chew training and stimulate their hunting instincts, help cats grow up better and healthier, and strengthen the interaction between you and cats.",
+      "Perfect Gift: In 3 different colors, green, yellow, and violet, which are bright in color, attracting the attention of your feline friends, perfect for kittens to hold or scratch. The crinkly paper inside the toys makes playtime even more exciting when cats bite and wrestle with the cat toy",
+      "We stand behind each product we sell. If any issue, please contact our customer service and we'll do anything possible to fix it."
+    ],
+    "product_description": null,
+    "product_information": {
+      "Item Weight": "110 Grams",
+      "Manufacturer": "Potaroma",
+      "ASIN": "B09WHBG4DV",
+      "Item model number": "Potaroma-MWB-01",
+      "Date First Available": "March 25, 2022",
+      "Item Package Dimensions L x W x H": "7.91 x 5.24 x 1.69 inches",
+      "Item Dimensions  LxWxH": "8 x 2.1 x 2.1 inches",
+      "Brand Name": "Potaroma",
+      "Target Audience Keyword": "house-cats",
+      "Color": "Green Yellow Violet",
+      "Size": "3 Count (Pack of 1)",
+      "Material": "Cotton",
+      "Age Range Description": "Kittens",
+      "Style": "Catnip Pillow Toys",
+      "Breed Recommendation": "All Breed Sizes"
+    },
+    "rating_distribution": {
+      "1": 3,
+      "2": 2,
+      "3": 6,
+      "4": 11,
+      "5": 78
+    },
+    "product_photos": [
+      "https://m.media-amazon.com/images/I/71Ay6ojN2mL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/711yYk-U+9L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71V-VbzXuzL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71xyvIq5XML._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71H1scsYWjL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71TBJiOgVHL._AC_SL1500_.jpg"
+    ],
+    "product_videos": [
+      {
+        "id": "amzn1.vse.video.0c25c7468d334b5e84c36c28ee05232c",
+        "title": "Potaroma Fuzzy Tail Catnip Toy",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ec5addcc-f4a1-4801-a35e-e634b0a509e7/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/51BRE6-dqfL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B09WHBG4DV",
+        "parent_asin": "B0DJ7JZF11"
+      },
+      {
+        "id": "amzn1.vse.video.0fcfe28d38e44ae9be58e198d3785a71",
+        "title": "Potaroma Fuzzy Tail Catnip Toy",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/01294d9e-7231-4a3e-b0e9-596a841c0f87/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/51Il0jhvlyL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B09WHBG4DV",
+        "parent_asin": "B0DJ7JZF11"
+      },
+      {
+        "id": "amzn1.vse.video.0c1c63074b5a407099157a4313965ef9",
+        "title": "My Cats First Impressions On This CRINKLE TAIL",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5f022a3c-63ea-45a1-ac0d-120b8e329422/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/51ioy0lZ6ML.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B09WHBG4DV",
+        "parent_asin": "B0DJ7JZF11"
+      },
+      {
+        "id": "amzn1.vse.video.043a8ccd3b7f4f10887f38d681930202",
+        "title": "7 Cat Toys...Which One Wins?",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/11fc968a-cbfb-4129-9a04-1ecbcec16231/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/71EV5hs9GvL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B09WHBG4DV",
+        "parent_asin": "B0DJ7JZF11"
+      },
+      {
+        "id": "amzn1.vse.video.0004bce445904363a60072736d20fdf7",
+        "title": "This Toy Is His Favorite!!! #founditonamazon",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c8e1ccf7-4bbf-454b-8865-f64ca6c5668a/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/91smK3JnVlL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B09WHBG4DV",
+        "parent_asin": "B0DJ7JZF11"
+      },
+      {
+        "id": "amzn1.vse.video.05b5fc5b0e3042c4bad1c726ca783f60",
+        "title": "Review of catnip toys",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/57a4a9f0-a7f7-4ac5-8f0a-240b2dac016e/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61odDC2BVQL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B09WHBG4DV",
+        "parent_asin": "B0DJ7JZF11"
+      },
+      {
+        "id": "amzn1.vse.video.0643e5063f1e4d82b63e7b9f34bad338",
+        "title": "My Cat Loves This Fuzzy Toy",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/66f8e279-0840-4ebf-afe1-7cb0c8302739/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/71CcSbAqmGL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B09WHBG4DV",
+        "parent_asin": "B0DJ7JZF11"
+      }
+    ],
+    "user_uploaded_videos": [],
+    "video_thumbnail": "https://m.media-amazon.com/images/I/51BRE6-dqfL.SX522_.jpg",
+    "has_video": true,
+    "product_details": {
+      "Product Dimensions": "8 x 2.1 x 2.1 inches; 3.88 ounces",
+      "Item model number": "Potaroma-MWB-01",
+      "Date First Available": "March 25, 2022",
+      "Manufacturer": "Potaroma",
+      "ASIN": "B09WHBG4DV",
+      "Best Sellers Rank": "#614 in Pet Supplies (See Top 100 in Pet Supplies)    #2 in Catnip Toys",
+      "Customer Reviews": "4.6             4.6 out of 5 stars          \n\n                          9,976 ratings"
+    },
+    "customers_say": "Customers find this cat toy to be a perfect kicker that keeps cats entertained for hours, with a nice crinkle sound and soft, fuzzy texture that feels like a fo-furr blanket. The toy is durable, with one customer noting it hasn't been torn to pieces yet, and customers consider it well worth the purchase price. While many find the size good for both cats and kittens, some mention it's slightly smaller than expected.",
+    "top_reviews": [
+      {
+        "review_id": "R13ARZYTFZRCPG",
+        "review_title": "Sturdy, good size, catnip doesn't last long but toy holds up good",
+        "review_comment": "The media could not be loaded. Cat toys: 1: is it worth it? 2: will they use it? 3: is it sturdy - will it last - hold up to nails/teeth? 1 - you decide for $13 2 - mine has kicking habits so they use the toy 3 - seems sturdy @4 months in Positives: I have 1 gray cat (12 yr old male) that plays with anything .. A N Y T H I N G and 1 black cat (7 yr old male) that only plays with red dot/flash lights, bugs and string - NO CAT TOYS - but he\u2019s seems to like this toy as long as the gray cat is also playing with one simultaneously. I\u2019m unsure if it\u2019s because he sees him playing and is jealous (there\u2019s a lot of jealousy between these 2!) or if it\u2019s because the catnip attracts him and then he\u2019s hooked, or both. You can see both cats enjoy it. My gray cat is the one who likes to kick and has long rear nails (he plays very, very rough normally) and he enjoys the heck out of this toy. Even the big black cat will do an occasional kick with it. Negatives: The one thing is the little feather stuff. There\u2019s a few pieces that are longer (you can actually see it in one of the videos, the black cat playing with the green one it has a piece that's longer, and it goes across his face). My other gray cat eats anything. He\u2019s a total garbage disposal. He eats hair off the floor. He eats dust balls. He eats carpet pieces that have been picked up from their nails. Arg! I\u2019m telling you it\u2019s horrible. So, I am forever living with the behavior of cat/toddler proofing my home. If it could be picked up and put in the mouth or licked, it\u2019s bad. I know that\u2019s sad but it\u2019s the truth. So that\u2019s a negative because I picked up one of the pieces off the floor when they were new. And of course, the catnip doesn\u2019t stay for long. But I am getting the most life out of them as possible because I keep them in separate Ziploc baggies and don\u2019t let the air get to them when not in use. And last negative would be cost. I believe I paid $13 or so 11/27/23. When I replace these, since they don\u2019t last more than a few months before the catnip or the attraction portion of the play is gone from this toy, I\u2019ll be looking to replace them for at least, at minimum, 50% less than what I paid, or between $5-$7 tops. Notes: I keep/store these in a Ziploc plastic bag with the air removed (when not in use) and bring them out for a few minutes of play or until they\u2019re tired of it and then store it back in the baggie. So it seems to last longer I suppose. I bought this pack of 3 toys on 11/27/23 and they\u2019re just now getting to the point where I should be replacing them soon if I want them to enjoy the catnip portion as part of the toy. Overall. Good toy - sturdy, crinkly, decent cat-nippy smell, cats seem to enjoy them and their nails/teeth haven out any holes in them or scratched them apart. Also store them in a Ziploc baggie when not in use, the catnip part will last a bit longer. So if I\u2019m using a scale of 1-10 then maybe an 8-9 using my gray cat to measure because he loves to play normally and will play a long time due to the catnip. Also he has no teeth, so he slobbers on it, a lot, and I have to wait for it to dry before I can put it away in a baggie. Or it could just be because he plays with it so much more than the other cat that it\u2019s out of the Ziploc baggie more often, therefore, the catnip portion of it could be going away or not as strong. But he still plays with it and once I entice him, he really gets going with it.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R13ARZYTFZRCPG",
+        "review_author_id": "AHWUP4W22WAQYTU3VUEOQJQ2YPYA",
+        "review_author": "SoCalMissy",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHWUP4W22WAQYTU3VUEOQJQ2YPYA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/17e1d5f5-2c07-4018-a41e-f0992e54cb6e._CR0%2C0%2C500%2C500_SX460_.jpeg",
+        "review_images": [],
+        "review_video": {
+          "stream_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d5e0fcde-19c0-4eb4-b347-a1248bfaf12a/embedded.cc.default.vertical.jobtemplate.hls.m3u8",
+          "closed_captions_url": "https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/c5d83c4f-216a-4add-a5b8-912166c7be12.vtt",
+          "thumbnail_url": "https://m.media-amazon.com/images/I/71Db+A50T2L._SY256.jpg"
+        },
+        "review_date": "Reviewed in the United States on March 27, 2024",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "159 people found this helpful",
+        "reviewed_product_asin": "B09WHBG4DV",
+        "reviewed_product_variant": {
+          "Color": "Green Yellow Violet"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1VSUDCLJ40GDL",
+        "review_title": "Good toy if you love your cat \ud83d\udc08!",
+        "review_comment": "Our cat, Moash, couldn\u2019t wait for me to open the box when it came! He loves it! He\u2019s a strong nine pound cat and I think they will last a while and worth the money! The size doesn\u2019t matter to him, he just likes to play with them. He has all his claws and bites it. I think it\u2019s hold up to his aggressive play!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1VSUDCLJ40GDL",
+        "review_author_id": "AFW45VB6NTOA3UVUAZHFJXE7AXBA",
+        "review_author": "J. M.",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFW45VB6NTOA3UVUAZHFJXE7AXBA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 29, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "3 people found this helpful",
+        "reviewed_product_asin": "B09WHBG4DV",
+        "reviewed_product_variant": {
+          "Color": "Green Yellow Violet"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1KW1F20RSQIAS",
+        "review_title": "Perfect bunny kick toy",
+        "review_comment": "The media could not be loaded. It took two seconds before both my 4mo old and 3yr old cat started bunny kicking these! The kitten loves the sound of it and likes that she can comfortably kick it. I was surprised that my adult cat actually enjoyed it and it fit him so he too could bunny kick it. Nice and soft, you can smell the catnip inside, and makes that nice krinkly sound they like. I ended up cutting the tag off the one since they like eating tags. Would buy again if they happen to tear these up. So far so good, and again, they went to town right out of the package! A little sad the cuter colors are more expensive, but I know the cats don\u2019t care.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1KW1F20RSQIAS",
+        "review_author_id": "AGV64FDPG3ZGGLSE4NZIQHIZDTWQ",
+        "review_author": "Mooriee",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGV64FDPG3ZGGLSE4NZIQHIZDTWQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/be645a1a-4603-4664-abb8-09c69d9af360._CR0%2C0%2C500%2C500_SX460_.jpg",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/51y7884ak3L.jpg",
+          "https://m.media-amazon.com/images/I/51asC9rhVXL.jpg"
+        ],
+        "review_video": {
+          "stream_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d2a6d7d8-2328-48be-909b-64beb55e7aa4/default.jobtemplate.hls.m3u8",
+          "closed_captions_url": null,
+          "thumbnail_url": "https://m.media-amazon.com/images/I/61K9qUXzNqL._SY256.jpg"
+        },
+        "review_date": "Reviewed in the United States on October 7, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "2 people found this helpful",
+        "reviewed_product_asin": "B09WHBG4DV",
+        "reviewed_product_variant": {
+          "Color": "Pastel Colors"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3GEZIAIKRWYJU",
+        "review_title": "Good but a casualty of shrinkflation.",
+        "review_comment": "My cat likes these, and they are fun to toss around for her to chase and kick with her back paws. BUT I bought the same toy months ago, and it was larger. It's still a good toy, but I think consumers should be aware that the profit margin is everything these days.",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3GEZIAIKRWYJU",
+        "review_author_id": "AEGLS6LBMUABJTR4M54OR2JXGXXQ",
+        "review_author": "Iowa90",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEGLS6LBMUABJTR4M54OR2JXGXXQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on August 22, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "13 people found this helpful",
+        "reviewed_product_asin": "B09WHBG4DV",
+        "reviewed_product_variant": {
+          "Color": "Green Yellow Violet"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RM66W5UR3UZ7C",
+        "review_title": "Cat's loved these!",
+        "review_comment": "I have two cats, a 7 year old male and a 16 year old female, and I confess I spoil them. They've had a lot of toys over the years, some they liked and some they just ignored. So when I gave them each one of these (they come in a set of three), and they both immediately were down on the floor bunny kicking, rolling around and generally having a great time, I knew we had a winner. The toys don't look like much, just a furry oblong that crinkles when squished, but the shape is just right for a cat to grasp between front and back legs and roll around, kicking, biting and even licking. Of course the catnip inside the toy helps a lot! Having purchased quite a few toys over the years that claimed to contain catnip, I can tell you that a lot of times the catnip inside has gotten old and doesn't have much aroma, but these had obviously fresh, good quality catnip inside. The set of three comes in a sealed plastic bag and the only aroma I could smell when I opened the bag was catnip. And the cats could really smell it as they were all over me, trying to help get the bag open so they could get at the toys. I've bought several other cat toys from this brand, Potaroma, and have had good success with all of them. The 7 year old still plays with one of the other toys every day and we've had that toy for over two years. So, good value for money (these little \"pillows\" are very inexpensive), and a good company for cat toy products.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RM66W5UR3UZ7C",
+        "review_author_id": "AF5P5CWIZNTNKMIAVJFMNFMIKDZA",
+        "review_author": "Linda W.",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AF5P5CWIZNTNKMIAVJFMNFMIKDZA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 18, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "4 people found this helpful",
+        "reviewed_product_asin": "B09WHBG4DV",
+        "reviewed_product_variant": {
+          "Color": "Green Yellow Violet"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R14RLBL71PUAR1",
+        "review_title": "My Cats Went Wild for These!",
+        "review_comment": "These Potaroma Cat Toy Pillows were an instant hit in my house. The moment I opened the pack, my cats were all over them. Each pillow is the perfect size for batting, tossing, and of course \u2014 bunny kicks! The material feels durable yet soft enough for them to cuddle with, and the catnip scent definitely got their attention right away. What I like most is that the pack comes with three pillows, so all my cats can play at the same time without fighting over just one. The designs are cute, and the toys seem to hold up well even after a lot of rough play. Pros: Strong catnip scent that keeps cats interested Durable fabric but soft enough to cuddle Perfect size for kicking, chewing, or carrying around Comes in a pack of three \u2014 great for multi-cat homes Cons: The catnip scent may fade over time, but that\u2019s normal for these types of toys Overall, these toys get two paws up from my furry crew. They\u2019re fun, durable, and a great way to keep cats entertained (and tired out). If your cat loves catnip, these are a must-try!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R14RLBL71PUAR1",
+        "review_author_id": "AFXPF55F3V2DNLN6TH4YECGQQ53A",
+        "review_author": "The Cat Lady",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFXPF55F3V2DNLN6TH4YECGQQ53A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/febf4f30-de4f-4ed7-8c54-4b7f6d0ae37b._CR0%2C0%2C440%2C440_UX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 19, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B09WHBG4DV",
+        "reviewed_product_variant": {
+          "Color": "Green Yellow Violet"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RPOK6A51IPWAY",
+        "review_title": "Cat\u2019s best toy!!",
+        "review_comment": "These are amazing for my cats. They get excited and basically wrestle the fuzzy soft toys, enjoying the catnip!! Have only recently found these but have already purchased three sets! Your cats will simply love them!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RPOK6A51IPWAY",
+        "review_author_id": "AER7ZIIXTGQYASWWYCMXWDHAJBWQ",
+        "review_author": "Betsie White",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AER7ZIIXTGQYASWWYCMXWDHAJBWQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 8, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "4 people found this helpful",
+        "reviewed_product_asin": "B09WHBG4DV",
+        "reviewed_product_variant": {
+          "Color": "Green Yellow Violet"
+        },
+        "is_vine": false
+      }
+    ],
+    "top_reviews_global": [
+      {
+        "review_id": "R1FZQNKBDS4KRO",
+        "review_title": "Juguetes para gatito",
+        "review_comment": "Muy divertido para los gatitos",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1FZQNKBDS4KRO",
+        "review_author_id": null,
+        "review_author": "Muy bueno gracias",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Mexico on March 21, 2024",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B09WHBG4DV",
+        "reviewed_product_variant": {
+          "Color": "Green Yellow Violet"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1TZSY19AE04ML",
+        "review_title": "Kitty kickers",
+        "review_comment": "These 3 cat kicker toys are a real class item. For a start they look and feel lovely and come in nice packaging (useful for a gift). The kickers are made of soft materials and make a pleasant crinkling sound yet they are really hard-wearing, because after a major workout by my cat on the first one it looked as good as new, despite being quite damp from all the biting and pulling. They also seem to be full of catnip as he was completely and utterly obsessed by it for the first couple of hours. I bought these to entertain my indoor cat and also for exercising his hind legs, but he is quite big lengthwise and these particular kickers are probably designed more for small or medium cats. Nevertheless I know he will love the 2nd one when I present it to him down the track a bit. I will probably give away the 3rd one to a friend who has a smaller cat as it will make a delightful gift.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1TZSY19AE04ML",
+        "review_author_id": null,
+        "review_author": "Paulina",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Australia on March 18, 2023",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B09WHBG4DV",
+        "reviewed_product_variant": {
+          "Color": "Green Yellow Violet"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3U22C7FV422KG",
+        "review_title": "Super\ud83d\ude0a",
+        "review_comment": "Mes petites chattes les adore",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3U22C7FV422KG",
+        "review_author_id": null,
+        "review_author": "Laynya Couture",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Canada on March 27, 2024",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B09WHBG4DV",
+        "reviewed_product_variant": {
+          "Color": "Green Yellow Violet"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1IQ0VJUSSA0NN",
+        "review_title": "Sehr zufrieden",
+        "review_comment": "Habe 4 Katzen,werden immer wieder genommen und mit gespielt.Echt Gut",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1IQ0VJUSSA0NN",
+        "review_author_id": null,
+        "review_author": "Amazon Kunde",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Germany on October 24, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B09WHBG4DV",
+        "reviewed_product_variant": {
+          "Color": "Green Yellow Violet"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2C4M8US1JZVKF",
+        "review_title": "The cats keep going back to them for playtime",
+        "review_comment": "Smokey is 13+ years old and he only plays with this toy. He loves it.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2C4M8US1JZVKF",
+        "review_author_id": null,
+        "review_author": "cat mother to 3",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Canada on January 3, 2024",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B09WHBG4DV",
+        "reviewed_product_variant": {
+          "Color": "Green Yellow Violet"
+        },
+        "is_vine": false
+      }
+    ],
+    "delivery": "FREE delivery Tuesday, November 4 on orders shipped by Amazon over $35 Or Prime members get FREE delivery Saturday, November 1. Order within 7 hrs 12 mins. Join Prime",
+    "primary_delivery_time": "Tuesday, November 4",
+    "category": {
+      "id": "pets",
+      "name": "Pet Supplies"
+    },
+    "category_path": [
+      {
+        "id": "2619533011",
+        "name": "Pet Supplies",
+        "link": "https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/ref=dp_bc_1?ie=UTF8&node=2619533011"
+      },
+      {
+        "id": "2975241011",
+        "name": "Cats",
+        "link": "https://www.amazon.com/cats-supplies-kittens-catnip-tree-litter/b/ref=dp_bc_2?ie=UTF8&node=2975241011"
+      },
+      {
+        "id": "2975303011",
+        "name": "Toys",
+        "link": "https://www.amazon.com/cat-feather-laser-toys-catnip/b/ref=dp_bc_3?ie=UTF8&node=2975303011"
+      },
+      {
+        "id": "2975305011",
+        "name": "Catnip Toys",
+        "link": "https://www.amazon.com/catnip-toys/b/ref=dp_bc_4?ie=UTF8&node=2975305011"
+      }
+    ],
+    "product_variations_dimensions": [
+      "color"
+    ],
+    "product_variations": {
+      "color": [
+        {
+          "asin": "B09WHBG4DV",
+          "value": "Green Yellow Violet",
+          "photo": "https://m.media-amazon.com/images/I/41eXntBWimL.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0DF7Q3JR1",
+          "value": "Pastel Colors",
+          "photo": "https://m.media-amazon.com/images/I/41lLWs1t1HL.jpg",
+          "is_available": true
+        }
+      ]
+    },
+    "all_product_variations": {
+      "B09WHBG4DV": {
+        "color": "Green Yellow Violet"
+      },
+      "B0DF7Q3JR1": {
+        "color": "Pastel Colors"
+      }
+    },
+    "has_aplus": true,
+    "aplus_images": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fa6f26ee-55f9-4d08-becb-6282d1a098ff.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d45a2d01-d756-4353-9cbd-bb6779e948f7.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1dd73eb0-a950-45b7-9b1a-e94fcfcf0ea6.jpg"
+    ],
+    "has_brandstory": true,
+    "frequently_bought_together": [
+      {
+        "product_title": "This item:  Potaroma Cat Toys Pillows, 3 Pack, Soft and Durable Crinkle Sound with Catnip Inside, Interactive Indoor Kitten Kicker, Promotes Kitty Exercise",
+        "product_price": "$9.98",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71Ay6ojN2mL.jpg"
+      },
+      {
+        "product_title": "Catstages Tower of Tracks 3-Level Cat Track Toy with 6 Balls, Interactive Toy for Indoor Cats, Orange",
+        "product_price": "$10.55",
+        "product_url": "https://www.amazon.com/dp/B00DT2WL26",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/812MUtPNc-L.jpg"
+      },
+      {
+        "product_title": "Potaroma Cat Toys Chew Ropes 3Pcs with Refillable Natural Catnip, Safe Teeth Cleaning Toy for Indoor Kittens, Interactive Cat Nip Kitty Toys for All Breeds 19.5 Inches",
+        "product_price": "$8.99",
+        "product_url": "https://www.amazon.com/dp/B0CZ3YD1V6",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71-Zlt9EfCL.jpg"
+      }
+    ],
+    "landing_asin": "B09WHBG4DV",
+    "parent_asin": "B0DJ7JZF11"
+  }
+}

@@ -1,0 +1,553 @@
+{
+  "status": "OK",
+  "request_id": "42ff9593-9537-4831-b62d-3647e584ee62",
+  "parameters": {
+    "asin": "B0BHN7K52L",
+    "country": "US",
+    "language": "en_US"
+  },
+  "data": {
+    "asin": "B0BHN7K52L",
+    "product_title": "Dog Toys for Aggresive Chewers - Tough,Indestructible Dog Toys for Large, Medium,Small Breed to Keep Them Busy",
+    "product_price": "9.99",
+    "product_original_price": "$15.99",
+    "minimum_order_quantity": null,
+    "currency": "USD",
+    "country": "US",
+    "product_byline": "Visit the Jeefome Store",
+    "product_byline_link": "https://www.amazon.com/stores/Jeefome/page/C539815B-3B87-4A51-A5C8-8393257462F1?is_byline_deeplink=true&deeplink=C539815B-3B87-4A51-A5C8-8393257462F1&redirect_store_id=C539815B-3B87-4A51-A5C8-8393257462F1&lp_asin=B0BHN7K52L&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto",
+    "product_byline_links": [
+      "https://www.amazon.com/stores/Jeefome/page/C539815B-3B87-4A51-A5C8-8393257462F1?is_byline_deeplink=true&deeplink=C539815B-3B87-4A51-A5C8-8393257462F1&redirect_store_id=C539815B-3B87-4A51-A5C8-8393257462F1&lp_asin=B0BHN7K52L&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    ],
+    "product_star_rating": "4",
+    "product_num_ratings": 7561,
+    "product_url": "https://www.amazon.com/dp/B0BHN7K52L",
+    "product_slug": "Jeefome-Large-Toys-Aggressive-Chewers",
+    "product_photo": "https://m.media-amazon.com/images/I/71u4ICg71GL._AC_SL1500_.jpg",
+    "product_num_offers": 2,
+    "product_availability": "In Stock",
+    "is_best_seller": false,
+    "is_amazon_choice": false,
+    "is_prime": true,
+    "climate_pledge_friendly": false,
+    "sales_volume": "10K+ bought in past month",
+    "about_product": [
+      "DOG TOYS FOR AGGRESSIVE CHEWERS: Are you looking long lasting dog toys? This tough dog toys might be what you need. Dog chew toys for aggressive chewers is has been tested by German Shepherds, Pit Bull, Huskies, Labrador, Golden retrievers and many powerful mix chewers in countless times.Tough dog toys for aggressive chewers large breed keep your high energy dog active and engaged.The dog toy unique design is good chew toy for the dogs\u2019 molars",
+      "DOG TOYS FOR LARGE DOGS MILK FLAVORED: This dog chew toy equally suitable for large and medium-sized dogs, and the dog toys itself has a subtle but charming scent that dogs love, milk flavored will attract your pets to longer play sessions, reduce their anxiety and boredom, it will do a lot of help to release the dog's pressure and reduce destructive behavior.Ideal dog chew toys for aggressive chewers 20-100lbs",
+      "ALLIGATOR SHAPE&TEETH CLEANNING: The large dog toys has a cartoon alligator design, attract the dog's attention by shapes, the raised part of the back can help dogs clean their teeth. Biting and chewing can effectively prevent the formation of dental calculus. Choosing the right dog toys can help them develop good chewing habits and enhance chewing ability.",
+      "EASY TO CLEAN: The indestructible dog toys for aggressive chewers easy to clean, a little bit of soap and warm water and it is ready to be played with again",
+      "DOG TOYS PRESENT: The dog toys for aggressive chewers large breed help your pets develop a good chewing habit & bring great fun, which is a great dog birthday gift\u3001Thanksgiving day and Christmas gift. Bright color dog chew toy, easy to find when throwing it in your large yard",
+      "FREE REPLACEMENT&SATISFACTORY SERVICE: Our aim is to design mostly indestructible dog toys for dogs and provide satisfactory service for you. The behavior of dogs is unpredictable, if for any reason you are not satisfied with our dog toys for aggressive chewers, please contact with us"
+    ],
+    "product_description": null,
+    "product_information": {
+      "Item Weight": "10.2 Ounces",
+      "Manufacturer": "Jeefome",
+      "ASIN": "B0BHN7K52L",
+      "Date First Available": "October 8, 2022",
+      "Item Package Dimensions L x W x H": "10.43 x 2.91 x 2.09 inches",
+      "Item Dimensions  LxWxH": "9.4 x 2.8 x 2.4 inches",
+      "Brand Name": "Jeefome",
+      "Target Audience Keyword": "dogs",
+      "Color": "Blue",
+      "Material": "Natural Rubber, Nylon",
+      "Age Range Description": "Adult dogs",
+      "Style": "Crocodile",
+      "Breed Recommendation": "All Breed Sizes"
+    },
+    "rating_distribution": {
+      "1": 12,
+      "2": 6,
+      "3": 9,
+      "4": 13,
+      "5": 60
+    },
+    "product_photos": [
+      "https://m.media-amazon.com/images/I/71u4ICg71GL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81T3GjUrZCL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81TPFUtgyJL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81zsvrbPUfL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71gq9L0i29L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81o8bkqAllL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81xmZnArfeL._AC_SL1500_.jpg"
+    ],
+    "product_videos": [
+      {
+        "id": "amzn1.vse.video.0d0a4774f6de4549b73d9b27c210243b",
+        "title": "Jeefome Dog Chew Toy",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/268e6d22-e70b-4ef6-8483-3d4a9c69dcbe/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1440",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61cTqmD+voL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0BHN7K52L",
+        "parent_asin": "B0F4X8Y4TV"
+      },
+      {
+        "id": "amzn1.vse.video.08941c69c5b342b08b9dab4b929dfb07",
+        "title": "Alligator Dog Toy",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2e10d59d-4d43-49e4-bf2d-83c905699d25/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61fVByhH7DL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0BHN7K52L",
+        "parent_asin": "B0F4X8Y4TV"
+      },
+      {
+        "id": "amzn1.vse.video.0e650ba25a4c47bd95de5a43de83414f",
+        "title": "Dog Toy Review & Everything You Should Know Before Buying",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/84543859-f92b-4967-9344-e7aab658d9f3/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/918WUjNY8eL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png",
+        "product_asin": "B0BHN7K52L",
+        "parent_asin": "B0F4X8Y4TV"
+      },
+      {
+        "id": "amzn1.vse.video.062afabcbbef462ea6dd225624ff2b4f",
+        "title": "Is this dog toy really for aggressive chewers?",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bab1480a-1c53-4ecb-b0e6-97b3046c370f/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/91i-DW7LIxL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0BHN7K52L",
+        "parent_asin": "B0F4X8Y4TV"
+      },
+      {
+        "id": "amzn1.vse.video.071c47c1846540c7af2f1cab6e04ffb2",
+        "title": "Honest review of alligator toy for aggressive chewers!",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c81ba4fe-8d79-4e25-abb5-3f2f79d4b8ec/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/C1QUpMPBPCL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0BHN7K52L",
+        "parent_asin": "B0F4X8Y4TV"
+      },
+      {
+        "id": "amzn1.vse.video.05c7962b8f254dcd9d269b6ca3db469f",
+        "title": "The most aggressive chewer's choice?",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/beff4c65-e50a-48fa-87a8-663af95aa2bf/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/51r-d1g3N-L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0BHN7K52L",
+        "parent_asin": "B0F4X8Y4TV"
+      }
+    ],
+    "user_uploaded_videos": [],
+    "video_thumbnail": "https://m.media-amazon.com/images/I/61cTqmD+voL.SX522_.jpg",
+    "has_video": true,
+    "product_details": {
+      "Product Dimensions": "9.4 x 2.8 x 2.4 inches; 10.2 ounces",
+      "Date First Available": "October 8, 2022",
+      "Manufacturer": "Jeefome",
+      "ASIN": "B0BHN7K52L",
+      "Best Sellers Rank": "#632 in Pet Supplies (See Top 100 in Pet Supplies)    #9 in Dog Chew Toys",
+      "Customer Reviews": "4.0             4.0 out of 5 stars          \n\n                          7,561 ratings"
+    },
+    "customers_say": "Customers find the dog toy well-made and sturdy, with good size options for medium to large breeds. However, the durability and chewability receive mixed feedback - while some say it lasts a long time and is good for aggressive chewers, others report it tears apart quickly and isn't suitable for heavy chewers. Moreover, customers disagree on the hardness, with some appreciating the texture while others find it too hard. Additionally, the weight is criticized as being ridiculously heavy, and opinions on value are divided between those who find it worth the price and those who consider it a waste of money.",
+    "top_reviews": [
+      {
+        "review_id": "R2QD13666OTKQZ",
+        "review_title": "Great For Aggressive Chewers",
+        "review_comment": "Our Golden Retriever is an aggressive chewer and this toy has lasted longer than any other. It\u2019s heavy, but he\u2019s a large dog so he can easily carry it around.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2QD13666OTKQZ",
+        "review_author_id": "AHCKSGT4P2TMLWQSEEJGGW7JHVAA",
+        "review_author": "Jodi Sanford",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHCKSGT4P2TMLWQSEEJGGW7JHVAA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 8, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "2 people found this helpful",
+        "reviewed_product_asin": "B0BHN7K52L",
+        "reviewed_product_variant": {
+          "Color": "Blue"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3PF5X3JFTI2M8",
+        "review_title": "Indestructible",
+        "review_comment": "My dog\u2019s a chewer. And very aggressive at it. She doesn\u2019t like it as much as she likes the things that she could tear apart in three minutes. But it\u2019s pretty decent product.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3PF5X3JFTI2M8",
+        "review_author_id": "AFOJUIIXTKOTWPWI5K4CZUCO767Q",
+        "review_author": "Ron",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFOJUIIXTKOTWPWI5K4CZUCO767Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 24, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0BHN7K52L",
+        "reviewed_product_variant": {
+          "Color": "Blue"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2EPJ7VJ3NXL53",
+        "review_title": "Good hard chew toy for puppies",
+        "review_comment": "The center section (alligator body) is a hard rubber and the end of its tail and head are actually a very hard plastic. While it did get chewed up pretty quickly it hasn\u2019t broken any chunks off yet and keeps my puppy entertained for a bit. No unsupervised chewing, pieces could break off and pose a choking hazard.",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2EPJ7VJ3NXL53",
+        "review_author_id": "AFEEHMLQV3PGNVIIOMUVC454GO6A",
+        "review_author": "Baker-Mom-Wife-Etc",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFEEHMLQV3PGNVIIOMUVC454GO6A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/fc180ef7-ef40-4f99-baf0-a6fb19563e7f._CR100%2C0%2C299%2C299_SX460_.jpg",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/71lL7zWCLcL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on June 7, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "9 people found this helpful",
+        "reviewed_product_asin": "B0BHN7K52L",
+        "reviewed_product_variant": {
+          "Color": "Blue"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RCGFSYJK8FCHJ",
+        "review_title": "Dog liked the toy, but it's nearly toast after less than two weeks.",
+        "review_comment": "The dog loved the toys, but she destroyed it in a little over two weeks. She's a serious chewer and we took it away today because there were chunks of sharp plastic being left on the floor and we were worried about her gums. Other thing, it's really heavy and solid. Our dog loves to pick it up and drop it for a loud thump.",
+        "review_star_rating": "3",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RCGFSYJK8FCHJ",
+        "review_author_id": "AGPIGNHZEOTUZY4XDG56G2ZZFLNQ",
+        "review_author": "USMC0931",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGPIGNHZEOTUZY4XDG56G2ZZFLNQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/cb73a5ac-52d2-477e-8dc8-e22a12b4600a._CR0%2C0%2C500%2C500_SX460_.jpg",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/71n1T1TeUQL.jpg",
+          "https://m.media-amazon.com/images/I/71H9j1ZL6sL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 26, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B0BHN7K52L",
+        "reviewed_product_variant": {
+          "Color": "Bright Green"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3VPUKV7DFRBV6",
+        "review_title": "Good for the Chewer",
+        "review_comment": "I have a Rottweiler puppy and this toy lasted all of three months! Very pleased due to her going through toys in toys weeks. The only reason it was trashed was because she keeps bringing me the toy, and the sharp parts mess up my legs.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3VPUKV7DFRBV6",
+        "review_author_id": "AHAN7MEFCJHB62SOUS33MV2JKC3A",
+        "review_author": "McKenzie Erickson",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHAN7MEFCJHB62SOUS33MV2JKC3A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/f242336c-fc9c-440a-b7a1-0357107576fb._CR0%2C0%2C333%2C333_UX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 1, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "4 people found this helpful",
+        "reviewed_product_asin": "B0BHN7K52L",
+        "reviewed_product_variant": {
+          "Color": "Blue"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1IYGONDCK7X6G",
+        "review_title": "Great chew toy",
+        "review_comment": "Our dog loves this toy!! We were very skeptical of it because it is so hard but she loves chewing on it , and it entertains her and keeps her from getting into mischief!! She is 2 yr old basset hound, that is wild!!!!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1IYGONDCK7X6G",
+        "review_author_id": "AHBZZ56MF44NZYJG6IVZ6UAZUTRA",
+        "review_author": "Clarice Manges",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHBZZ56MF44NZYJG6IVZ6UAZUTRA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 18, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0BHN7K52L",
+        "reviewed_product_variant": {
+          "Color": "Blue"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2VWIPH3BGCKJH",
+        "review_title": "Impressed!",
+        "review_comment": "It\u2019s lasted 3 times longer than all other \u201ctough\u201d toys. It is solid though. Very noticeable when our dog is dropping it on the floor and tossing it around. No issues so far.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2VWIPH3BGCKJH",
+        "review_author_id": "AGX6RQZQ74ZNZCFDXUB4UCKWWVKQ",
+        "review_author": "Mason Bennight",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGX6RQZQ74ZNZCFDXUB4UCKWWVKQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 14, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0BHN7K52L",
+        "reviewed_product_variant": {
+          "Color": "Blue"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3JNYZK6RAIBPK",
+        "review_title": "Nearly indestructible",
+        "review_comment": "While this toy held up well, my dog is on her way to destroying it. It's lasted longer than all others..",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3JNYZK6RAIBPK",
+        "review_author_id": "AF6NTKX7HBLY6FVW2QHPX7WMQUDQ",
+        "review_author": "Mary E. Moreno",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AF6NTKX7HBLY6FVW2QHPX7WMQUDQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/61fdff8d-ae7e-4778-8800-5e467cf90857._CR0%2C0%2C493%2C493_SX460_.jpg",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/7175KeXheaL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 18, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B0BHN7K52L",
+        "reviewed_product_variant": {
+          "Color": "Blue"
+        },
+        "is_vine": false
+      }
+    ],
+    "top_reviews_global": [
+      {
+        "review_id": "R13L0TWAD76Z96",
+        "review_title": "Not Indestructible",
+        "review_comment": "Dog chewed outer cover off in short space of time",
+        "review_star_rating": "1",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R13L0TWAD76Z96",
+        "review_author_id": null,
+        "review_author": "Lawrence Chan",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United Kingdom on July 9, 2023",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0BHN7K52L",
+        "reviewed_product_variant": {
+          "Color": "Blue"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1H4J59EJA3D0M",
+        "review_title": "Resistente",
+        "review_comment": "Mi pastor Alem\u00e1n adora este juguete es bastante resistente no se deshace ni rompe como otros adem\u00e1s el dise\u00f1o es lindo",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1H4J59EJA3D0M",
+        "review_author_id": null,
+        "review_author": "Lucila Estefania Ramirez Moreno",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/71732f-1Q9L.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in Mexico on September 8, 2023",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0BHN7K52L",
+        "reviewed_product_variant": {
+          "Color": "Blue"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2LHZBLWY8YXQM",
+        "review_title": "Good chew toy",
+        "review_comment": "Good chew toy for my dog, Jack",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2LHZBLWY8YXQM",
+        "review_author_id": null,
+        "review_author": "Dr Rovel Shackleford",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/226d4088-ec90-4860-896f-31b3a40ba25c._CR0%2C0%2C375%2C375_UX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Australia on April 28, 2023",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0BHN7K52L",
+        "reviewed_product_variant": {
+          "Color": "Blue"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R33YGVICRTZNCS",
+        "review_title": "D\u00e9cevant",
+        "review_comment": "Vu le prix et les commentaires je m'attendais a beaucoup mieux. Le milieu est probablement indestructible, mais le chien veut d'abord gruger la queue et la t\u00eate qui sont beaucoup moins r\u00e9sistants. J'ai un labernois et en moins d'1H la t\u00eate \u00e9tait comme \u00e7a.",
+        "review_star_rating": "3",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R33YGVICRTZNCS",
+        "review_author_id": null,
+        "review_author": "Marilyne",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/61zNrjmUohL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in Canada on December 23, 2024",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0BHN7K52L",
+        "reviewed_product_variant": {
+          "Color": "Blue"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R13VE2GC6N21IS",
+        "review_title": "Lost a leg in 20 minutes",
+        "review_comment": "Was excited to try this toy, and it felt good quality. However our labradoodle pup chewed off and swallowed one of the legs in less than half an hour, with the talk also looking pretty rough. Our dog is pretty rough on toys but had hoped that this one would be stronger than most, who knew a labradoodle could out-chew the hardcore chew toys?!",
+        "review_star_rating": "2",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R13VE2GC6N21IS",
+        "review_author_id": null,
+        "review_author": "laura hubbard",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/61Z8YtT53GL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in Australia on July 16, 2023",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0BHN7K52L",
+        "reviewed_product_variant": {
+          "Color": "Blue"
+        },
+        "is_vine": false
+      }
+    ],
+    "delivery": "FREE delivery Saturday, November 1 on orders shipped by Amazon over $35 Or Prime members get FREE delivery Wednesday, October 29. Order within 8 hrs 36 mins. Join Prime",
+    "primary_delivery_time": "Saturday, November 1",
+    "category": {
+      "id": "pets",
+      "name": "Pet Supplies"
+    },
+    "category_path": [
+      {
+        "id": "2619533011",
+        "name": "Pet Supplies",
+        "link": "https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/ref=dp_bc_1?ie=UTF8&node=2619533011"
+      },
+      {
+        "id": "2975312011",
+        "name": "Dogs",
+        "link": "https://www.amazon.com/dogs-supplies-training-beds-collars-grooming/b/ref=dp_bc_2?ie=UTF8&node=2975312011"
+      },
+      {
+        "id": "2975413011",
+        "name": "Toys",
+        "link": "https://www.amazon.com/dogs-toys-gifts-games-plush/b/ref=dp_bc_3?ie=UTF8&node=2975413011"
+      },
+      {
+        "id": "2975415011",
+        "name": "Chew Toys",
+        "link": "https://www.amazon.com/dog-chew-toys/b/ref=dp_bc_4?ie=UTF8&node=2975415011"
+      }
+    ],
+    "product_variations_dimensions": [
+      "color"
+    ],
+    "product_variations": {
+      "color": [
+        {
+          "asin": "B0BHN7K52L",
+          "value": "Blue",
+          "photo": "https://m.media-amazon.com/images/I/41VtkP72E7L.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0F1359SDP",
+          "value": "Purple",
+          "photo": "https://m.media-amazon.com/images/I/415yuKEk8tL.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0F1356S7S",
+          "value": "Red",
+          "photo": "https://m.media-amazon.com/images/I/413ImsIqYaL.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0F134DX93",
+          "value": "Yellow",
+          "photo": "https://m.media-amazon.com/images/I/41c69oe51NL.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0FH51TTWG",
+          "value": "Bright Green",
+          "photo": "https://m.media-amazon.com/images/I/41PeqIL6WOL.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0FH5465TD",
+          "value": "Pure Blue",
+          "photo": "https://m.media-amazon.com/images/I/41MMt3aW6SL.jpg",
+          "is_available": true
+        }
+      ]
+    },
+    "all_product_variations": {
+      "B0F134DX93": {
+        "color": "Yellow"
+      },
+      "B0FH5465TD": {
+        "color": "Pure Blue"
+      },
+      "B0F1359SDP": {
+        "color": "Purple"
+      },
+      "B0BHN7K52L": {
+        "color": "Blue"
+      },
+      "B0F1356S7S": {
+        "color": "Red"
+      },
+      "B0FH51TTWG": {
+        "color": "Bright Green"
+      }
+    },
+    "has_aplus": true,
+    "aplus_images": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e4989c3e-da8c-4dd6-aa17-623cf273fe83.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d0b953fd-e10b-4ffd-a1a0-3fa42919f3f5.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dfb20ef1-a146-4f03-9a08-1ee91d92d46f.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/787ecf73-6d4a-47cb-a16c-d72fe47dd7c9.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/04b1d51c-7c65-4658-b947-d4947135d4dc.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/28379134-28ea-448b-a8dc-8c6fdd996dae.jpg"
+    ],
+    "has_brandstory": true,
+    "frequently_bought_together": [
+      {
+        "product_title": "This item:  Jeefome Dog Toys for Aggresive Chewers - Tough,Indestructible Dog Toys for Large, Medium,Small Breed to Keep Them Busy",
+        "product_price": "$9.99",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71u4ICg71GL.jpg"
+      },
+      {
+        "product_title": "Frienhund Tough Dog Toys for Aggressive Chewers 3 Pack, Indestructible Dog Toy for Large Dogs, Bacon Flavored, Keeps Dogs Busy",
+        "product_price": "$13.56",
+        "product_url": "https://www.amazon.com/dp/B0DHG69418",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71VrmPn1YgL.jpg"
+      },
+      {
+        "product_title": "WinTour Tough Dog Toys for Aggressive Chewers, Indestructible Dog Chewers for Medium & Large Breeds, Squeaky Durable Chew Toys to Keep Them Busy, Reduce Boredom, Teeth Cleaning, Bacon Flavor",
+        "product_price": "$9.49",
+        "product_url": "https://www.amazon.com/dp/B0CGN1B9TP",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/61HgzRm2p+L.jpg"
+      }
+    ],
+    "landing_asin": "B0BHN7K52L",
+    "parent_asin": "B0F4X8Y4TV"
+  }
+}

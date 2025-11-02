@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: amazon
+    database: RAW
+    schema: AMAZON_PRODUCT
+    tables:
+      - name: product_details

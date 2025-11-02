@@ -1,0 +1,605 @@
+{
+  "status": "OK",
+  "request_id": "2e93a6a4-c812-44e3-89ef-438607fceb04",
+  "parameters": {
+    "asin": "B0009YWKUA",
+    "country": "US",
+    "language": "en_US"
+  },
+  "data": {
+    "asin": "B0009YWKUA",
+    "product_title": "Blue Buffalo Life Protection Formula Adult Dry Dog Food, Helps Build and Maintain Strong Muscles, Made with Natural Ingredients, Chicken & Brown Rice Recipe, 30-lb. Bag",
+    "product_price": "66.99",
+    "product_original_price": "$75.49",
+    "unit_price": "$2.23",
+    "unit_count": 30,
+    "minimum_order_quantity": null,
+    "currency": "USD",
+    "country": "US",
+    "product_byline": "Visit the Blue Buffalo Store",
+    "product_byline_link": "https://www.amazon.com/stores/BlueBuffaloCompanyLtd/page/B04E57CD-D853-4172-B44B-78519E69E6DF?lp_asin=B0009YWKUA&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto",
+    "product_byline_links": [
+      "https://www.amazon.com/stores/BlueBuffaloCompanyLtd/page/B04E57CD-D853-4172-B44B-78519E69E6DF?lp_asin=B0009YWKUA&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    ],
+    "product_star_rating": "4.7",
+    "product_num_ratings": 36926,
+    "product_url": "https://www.amazon.com/dp/B0009YWKUA",
+    "product_slug": "Blue-Buffalo-Protection-Formula-Adult",
+    "product_photo": "https://m.media-amazon.com/images/I/71KT1+7wAoL._AC_SL1500_.jpg",
+    "product_num_offers": 7,
+    "product_availability": "In Stock",
+    "is_best_seller": false,
+    "is_amazon_choice": true,
+    "is_prime": true,
+    "climate_pledge_friendly": false,
+    "sales_volume": "20K+ bought in past month",
+    "about_product": [
+      "REAL CHICKEN FIRST: Blue Buffalo's premium dog food features high quality deboned chicken as the primary ingredient; brown rice, cranberries and vegetables for a balanced diet; and high quality protein that promotes strong muscles",
+      "HIGH QUALITY NATURAL FOOD: BLUE's natural dry dog food is made with premium ingredients and contains no chicken or poultry by-products, corn, wheat or soy",
+      "THE PERFECT BALANCE OF FLAVOR AND NUTRITION: Formulated with essential proteins and carbs for energy needs and Omega-3 & 6 fatty acids to promote healthy skin and coat",
+      "CONTAINS IMMUNITY-BOOSTING LIFESOURCE BITS: LifeSource Bits contain a precise blend of antioxidants, vitamins and minerals to support immune system health, life stage needs and a healthy oxidative balance",
+      "Contains: One (1) 30-lb bag of BLUE Life Protection Formula Natural Chicken and Brown Rice Flavor",
+      "ENHANCED IMAGERY: We have enhanced our digital product packaging to highlight our products\u2019 ingredients and essential benefits; while the physical packaging will differ slightly, all information is accurate"
+    ],
+    "product_description": "Formulated for the health and well-being of adult dogs, BLUE Life Protection Formula Chicken and Brown Rice dry dog food is made with the finest natural ingredients enhanced with vitamins, minerals, and other nutrients. It\u2019s a high-quality, balanced recipe you can both feel great about. Designed to help your dog thrive, this formula starts with real chicken and contains no chicken (or poultry) by-product meals, no corn, wheat, or soy, and no artificial flavors or preservatives. Like all BLUE dry foods, BLUE Life Protection Formula includes exclusive, antioxidant-rich LifeSource Bits to support a healthy immune system in your adult dog. Give your dog the balanced nutrition of BLUE Life Protection Formula today. BLUE Life Protection Formula is brought to you by Blue Buffalo, the leader in natural pet food. Blue Buffalo makes premium-quality pet foods featuring real meat, fruit, and vegetables. Love them like family. Feed them like family.",
+    "product_information": {
+      "Item Weight": "30.28 Pounds",
+      "Department": "dog-dry-food",
+      "Manufacturer": "Blue Buffalo Company, Ltd",
+      "ASIN": "B0009YWKUA",
+      "Item model number": "800154",
+      "Date First Available": "October 1, 2004",
+      "Item Package Dimensions L x W x H": "24 x 16 x 6.5 inches",
+      "Item Dimensions  LxWxH": "25.5 x 16 x 5 inches",
+      "Brand Name": "Blue Buffalo",
+      "Target Audience Keyword": "dogs",
+      "Directions": "Up to 15 lbs. 1/2 \u2013 1 \u00bc cups* 16 to 25 lbs. 1 \u00bc \u2013 1 \u00be cups* 26 to 40 lbs. 1 \u00be \u2013 2 \u00bd cups* 41 to 60 lbs. 2 \u00bd \u2013 3 \u00bd cups* 61 to 80 lbs. 3 \u00bd \u2013 4 \u00bc cups* 81 to 100 lbs. 4 \u00bc \u2013 5 cups* Over 100 lbs. Feed 5 cups* plus \u00bd cup for each additional 20 lbs. *Use a standard 8-oz. measuring cup. Note: Individual dog's requirements may vary due to age, breed, environment, and activity level. Adjust food as required to maintain optimal body condition, and ask your veterinarian if you are unsure.",
+      "Warranty Description": "If you have a question that needs immediate attention, please call (800) 919-2833.",
+      "Model Name": "BLUE",
+      "Color": "Brown",
+      "Size": "30 Pound (Pack of 1)",
+      "Age Range Description": "Adult",
+      "Care Instructions": "Be sure to have a clean dish of cool, fresh water available at all times.",
+      "Number of Items": "1",
+      "Style": "Dog Food Only",
+      "Breed Recommendation": "All Breed Sizes",
+      "Included Components": "Contains one (1) 30 lb. Bag of BLUE Life Protection Formula Adult Dry Dog Food, Chicken and Brown Rice",
+      "Specific Uses for Product": "Coat"
+    },
+    "rating_distribution": {
+      "1": 3,
+      "2": 1,
+      "3": 3,
+      "4": 11,
+      "5": 82
+    },
+    "product_photos": [
+      "https://m.media-amazon.com/images/I/71KT1+7wAoL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71nbQiIxyLL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81AljD2ZeAL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81wfYhe7ZgL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/811zNPh+DML._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81-vkuVba4L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81dSjwpKFkL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Es+9JujQL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/813UEMmDD4L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81exOH9rzlL._AC_SL1500_.jpg"
+    ],
+    "product_videos": [
+      {
+        "id": "amzn1.vse.video.08fc4a4d84b34f0fa853ac9d47911222",
+        "title": "Why Choose BLUE Life Protection Formula Dog Food?",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ebd0e7a0-2bbc-49d3-88cc-628412dba99b/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/818dpFmKOWL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0009YWKUA",
+        "parent_asin": "B0FJPM2VK9"
+      },
+      {
+        "id": "amzn1.vse.video.0493b8f6ccb749afaa371094bfbf48c6",
+        "title": "Blue Buffalo - A Premium Choice",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eca28269-2a7b-4806-81f7-b82571ee87b8/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/51zWnxCt52L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0009YWKUA",
+        "parent_asin": "B0FJPM2VK9"
+      },
+      {
+        "id": "amzn1.vse.video.006b83a88723470f89b32c9b139aad51",
+        "title": "HOW TO USE Blue Buffalo & PEDIGREE Choice Cuts Mix Dog Food",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bb822a28-fa69-4f93-9dc6-920243354135/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/A1UEn25V8ML.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0009YWKUA",
+        "parent_asin": "B0FJPM2VK9"
+      },
+      {
+        "id": "amzn1.vse.video.00ac256c92d244b49471c61eee9dbac2",
+        "title": "Blue Buffalo adult dog food",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b163ca5d-8b31-4e3a-90d1-4320770ca970/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61YEaakHyLL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0009YWKUA",
+        "parent_asin": "B0FJPM2VK9"
+      },
+      {
+        "id": "amzn1.vse.video.0b0d47f61370490dabe1610fe4f41fb2",
+        "title": "Why I recommend this product",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c87a4596-169a-4652-94af-6ed69fa5b1f7/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/513VNzYk+JL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0009YWKUA",
+        "parent_asin": "B0FJPM2VK9"
+      },
+      {
+        "id": "amzn1.vse.video.011f9aec56214f87a6a60efc76a71b42",
+        "title": "Blue Buffalo Life Protection Formula Dog Food",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9077d350-c2e3-41fe-9b90-0529a1bc981b/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61FSBcWPIOL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0009YWKUA",
+        "parent_asin": "B0FJPM2VK9"
+      }
+    ],
+    "user_uploaded_videos": [],
+    "video_thumbnail": "https://m.media-amazon.com/images/I/818dpFmKOWL.SX522_.jpg",
+    "has_video": true,
+    "product_details": {
+      "Brand": "Blue Buffalo",
+      "Flavor": "Chicken &amp; Brown Rice",
+      "Age Range (Description)": "Adult",
+      "Item Form": "Dry Kibble",
+      "Specific Uses For Product": "Coat"
+    },
+    "customers_say": "Customers find this dog food to be of good quality, with healthy ingredients and no artificial flavors or preservatives. The food receives positive feedback for its taste, with dogs loving the chicken or turkey flavors, and customers report no stomach problems and improved digestive health. While some dogs eat it with no complaints, others refuse to eat it at all. Some customers report their dogs having diarrhea after consuming it.",
+    "top_reviews": [
+      {
+        "review_id": "R2NXC4D8L2GPJV",
+        "review_title": "Love it! :-)",
+        "review_comment": "Wanted to see how my dog would do before committing to a bigger bag. The first thing I noticed was the ingredient list with real chicken as the first ingredient, no by product meals, and no corn, wheat, or soy. That gave me confidence, it was starting on the right foot. \ud83d\ude42 My dog took to it right away, no hesitation at the bowl, and the transition from his old food was smooth. After about a week his coat looked shinier and his energy stayed consistent without any stomach issues. The kibble size was easy for him to chew and I liked that the bag was resealable which kept it fresh. \ud83d\ude42 The only drawback is the price. It is on the higher end for a kibble in this size and I know there are other brands that offer similar nutrition for less. That said the quality feels solid and the trial bag is a smart way to test it out before making a bigger investment. \ud83d\ude42\u2764\ufe0f",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2NXC4D8L2GPJV",
+        "review_author_id": "AGQLVCSTMLMGDCVDOZIVGSMB4BTQ",
+        "review_author": "Charles",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGQLVCSTMLMGDCVDOZIVGSMB4BTQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/fa259bc7-f856-4c56-93af-f9f146d89078._CR83%2C0%2C333%2C333_SX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 2, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "2 people found this helpful",
+        "reviewed_product_asin": "B0009YWKUA",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "5 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3TUCARS3WMMZ3",
+        "review_title": "Love Blue Buffalo",
+        "review_comment": "This is my preferred brand, and my dog loves it. He enjoys all the varieties\u2014beef, chicken, and especially the Wilderness line. I love that Blue Buffalo uses quality ingredients and really cares about pet nutrition. Plus, their Subscribe & Save deals on Amazon make it easy and affordable to keep his bowl full with the foods he loves. Highly recommended!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3TUCARS3WMMZ3",
+        "review_author_id": "AEPT2RZ536VXHPMK2MDKG77S3EZA",
+        "review_author": "Poisonpony",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEPT2RZ536VXHPMK2MDKG77S3EZA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 10, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "2 people found this helpful",
+        "reviewed_product_asin": "B0009YWKUA",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "30 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R37PTAJOLYFHHV",
+        "review_title": "Great product - my dog loves it",
+        "review_comment": "Been feeding this to my dog for a while now and he cleans the bowl every time. Coat looks good, energy\u2019s up, and no stomach issues like he had with cheaper brands. It\u2019s not the cheapest bag out there, but you get what you pay for. Solid stuff that actually makes a difference.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R37PTAJOLYFHHV",
+        "review_author_id": "AHUJSACIS2ZLPTUUWXOKRT7OKKYA",
+        "review_author": "Landes",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHUJSACIS2ZLPTUUWXOKRT7OKKYA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 19, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0009YWKUA",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "34 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1XY3YX7F1DY6B",
+        "review_title": "Great dog food for picky doggos",
+        "review_comment": "My dog is a little punk when it comes to eating dog food so I had to try different dog food brands every time he refused to eat. He absolutely loves eating this and had no stomach issues the first time he tried it unlike some other brands. I will definitely be ordering always and forever till he decides that he wants something else!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1XY3YX7F1DY6B",
+        "review_author_id": "AHG5X6BMXCUK4CBJU3JU77VYQ53A",
+        "review_author": "Ishara Fernando",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHG5X6BMXCUK4CBJU3JU77VYQ53A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/b1fd9325-1e7f-47b3-a292-ffa44ffa9541._CR62%2C0%2C375%2C375_SX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 13, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "2 people found this helpful",
+        "reviewed_product_asin": "B0009YWKUA",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "30 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R17TVESEJVF5C1",
+        "review_title": "Good quality & price",
+        "review_comment": "Have had my three dogs on the adult chicken for a few years now. Out of the three, only have one picky eater and she gobbles this kibble up! Food quality seems consistent and the dogs continue to have nice shiny coats would recommend this food to other dog owners. Currently enrolled in subscribe and save receiving 2 bags a month. This saves me about $24/month compared to purchasing at the store. Totally worth it.",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R17TVESEJVF5C1",
+        "review_author_id": "AGO5D7EWERPHUJFHBEQEC3DSL5ZA",
+        "review_author": "Summer Honeyman",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGO5D7EWERPHUJFHBEQEC3DSL5ZA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/0174605a-e69c-4021-8c4f-17ace9f30cc8._CR0%2C15%2C825%2C825_SX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 23, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0009YWKUA",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "15 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1LK7N3RME6NQ2",
+        "review_title": "Amazon Delivery Ridiculously BAD!",
+        "review_comment": "Product is great. But the Amazon driver left them outside of my gate instead of bringing it on to the porch! It was soaking wet from the rain and the boxes were crumbling! It was a hot mess",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1LK7N3RME6NQ2",
+        "review_author_id": "AGV4BDKQYQUSCJGOZU235NZTARZA",
+        "review_author": "ducky",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGV4BDKQYQUSCJGOZU235NZTARZA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 15, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B0009YWKUA",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "34 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1V9M1X8VP2LD5",
+        "review_title": "DOGGYLICIOUS!!",
+        "review_comment": "My husky loves this food. He likes the little bit & it\u2019s easy to chew. Great product & great flavor \ud83d\ude0b\ud83d\ude0b\ud83d\ude0b",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1V9M1X8VP2LD5",
+        "review_author_id": "AHWTPSUKVJJTOYPSWWXIM4BIECYQ",
+        "review_author": "Stacieee",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHWTPSUKVJJTOYPSWWXIM4BIECYQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/c8bdc019-113f-45b7-8fb8-9c291591734b._CR62%2C0%2C375%2C375_SX460_.jpg",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/81bfEDWcYnL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 27, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "2 people found this helpful",
+        "reviewed_product_asin": "B0009YWKUA",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "15 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RNQRSPHE7KKYT",
+        "review_title": "Great product,  lots of Amazon shipping delays",
+        "review_comment": "Love the product for my dogs and I buy one more premium brand and mix them and my dogs are healthy, playful (even the seniors), anf their coats just shine. But watch Amazon shipping even if you have subscribe and save, lots of delays and back orders!!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RNQRSPHE7KKYT",
+        "review_author_id": "AHSVBDY7OVFZW5BQ6U2RITHY7INQ",
+        "review_author": "Tamara Wothe",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHSVBDY7OVFZW5BQ6U2RITHY7INQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/a8d3d821-dbb7-4ef3-8e48-746bc6f74871._CR187%2C0%2C1125%2C1125_SX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 8, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "2 people found this helpful",
+        "reviewed_product_asin": "B0009YWKUA",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "30 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      }
+    ],
+    "top_reviews_global": [
+      {
+        "review_id": "R1J4P0URNYBBMX",
+        "review_title": "\u53c8\u98df\u3079\u308c\u308b\u3088\u3046\u306b\u306a\u3063\u305f\u3053\u3068",
+        "review_comment": "\u524d\u306b\u3082\u30d6\u30eb\u30fc\u3092\u98df\u3079\u3066\u305f\u306e\u3067\u53c8\u98df\u3079\u308c\u308b\u3088\u3046\u306b\u306a\u3063\u3066\u3088\u304b\u3063\u305f\u3067\u3059\u3002\u30e2\u30ea\u30e2\u30ea\u30d1\u30af\u30d1\u30af\u98df\u3079\u3066\u307e\u3059\u3002",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1J4P0URNYBBMX",
+        "review_author_id": null,
+        "review_author": "\u3051\u3044\u3061\u3083\u3093",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Japan on July 29, 2020",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0009YWKUA",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "15 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RZYW86KTLKK36",
+        "review_title": "\u54c1\u63c3\u3048\u306e\u826f\u3055",
+        "review_comment": "Amazon\u3055\u3093\u304c\u3053\u306e\u30c9\u30c3\u30b0\u30d5\u30fc\u30c9\u3092\u63c3\u3048\u3066\u3044\u3066\u3001\u826f\u304b\u3063\u305f\u3067\u3059\u3002 \u30a2\u30e1\u30ea\u30ab\u304b\u3089\u4e00\u6642\u5e30\u56fd\u3057\u305f\u611b\u72ac\u306e\u30d5\u30fc\u30c9\u3067\u3059\u306e\u3067\u3001\u73fe\u5730\u3067\u98df\u3079\u3066\u3044\u308b\u3082\u306e\u3068 \u540c\u4e00\u306e\u3082\u306e\u304c\u5fc5\u8981\u306a\u305f\u3081\u3067\u3059\u3002",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RZYW86KTLKK36",
+        "review_author_id": null,
+        "review_author": "Amazon \u30ab\u30b9\u30bf\u30de\u30fc",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Japan on July 19, 2020",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0009YWKUA",
+        "reviewed_product_variant": {
+          "Flavor Name": "Healthy Weight Chicken &amp; Brown Rice",
+          "Size": "15 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1WJZK8CQVH5JE",
+        "review_title": "Excelentes croquetas",
+        "review_comment": "Ya he pedido varias veces y siempre llega a tiempo y en perfectas condiciones, excelentes croquetas para mis mascotas",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1WJZK8CQVH5JE",
+        "review_author_id": null,
+        "review_author": "Ya he comprado varias veces y siempre llega a tiempo y en perfectas condiciones, excelentes croquetas para mis mascotas ",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Mexico on August 22, 2023",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0009YWKUA",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "30 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2A64S87RJTWW",
+        "review_title": "Comida para perro de buena calidad",
+        "review_comment": "Nos gusta esta marca. Antes la pod\u00edas conseguir en cualquier tienda, pero pronto la descontinuaron en nuestro pais, por lo tanto ahora estamos buscando donde comprarla y esta opci\u00f3n result\u00f3 muy bien. Estamos contentos porque lleg\u00f3 en tiempo y forma. Y el precio aunque no es el mismo que antes, no est\u00e1 tan caro.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2A64S87RJTWW",
+        "review_author_id": null,
+        "review_author": "Mugen",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Mexico on February 28, 2022",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0009YWKUA",
+        "reviewed_product_variant": {
+          "Flavor Name": "Healthy Weight Chicken &amp; Brown Rice",
+          "Size": "1 Ounce (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2BZC5MLLHEOSX",
+        "review_title": "Buen producto, pero el tama\u00f1o fue un cambio importante",
+        "review_comment": "Las croquetas tienen tama\u00f1o grande, nuestra perrita tardo algo de tiempo en acostumbrarse a masticar bien el alimento, algunas veces medio se ahogaba, pero parece que le gusta el sabor y la consistencia",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2BZC5MLLHEOSX",
+        "review_author_id": null,
+        "review_author": "Gerson",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Mexico on December 13, 2021",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0009YWKUA",
+        "reviewed_product_variant": {
+          "Flavor Name": "Chicken &amp; Brown Rice",
+          "Size": "30 Pound (Pack of 1)"
+        },
+        "is_vine": false
+      }
+    ],
+    "delivery": "FREE delivery Wednesday, November 5 Or Prime members get FREE delivery Sunday, November 2. Order within 7 hrs 25 mins. Join Prime",
+    "primary_delivery_time": "Wednesday, November 5",
+    "category": {
+      "id": "pets",
+      "name": "Pet Supplies"
+    },
+    "category_path": [
+      {
+        "id": "2619533011",
+        "name": "Pet Supplies",
+        "link": "https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/ref=dp_bc_1?ie=UTF8&node=2619533011"
+      },
+      {
+        "id": "2975312011",
+        "name": "Dogs",
+        "link": "https://www.amazon.com/dogs-supplies-training-beds-collars-grooming/b/ref=dp_bc_2?ie=UTF8&node=2975312011"
+      },
+      {
+        "id": "2975359011",
+        "name": "Food",
+        "link": "https://www.amazon.com/dogs-food-wellness-grain-free/b/ref=dp_bc_3?ie=UTF8&node=2975359011"
+      },
+      {
+        "id": "2975360011",
+        "name": "Dry",
+        "link": "https://www.amazon.com/dry-dog-food/b/ref=dp_bc_4?ie=UTF8&node=2975360011"
+      }
+    ],
+    "product_variations_dimensions": [
+      "flavor",
+      "size"
+    ],
+    "product_variations": {
+      "flavor": [
+        {
+          "asin": "B00CTJ8D2W",
+          "value": "Small Bite Chicken & Brown Rice",
+          "is_available": false
+        },
+        {
+          "asin": "B0009YWKUA",
+          "value": "Chicken & Brown Rice",
+          "is_available": true
+        },
+        {
+          "asin": "B000XZA09I",
+          "value": "Fish & Brown Rice",
+          "is_available": false
+        },
+        {
+          "asin": "B0009YWMVM",
+          "value": "Healthy Weight Chicken & Brown Rice",
+          "is_available": false
+        },
+        {
+          "asin": "B0F74W3DBF",
+          "value": "Salmon, Chicken-Free",
+          "is_available": false
+        }
+      ],
+      "size": [
+        {
+          "asin": "B0009YUGAG",
+          "value": "15 Pound (Pack of 1)",
+          "is_available": true
+        },
+        {
+          "asin": "B09K8YYVWV",
+          "value": "5 Pound (Pack of 1)",
+          "is_available": true
+        },
+        {
+          "asin": "B0009YWKUA",
+          "value": "30 Pound (Pack of 1)",
+          "is_available": true
+        },
+        {
+          "asin": "B09K8MHNQ9",
+          "value": "34 Pound (Pack of 1)",
+          "is_available": true
+        },
+        {
+          "asin": "B0009YUI86",
+          "value": "1 Ounce (Pack of 1)",
+          "is_available": false
+        }
+      ]
+    },
+    "all_product_variations": {
+      "B0009YWMVM": {
+        "flavor": "Healthy Weight Chicken & Brown Rice",
+        "size": "15 Pound (Pack of 1)"
+      },
+      "B0009YWKUA": {
+        "flavor": "Chicken & Brown Rice",
+        "size": "30 Pound (Pack of 1)"
+      },
+      "B09K8YYVWV": {
+        "flavor": "Chicken & Brown Rice",
+        "size": "5 Pound (Pack of 1)"
+      },
+      "B09K9JDZS4": {
+        "flavor": "Healthy Weight Chicken & Brown Rice",
+        "size": "34 Pound (Pack of 1)"
+      },
+      "B0009YUI86": {
+        "flavor": "Healthy Weight Chicken & Brown Rice",
+        "size": "1 Ounce (Pack of 1)"
+      },
+      "B00CTJ8D2W": {
+        "flavor": "Small Bite Chicken & Brown Rice",
+        "size": "15 Pound (Pack of 1)"
+      },
+      "B09K8MHNQ9": {
+        "flavor": "Chicken & Brown Rice",
+        "size": "34 Pound (Pack of 1)"
+      },
+      "B000XZA09I": {
+        "flavor": "Fish & Brown Rice",
+        "size": "15 Pound (Pack of 1)"
+      },
+      "B0F74W3DBF": {
+        "flavor": "Salmon, Chicken-Free",
+        "size": "34 Pound (Pack of 1)"
+      },
+      "B09K8XV4ZS": {
+        "flavor": "Healthy Weight Chicken & Brown Rice",
+        "size": "5 Pound (Pack of 1)"
+      },
+      "B0009YUGAG": {
+        "flavor": "Chicken & Brown Rice",
+        "size": "15 Pound (Pack of 1)"
+      }
+    },
+    "has_aplus": true,
+    "aplus_images": [],
+    "has_brandstory": true,
+    "frequently_bought_together": [
+      {
+        "product_title": "This item:  Blue Buffalo Life Protection Formula Adult Dry Dog Food, Helps Build and Maintain Strong Muscles, Made with Natural Ingredients, Chicken & Brown Rice Recipe, 30-lb. Bag",
+        "product_price": "$66.99",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71KT1+7wAoL.jpg"
+      },
+      {
+        "product_title": "Blue Buffalo Homestyle Recipe Adult Wet Dog Food, Made with Natural Ingredients, Chicken and Beef Dinner Variety Pack, 12.5-oz Cans (6 Count, 3 of each)",
+        "product_price": "$17.58",
+        "product_url": "https://www.amazon.com/dp/B0BMDXQ4FF",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/810fq5sOzBL.jpg"
+      },
+      {
+        "product_title": "Blue Buffalo Life Protection Formula Senior Dry Dog Food, Supports Joint Health and Mobility, Made with Natural Ingredients, Chicken & Brown Rice Recipe, 30-lb. Bag",
+        "product_price": "$66.99",
+        "product_url": "https://www.amazon.com/dp/B0009YUGA6",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71VW7X8VufL.jpg"
+      }
+    ],
+    "landing_asin": "B0009YWKUA",
+    "parent_asin": "B0FJPM2VK9"
+  }
+}

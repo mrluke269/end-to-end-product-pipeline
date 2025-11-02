@@ -1,0 +1,332 @@
+{
+  "status": "OK",
+  "request_id": "3ce73375-6b13-4cb6-a4e4-bfd3a9ccce47",
+  "parameters": {
+    "asin": "B0B5TD8CTF",
+    "country": "US",
+    "language": "en_US"
+  },
+  "data": {
+    "asin": "B0B5TD8CTF",
+    "product_title": "Potaroma Cat Toys 3in1 Automatic Interactive Kitten Toy, Fluttering Butterfly, Moving Feather, Track Balls, Dual Power Supplies, USB Powered, Indoor Exercise Kicker (Bright White)",
+    "product_price": "29.98",
+    "product_original_price": "$29.98",
+    "minimum_order_quantity": null,
+    "currency": "USD",
+    "country": "US",
+    "product_byline": "Visit the Potaroma Store",
+    "product_byline_link": "https://www.amazon.com/stores/Potaroma/page/D45F2790-5323-4207-9F98-249B8ACBEFB4?is_byline_deeplink=true&deeplink=13326E21-520F-4299-9ADC-8FD81072DF44&redirect_store_id=D45F2790-5323-4207-9F98-249B8ACBEFB4&lp_asin=B0B5TD8CTF&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto",
+    "product_byline_links": [
+      "https://www.amazon.com/stores/Potaroma/page/D45F2790-5323-4207-9F98-249B8ACBEFB4?is_byline_deeplink=true&deeplink=13326E21-520F-4299-9ADC-8FD81072DF44&redirect_store_id=D45F2790-5323-4207-9F98-249B8ACBEFB4&lp_asin=B0B5TD8CTF&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    ],
+    "product_star_rating": "4.4",
+    "product_num_ratings": 8034,
+    "product_url": "https://www.amazon.com/dp/B0B5TD8CTF",
+    "product_slug": "Potaroma-Interactive-Fluttering-Butterfly-Supplies",
+    "product_photo": "https://m.media-amazon.com/images/I/61jYFC7hrFL._AC_SL1500_.jpg",
+    "product_num_offers": 3,
+    "product_availability": "In Stock",
+    "is_best_seller": false,
+    "is_amazon_choice": false,
+    "is_prime": true,
+    "climate_pledge_friendly": false,
+    "sales_volume": "4K+ bought in past month",
+    "about_product": [
+      "[3 in 1, Most Versatile Cat Toy Ever] \u2013 shooting feather from random holes, flying butterfly and balls in the track. The fluffy feather keeps hiding and popping out from random holes, unpredictable movement stimulates cats to swat and play. Lifelike butterfly that flaps around in the air like real easily prompts cats to pounce and bat. The balls which you can put in the track add extra fun when cats stick their claws into the track and bat the balls",
+      "[Smartest Cat Toy] \u2013 The feather or butterfly runs for 5 mins and then stops if left alone, then on standby for 4 hours during which cats can re-activate it with a slightest touch. If left alone for over 4 hours, the electric cat toy auto shuts off and needs to be re-started by flicking the switch",
+      "[Dual Power Supplies] - The amazing cat enrichment toy can run on 4 AA batteries (not included) or connected to power source at your convenience. Additional power supply option (plugged in to wall power or power bank) allows you to save the cost and hassle to replace batteries. You can use mobile phone adapter (\u22645v) if you want to plug it in to wall power. Adapter is not included",
+      "[Mental & Physical Stimulation] - The kitten toy makes minimal mechanical noises that it won\u2019t scare away timid cats. The feather and butterfly stimulate cat\u2019s hunting instinct, promote healthy exercise and keep cats on her paws. With just one toy, you can simply satisfy your cat\u2019s mental and physical needs, stop cats getting bored when you are away or engaged",
+      "[Tested for Safety] - Our pet toys are designed to meet stringent standards then tested against those standards because pet\u2019s safety is our priority. The shell is made of PP resin, durable and safe for cats. And the feather and butterfly come with no sharp parts or edges, no harm for cats. One extra shooting feather refill is included in the package"
+    ],
+    "product_description": null,
+    "product_information": {
+      "Item Weight": "1.4 Pounds",
+      "Manufacturer": "Potaroma",
+      "ASIN": "B0B5TD8CTF",
+      "Item model number": "Potaroma-3in1-Bai",
+      "Date First Available": "July 5, 2022",
+      "Item Package Dimensions L x W x H": "8.07 x 8.03 x 4.09 inches",
+      "Item Dimensions  LxWxH": "8 x 8 x 4 inches",
+      "Brand Name": "Potaroma",
+      "Target Audience Keyword": "Cats, house-cats",
+      "Color": "White",
+      "Size": "1 Count (Pack of 1)",
+      "Material": "pp resin",
+      "Age Range Description": "All Ages",
+      "Number of Items": "1",
+      "Style": "Bright White 3in1 Cat Toy",
+      "Breed Recommendation": "All Breed Sizes"
+    },
+    "rating_distribution": {
+      "1": 5,
+      "2": 3,
+      "3": 7,
+      "4": 12,
+      "5": 73
+    },
+    "product_photos": [
+      "https://m.media-amazon.com/images/I/61jYFC7hrFL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/7109MOdBKGL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71jCAJtDOLL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ZmzgsJ1dL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71DptZOqH3L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71iarb4jUkL._AC_SL1500_.jpg"
+    ],
+    "product_videos": [
+      {
+        "id": "amzn1.vse.video.080e0c139a7e4bb1bc6348f706fa366d",
+        "title": "3in1 Cat Toy",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/49c0f227-6c77-4435-8855-51780776e4e8/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/41e-nDmEqhL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0B5TD8CTF",
+        "parent_asin": "B0D1PMM363"
+      },
+      {
+        "id": "amzn1.vse.video.05fb0f5919e447728385c325750d4cf6",
+        "title": "Unbox, assemble and play with this cat toy! Watch to see the cutest kitten!",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/415c9069-c4ae-4bed-9604-59f0e5bc9296/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1924",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/81kKkKAnnuL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0B5TD8CTF",
+        "parent_asin": "B0D1PMM363"
+      },
+      {
+        "id": "amzn1.vse.video.0bd09e14916f46d0ac64ee1a06b014cf",
+        "title": "1 BIG difference, & this is VERY important + EVERY feature explained!",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/24aeb02e-4270-4102-a9ed-75162aa777b8/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/A15kHScWLSL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png",
+        "product_asin": "B0B5TD8CTF",
+        "parent_asin": "B0D1PMM363"
+      },
+      {
+        "id": "amzn1.vse.video.02fa8967f78e42918d1a908f5dd6ec47",
+        "title": "My cat absolutely loves this toy!",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8e5f5eba-f577-434d-9b35-d6a1f49cc9db/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/B1058GYa57L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0B5TD8CTF",
+        "parent_asin": "B0D1PMM363"
+      },
+      {
+        "id": "amzn1.vse.video.0cddc165e8d048ffad87d3e7afed4ff5",
+        "title": "Honest Review of Automatic Cat Toy",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2651e39c-c6b2-4796-b339-edd7172e714f/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/91iVNHFPTYL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png",
+        "product_asin": "B0B5TD8CTF",
+        "parent_asin": "B0D1PMM363"
+      },
+      {
+        "id": "amzn1.vse.video.0426aeb7854d49b7b464ec19a6a0ae90",
+        "title": "Potaroma 3 in 1 Cat Toy-Your CAT Wants You To Get Them THIS!",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b54882c7-d3f6-4783-8fba-1588b7e47039/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/91Bjkib2LbL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png",
+        "product_asin": "B0B5TD8CTF",
+        "parent_asin": "B0D1PMM363"
+      }
+    ],
+    "user_uploaded_videos": [],
+    "video_thumbnail": "https://m.media-amazon.com/images/I/41e-nDmEqhL.SX522_.jpg",
+    "has_video": true,
+    "product_details": {
+      "Product Dimensions": "8 x 8 x 4 inches; 1.41 Pounds",
+      "Item model number": "Potaroma-3in1-Bai",
+      "Date First Available": "July 5, 2022",
+      "Manufacturer": "Potaroma",
+      "ASIN": "B0B5TD8CTF",
+      "Best Sellers Rank": "#1,832 in Pet Supplies (See Top 100 in Pet Supplies)    #7 in Cat Feather Toys",
+      "Customer Reviews": "4.4             4.4 out of 5 stars          \n\n                          8,034 ratings"
+    },
+    "customers_say": "Customers find this cat toy to be the best ever, keeping cats entertained for hours and featuring different play modes. The toy turns off automatically after a while, and while some say it lasts forever, others report it breaking quickly. The functionality and value for money receive mixed reviews - some say it works great and is worth the money, while others report it stops working completely and consider it not worth the price. The battery life is also mixed, with some saying batteries last forever while others complain they run out quickly.",
+    "top_reviews": [
+      {
+        "review_id": "R2I2DB1RDPO8W7",
+        "review_title": "Awesome toy!",
+        "review_comment": "The media could not be loaded. I adopted Gwendalyn, who is just over a year old, about a month ago. So, she's still getting adjusted to some extent and has a LOT of energy. I have lots of toys for her but she doesn't really seem to know how to play by herself. Which during the day is fine, but at 3am it's rough! So, I looked into interactive toys. Gwen loves her string toys and hunting for toys, so this toy seemed perfect! And it really is. She loves it!! So much so that if she hears the beep from me turning it off, she comes running and whining. So, while I'd originally only intended to have it available to her overnight, it's now a 24/7 toy. You need 4 AA batteries, which I'm fine with, but know it's not a chargeable toy. There is a cord that you can use to plug into the wall, but then the toy has to be by a wall/outlet. Modes are nice, 4 different options. It is good about going into standby after 5mins and shutting off 2hrs later (if toy activated from standby, everything resets time wise). It doesn't really stay put on hardwood floors, which I why I set it on basic grippy shelf liner, which works fine. Only complaints I have are that when toy is reactivated, it beeps a bit loudly (especially if at night and in your room). Not sure why felt need to have it beep for that, as you can hear the toy going, though toy not as loud as the beep). Also, for some reason, when it switches modes, goes into standby, or even turns off, the whack-a-mole piece sometimes stays sticking out. I learned that when I heard, then saw, my cat carrying/dragging the toy across the room with holding that piece in her mouth. It would be nice if it always finished inside the toy. Doubly nice would be if it locked (or something) in place inside, as I now can't use the feather or the floofy feathery strand thingie bc she can very easy dig them out, and will chew and carry the toy using them way more than with just the worm piece. My last issue relates to those whack-a-mole pieces. So, we can only really use the \"worm\" piece, which is fine as she loves it and she's better with it. But, if I need to replace it, I have to buy a pack that's 2 worms, 2 feathers, and 2 floofy things for around $10...when I will only be able to use 2 of the 6 items. I wish could get individual types so I'm not wasting money. Gripes aside, this toy really is great and at a good price too. Gwen truly loves it and finds it fun and soothing, so that makes me love it. I definitely recommend.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2I2DB1RDPO8W7",
+        "review_author_id": "AEELAU3UKIFLKZJGH2YT5JOOP7VQ",
+        "review_author": "G J Finlay",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEELAU3UKIFLKZJGH2YT5JOOP7VQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": {
+          "stream_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ed620b4f-56de-4ae0-ac37-2aa85985977f/default.vertical.jobtemplate.hls.m3u8",
+          "closed_captions_url": "https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/de8c29b6-ea0b-42f9-b078-e0e09b76830d.vtt",
+          "thumbnail_url": "https://m.media-amazon.com/images/I/61Q2QHRNCkL._SY256.jpg"
+        },
+        "review_date": "Reviewed in the United States on June 7, 2024",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "158 people found this helpful",
+        "reviewed_product_asin": "B0B5TD8CTF",
+        "reviewed_product_variant": {
+          "Color": "White"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R32CHSZQGTQIJU",
+        "review_title": "Puurrrrrfect Cat Toy and Replacement Toys",
+        "review_comment": "UPDATE: Jun 5, 2023 For durability, I have to give this toy a 1,000-STAR Rating, my cats have dragged this toy all over the house playing with it, they have turned it upside down, pounced on it with full force and this toy has suffered NO DAMAGE whatsoever! First cat toy that seems very impervious to cat's very aggressive behaviors! I have found this toy in one of our 2 bathrooms, in our bedroom under the bed, all over the living room and kitchen/dinging room area. And it hasn't stopped working, even with being dragged, bumped, knocked, turned upside down (while still operating). I am very impressed with how this 3-in-1 cat toy has held up to my cat's abuse of it, and still working. This is one toy I can feel very confident in and has definitely been manufactured very well with a cat's aggressive behavior in mind, definitely would recommend this Potaroma cat toy. Just make sure you buy replacement parts, as cats will murder the feathers and butterflies in about 2 to 3 days, sometimes they may kill one in a day, but most have lasted about 3 days before a replacement is needed, sometimes longer. I just repurchased the second set of replacements for mine and got them in one day, as I had already gone through my first set of replacement toys I purchased at the same time I purchased the main toy, I purchased both replacements, the butterflies and the feathers, each type sold separately. My only small complaint is the one feather that comes with the butterflies, it doesn't have the same type of wire, there is no coiled spring near the bottom of the wire, so it gets bent out of shape much easier than the butterflies do, which makes it a little more difficult to straighten out when the cats bend it to the ground. The coiled wires are a bit better, but I think if the coiled section were a slight bit longer and maybe a little closer to where the wire comes out of the base, then it wouldn't bend over as easily, but like stated, to me, that's a very minor issue. As for battery duration, as stated in my original review I use Amazon Rechargeable batteries for all my devices, and these have held up extremely well in this particular \"motorized\" cat toy, I keep a spare set recharged for when I need to change the batteries out, and most often they get changed out after 24 hours of use, as my cats play with this toy constantly, it doesn't get much resting time with the number of cats I have activating it, and playing with it. Regular alkaline batteries would have been dead in just a few hours of playtime, so, again, I definitely would recommend the Amazon AA Rechargeable Batteries for this toy, I use the 850mAh in my devices, and they have never let me down yet. I have been using them for a couple of years now, and they have outlasted any other battery, as well as any name brand rechargeable batteries I have used and that have never lasted as long, or as reliable in my devices, unlike the Amazon Rechargeable batteries, they have outperformed and outlasted them all, and I've used a lot of name brand rechargeables over the years, none have even come close to the satisfaction I get from Amazons Rechargeable Batteries! My cats are very happy with this toy and is one of only TWO toys they use every single day and multiple times a day. The only other toy they use daily is a 5 way cat tunnel I bought for them, and yes, I have even found the 3-in-1 toy dragged inside the tunnel toy too. They also love to hide in the tunnel and jump out at the 3-in-1 toy while it's in action. So, if you want an excellent cat toy that is truly durable, this Potaroma 3-in-1 cat toy will do very nicely. I can HIGHLY RECOMMEND this toy as one of the best cat toys out there. BTW: the toy is also very quiet when in operation, it does make some clicking sounds as the feather peeks in and out of the chamber at the bottom, but it's not loud enough to really disturb anyone, that this may depend on the individual. I just know for my wife and I, the clicking isn't all that noticeable, plus when we do hear it, we know the cats are playing with their toy again. :) ========================== END JUNE 5, 2023 UPDATE - Original Review Below =============== DISLIKES: None, just don't know why it is asking for a rating on Suction and Motion Detection, as this toy doesn't have those options, and why I rated those as 1-Star. Likes: At first all, but one of my 3-month-old kittens were hesitant to approach the toy, I have 3 males and 1 female, one male is *ALWAYS* the first to check out any new cat toy, if he plays with it, the others usually follow suit in a very short time, his name is Winterfrost, and he GETS INTO EVERYTHING! LOL My wife did take some video of them playing with the toy on her cell phone, if I can figure out how to get it to my computer, I'll upload it as soon as I can. The other 3 sat and watched, then the other 2 males, named Goldstar and Ezekiel joined in shortly after they saw how much fun Winterfrost was having chasing the butterfly, batting at the balls, and catching the feather, but the lone female (Serena) would still skirt around them and jump out of their way, still unsure about the toy. Eventually, she saw how much fun her brothers were having with it and finally joined in the play, then momma (Lily Blossom) got into the act with her kittens. It arrived somewhere near 2pm, I believe, and they have been playing with it NON-STOP since they got it! It's now almost 5pm, and they are still working on it, although I had to go on a hunt and destroy mission to find the butterfly that Serena (never expected her to be the first one) had managed to get completely off the toy! Winterfrost is who I figured would be the first to get the butterfly off the toy. ROFL I buy and use Amazon Rechargeable AA batteries, and after 3 hours of non-stop action, they are still going strong in the toy, most standard or even alkaline batteries DO NOT hold up nearly this long in a \"motorized\" for this type of duration. So, I would definitely recommend you buy Amazon AA Rechargeable Batteries for this cat toy, they hold up far longer than any standard battery, I've been using the Amazon AA and AAA rechargeables in many of my cat toys that require batteries, and I have not been disappointed with their performance in such hard, long use, especially in the motorized cat toys! Well worth investing in them, just make sure you get a good charger, one that can handle multiple batteries, I have a 10 Battery Charger for them. And it can also charge 2 9V batteries at the same time, which I have some remote controlled cat toys that use a 9V battery, and I use the in everything battery operated. I can highly recommend this cat toy, even my outdoor cats that come inside under inclement weather or just when they want to come in love this toy, and these cats age in range from 8\u201311 years old, and even they enjoyed it when the kittens would give them a chance at it! ROFL Oh, and by the way, folks have mistakenly said this toy will not let you have the butterfly and feather both work at the same time, perhaps older models may not, but the one I received has a little white pushbutton next to the switch, that button is for locking the feather in the out position, so it can be changed when damaged or missing from the cats aggressive play, but that button also serves another purpose (the owner's manual covers this), press once after selecting the slide switch position, this button is next to the slide switch, turn on the main switch from off to either feather or butterfly, then press and release the white button, this will turn on both the peek-a-boo feather and have the butterfly flittering around at the same time, but the slide switch must be in either of these two \"ON\" positions for the button to function, setting both toys in action. As I was writing this review, my cats are finally worn out from all the play and are just resting, but they refuse to go far away from their new toy, and they figured out how to activate it and keep it going for the entertainment, as it never shut off after the 4-minute timer would have run out. I've purchased other types of cat animated toys, laser toys that do things, but this one has to be my kittens and cat's all-time favorite toy, they have NEVER spent 3 hours playing with a single toy before, usually 15\u201320 minutes, and they're done, this one got a nice 3-hour workout with them right after I got it! Seems to be very durable, even though my cats were dragging it around when they would catch the butterfly and hold it down, playing keep away from the other kittens and cats that wanted it. I had just as much enjoyment watching them take to, then play with this toy for such a long period of time, so unlike most cats, but then I've heard people comment I have some strange and unique cats. ROFLMBO Again, I definitely can recommend this cat toy, and I highly recommend Amazon Rechargeable Batteries for it. Believe it or not, but I have had much longer run times and play time with cat toys with Amazon brand Rechargeable batteries over any other brand of rechargeable, Amazon's Rechargeable batteries surpassed every other \"name brand\" rechargeable battery I have ever bought, and why I will continue to buy Amazon Rechargeable batteries for all my battery powered cat toys and other battery powered devices. Sure beats having to go out and buy replacement batteries every time they go dead, and I always keep a spare set charged so their playtime is not disrupted for very long! I hope your purr babies enjoy this toy as much as my cats are. This has to be the very best toy I ever bought them. I'd give this toy 100-Stars if I could!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R32CHSZQGTQIJU",
+        "review_author_id": "AFQBQNJ3DYBZNL6VIGTB3FMFY7VA",
+        "review_author": "Cataptra",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFQBQNJ3DYBZNL6VIGTB3FMFY7VA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/5b4c8191-6129-476e-a60d-1498f960b58a._CR62%2C0%2C375%2C375_SX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on April 25, 2023",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "203 people found this helpful",
+        "reviewed_product_asin": "B0B5TD8CTF",
+        "reviewed_product_variant": {
+          "Color": "White"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R89IRSZHO65XI",
+        "review_title": "My cat loves this toy",
+        "review_comment": "I purchased this toy for our cat after a family member received one as a gift for her new kitten. My cat absolutely loves this toy and it keeps him occupied for hours. I like the different modes (you can just have the feather that darts in and out and/or the butterfly whirling about). I also like that it can be completely turned off or activated by motion. I have also purchased additional butterflies and feathers, as my cat eventually catches them and wears them out. I recently contacted the company about an issue with the toy and received amazing service with a personal touch. I highly recommend this toy for your feline family members.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R89IRSZHO65XI",
+        "review_author_id": "AELX4DQLHJYKY2NOYNTX2X62OI6Q",
+        "review_author": "Amazon Customer",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AELX4DQLHJYKY2NOYNTX2X62OI6Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 21, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "3 people found this helpful",
+        "reviewed_product_asin": "B0B5TD8CTF",
+        "reviewed_product_variant": {
+          "Color": "White"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1GK9Q4O19H6G5",
+        "review_title": "Fun when turned on",
+        "review_comment": "My cat loves this but I hate that I have to turn it on for her each time. (It goes to motion detector for a few hours after you turn it on.) The battery lasts a long time though. It comes with some replacement heads as well. I wish it were always motion activated so my cat could enjoy it more often. It has multiple settings. One setting is just the feather toys, another is the butterfly, another is both at the same time, and another switches between the two. My 12 year old cat likes the feathers and butterflies. Even when it\u2019s not on, she will try to grab and lick the feathers. My other cat likes to play with the balls on the track and doesn\u2019t care much for the feathers or butterflies. The toy is a bit noisy but not disturbingly so. You can mildly hear it in another room though.",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1GK9Q4O19H6G5",
+        "review_author_id": "AFLEPQC32F23HODCYKTHTZ5OQ55Q",
+        "review_author": "Lisa",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFLEPQC32F23HODCYKTHTZ5OQ55Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/81XADaHl2oL.jpg",
+          "https://m.media-amazon.com/images/I/81gE5zzh+6L.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on August 24, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "5 people found this helpful",
+        "reviewed_product_asin": "B0B5TD8CTF",
+        "reviewed_product_variant": {
+          "Color": "White"
+        },
+        "is_vine": false
+      }
+    ],
+    "top_reviews_global": [],
+    "delivery": "FREE delivery Tuesday, November 4 on orders shipped by Amazon over $35 Or Prime members get FREE delivery Saturday, November 1. Order within 7 hrs 12 mins. Join Prime",
+    "primary_delivery_time": "Tuesday, November 4",
+    "category": {
+      "id": "pets",
+      "name": "Pet Supplies"
+    },
+    "category_path": [
+      {
+        "id": "2619533011",
+        "name": "Pet Supplies",
+        "link": "https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/ref=dp_bc_1?ie=UTF8&node=2619533011"
+      },
+      {
+        "id": "2975241011",
+        "name": "Cats",
+        "link": "https://www.amazon.com/cats-supplies-kittens-catnip-tree-litter/b/ref=dp_bc_2?ie=UTF8&node=2975241011"
+      },
+      {
+        "id": "2975303011",
+        "name": "Toys",
+        "link": "https://www.amazon.com/cat-feather-laser-toys-catnip/b/ref=dp_bc_3?ie=UTF8&node=2975303011"
+      },
+      {
+        "id": "2975306011",
+        "name": "Feather Toys",
+        "link": "https://www.amazon.com/dog-feather-toys/b/ref=dp_bc_4?ie=UTF8&node=2975306011"
+      }
+    ],
+    "product_variations_dimensions": [
+      "color"
+    ],
+    "product_variations": {
+      "color": [
+        {
+          "asin": "B0B5TD8CTF",
+          "value": "White",
+          "photo": "https://m.media-amazon.com/images/I/41Au1waAidL.jpg",
+          "is_available": true
+        },
+        {
+          "asin": "B0B5TD8N7D",
+          "value": "Blue",
+          "photo": "https://m.media-amazon.com/images/I/41RHVivhlKL.jpg",
+          "is_available": true
+        }
+      ]
+    },
+    "all_product_variations": {
+      "B0B5TD8CTF": {
+        "color": "White"
+      },
+      "B0B5TD8N7D": {
+        "color": "Blue"
+      }
+    },
+    "has_aplus": true,
+    "aplus_images": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b0e45094-2609-41a7-ab31-ab26f6ae8315.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/70e41afa-79ed-4787-9f2e-2a962bbb99d3.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2e36df39-e083-4193-9c86-51469055a5e3.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b46b7f08-98e6-4676-a63e-0b22386f0ee6.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d760ece1-84d8-4d2a-9576-6cb484e4fafa.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/814083fb-7ffe-4cf8-8db5-c5268d873643.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6e47a42d-95c4-4bce-ae82-b1e49d771387.jpg"
+    ],
+    "has_brandstory": true,
+    "frequently_bought_together": [
+      {
+        "product_title": "This item:  Potaroma Cat Toys 3in1 Automatic Interactive Kitten Toy, Fluttering Butterfly, Moving Feather, Track Balls, Dual Power Supplies, USB Powered, Indoor Exercise Kicker (Bright White)",
+        "product_price": "$29.98",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/61jYFC7hrFL.jpg"
+      },
+      {
+        "product_title": "Cat Feather Toy, Retractable Cat Toys Wand 2 Wands & 9 Assorted Teaser Refills, Interactive Feather Teaser Wand Toy Bell Kitten Cat Having Fun Exerciser Playing",
+        "product_price": "$9.59",
+        "product_url": "https://www.amazon.com/dp/B07F45GGPT",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/615Ccf+wziL.jpg"
+      },
+      {
+        "product_title": "Potaroma Cat Toys Chew Ropes 3Pcs with Refillable Natural Catnip, Safe Teeth Cleaning Toy for Indoor Kittens, Interactive Cat Nip Kitty Toys for All Breeds 19.5 Inches",
+        "product_price": "$8.99",
+        "product_url": "https://www.amazon.com/dp/B0CZ3YD1V6",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71-Zlt9EfCL.jpg"
+      }
+    ],
+    "landing_asin": "B0B5TD8CTF",
+    "parent_asin": "B0D1PMM363"
+  }
+}

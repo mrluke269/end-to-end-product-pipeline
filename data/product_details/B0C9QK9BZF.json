@@ -1,0 +1,486 @@
+{
+  "status": "OK",
+  "request_id": "5fb5c198-f279-45a9-939c-de42663e72f7",
+  "parameters": {
+    "asin": "B0C9QK9BZF",
+    "country": "US",
+    "language": "en_US"
+  },
+  "data": {
+    "asin": "B0C9QK9BZF",
+    "product_title": "Potaroma Cat Toys Saury Fish, 3 Pack, Catnip Crinkle Sound, Soft and Durable, Interactive Kitten Kicker for Indoor Kitty Exercise 9.4 Inches for All Breeds",
+    "product_price": "9.98",
+    "product_original_price": "$12.98",
+    "unit_price": "$3.33",
+    "unit_count": 3,
+    "minimum_order_quantity": null,
+    "currency": "USD",
+    "country": "US",
+    "product_byline": "Visit the Potaroma Store",
+    "product_byline_link": "https://www.amazon.com/stores/Potaroma/page/D45F2790-5323-4207-9F98-249B8ACBEFB4?is_byline_deeplink=true&deeplink=B0DCA53F-2178-45BB-BB89-C7A32D2D0E1A&redirect_store_id=D45F2790-5323-4207-9F98-249B8ACBEFB4&lp_asin=B0C9QK9BZF&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto",
+    "product_byline_links": [
+      "https://www.amazon.com/stores/Potaroma/page/D45F2790-5323-4207-9F98-249B8ACBEFB4?is_byline_deeplink=true&deeplink=B0DCA53F-2178-45BB-BB89-C7A32D2D0E1A&redirect_store_id=D45F2790-5323-4207-9F98-249B8ACBEFB4&lp_asin=B0C9QK9BZF&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    ],
+    "product_star_rating": "4.6",
+    "product_num_ratings": 4383,
+    "product_url": "https://www.amazon.com/dp/B0C9QK9BZF",
+    "product_slug": "Potaroma-Crinkle-Durable-Interactive-Exercise",
+    "product_photo": "https://m.media-amazon.com/images/I/81fSg1+32LL._AC_SL1500_.jpg",
+    "product_num_offers": 2,
+    "product_availability": "In Stock",
+    "is_best_seller": false,
+    "is_amazon_choice": false,
+    "is_prime": true,
+    "climate_pledge_friendly": false,
+    "sales_volume": "10K+ bought in past month",
+    "about_product": [
+      "Cozy Companion: Our catnip fish kicker toys are all made of soft plush material and baby-level cotton, soft and comfortable enough for your feline friends to snuggle and chew.",
+      "Organic Catnip Filled: Stuffed with 100% pure, potent and organic catnip. Catnip, the favorite natural herb of most cats, will maximize the chance to make cats excited and make interactive playtime irresistible.",
+      "Boredom Relief: Cats have a natural instinct to pat and pounce. Kitten kicker sticks toy can help cats chase and chew training and stimulate their hunting instincts, help cats grow up better and healthier, and strengthen the interaction between you and cats.",
+      "Perfect Gift: In 3 different colors, green, yellow, and orange, which are bright in colors, attracting the attention of your feline friends. Perfect for kittens to hold or scratch",
+      "We stand behind each product we sell. If any issue, please contact our customer service and we'll do anything possible to fix it."
+    ],
+    "product_description": null,
+    "product_information": {
+      "Item Weight": "100 Grams",
+      "Manufacturer": "Potaroma",
+      "ASIN": "B0C9QK9BZF",
+      "Item model number": "Potaroma-DDY",
+      "Date First Available": "March 25, 2022",
+      "Item Package Dimensions L x W x H": "8.19 x 5 x 1.61 inches",
+      "Item Dimensions  LxWxH": "9.4 x 1.9 x 1.6 inches",
+      "Brand Name": "Potaroma",
+      "Target Audience Keyword": "Cats",
+      "Color": "Multicolor",
+      "Size": "9.4\"",
+      "Material": "Cotton Blend",
+      "Age Range Description": "Kittens",
+      "Style": "Saury",
+      "Breed Recommendation": "Medium Breedse, Small Breeds"
+    },
+    "rating_distribution": {
+      "1": 2,
+      "2": 2,
+      "3": 6,
+      "4": 10,
+      "5": 80
+    },
+    "product_photos": [
+      "https://m.media-amazon.com/images/I/81fSg1+32LL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Jfh1O1CVL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81uGeXVE9dL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81B-STYdUyL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71T+DnzwLLL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81qN-yXUjKL._AC_SL1500_.jpg"
+    ],
+    "product_videos": [
+      {
+        "id": "amzn1.vse.video.0dd0effc026b48258cf0064f56c0e8ee",
+        "title": "Fish Catnip Toys",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8047daa1-aad4-4c2e-8407-924f12efd380/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61tPHvWF8QL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0C9QK9BZF",
+        "parent_asin": "B0DJZZ1Z7S"
+      },
+      {
+        "id": "amzn1.vse.video.0e96fb0b2dc6405996376204fb994f6e",
+        "title": "Watch BEFORE you buy! Potaroma fish kickers",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2df08864-9544-4223-b66a-e35aa22b815a/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/71mKuaPNCsL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0C9QK9BZF",
+        "parent_asin": "B0DJZZ1Z7S"
+      },
+      {
+        "id": "amzn1.vse.video.03ec99893f5544fe9a34a1208a49cac1",
+        "title": "What You Should Know Before Buying This Product!",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bf3204e8-1366-4f94-9d7e-5acfedc15308/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/51YjpwGS9+L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0C9QK9BZF",
+        "parent_asin": "B0DJZZ1Z7S"
+      },
+      {
+        "id": "amzn1.vse.video.0da50c4f440c4e17a1abd081a2062b2b",
+        "title": "Potarama Toys for Happy Indoor Cats",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/25231fec-4409-415b-b875-4bb943ce1dee/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/A12YLN0M3-L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0C9QK9BZF",
+        "parent_asin": "B0DJZZ1Z7S"
+      },
+      {
+        "id": "amzn1.vse.video.00a80486fe764582b30f73248236d493",
+        "title": "Cats are LOVING the Potaroma Catnip toys #ad",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1f015886-b1a8-44ff-b33d-bee4da42fbf9/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/61atd7aTQuL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0C9QK9BZF",
+        "parent_asin": "B0DJZZ1Z7S"
+      },
+      {
+        "id": "amzn1.vse.video.0cb5046b4c1d4f48aa3343e08ce02d56",
+        "title": "Instant love from my cat!",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0a1e9afc-b984-4fbe-800c-63eec8e55a84/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/C1-XLyYh63L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0C9QK9BZF",
+        "parent_asin": "B0DJZZ1Z7S"
+      }
+    ],
+    "user_uploaded_videos": [],
+    "video_thumbnail": "https://m.media-amazon.com/images/I/61tPHvWF8QL.SX522_.jpg",
+    "has_video": true,
+    "product_details": {
+      "Product Dimensions": "9.4 x 1.9 x 1.6 inches; 3.53 ounces",
+      "Item model number": "Potaroma-DDY",
+      "Date First Available": "March 25, 2022",
+      "Manufacturer": "Potaroma",
+      "ASIN": "B0C9QK9BZF",
+      "Best Sellers Rank": "#1,072 in Pet Supplies (See Top 100 in Pet Supplies)    #9 in Catnip Toys",
+      "Customer Reviews": "4.6             4.6 out of 5 stars          \n\n                          4,383 ratings"
+    },
+    "customers_say": "Customers find this cat toy to be well-made with nicely sewn stitching and appreciate that it's the right size for cats to play with. The toy makes playtime irresistible and keeps cats entertained for hours, while being tough enough to withstand rough play. They like its appearance and consider it good value for the price.",
+    "top_reviews": [
+      {
+        "review_id": "RE9ND0P7UYGBQ",
+        "review_title": "My Cat\u2019s New Favorite Toy!",
+        "review_comment": "My cat is absolutely obsessed with this fish-shaped catnip toy! The design is adorable and realistic, and the size is perfect for batting, kicking, and carrying around the house. The catnip inside must be top quality because it immediately grabs his attention and keeps him entertained for ages. The material feels durable and well-made, even with all the biting and scratching it goes through. It\u2019s become his favorite toy by far\u2014definitely worth it for any cat owner! As the attached image shows, he uses it so much that it is a staple in our living room!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RE9ND0P7UYGBQ",
+        "review_author_id": "AHEBRS6S5H6UMSAGWE7LDMPVNGTA",
+        "review_author": "Zane",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHEBRS6S5H6UMSAGWE7LDMPVNGTA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/61ib6ldZ-kL.jpg"
+        ],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on August 17, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "7 people found this helpful",
+        "reviewed_product_asin": "B0C9QK9BZF",
+        "reviewed_product_variant": {
+          "Style": "Saury"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2F7CN6L0WR6HN",
+        "review_title": "GREAT CAT TOY",
+        "review_comment": "The cats absolutely loved these fish! As soon as I opened the box they were at my feet and immediately started playing. For the next week they would fight and protect the box they wrte shipped in. I'm talking some serious growling and paw to paw combat! Big hit at our place.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2F7CN6L0WR6HN",
+        "review_author_id": "AF7D3HGVLM2B3NAGYXEY4MGRHLKQ",
+        "review_author": "Ann Marie",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AF7D3HGVLM2B3NAGYXEY4MGRHLKQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 4, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0C9QK9BZF",
+        "reviewed_product_variant": {
+          "Style": "Saury"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RP3E4UWN71VOO",
+        "review_title": "Endless Playtime with These Kicker Toys",
+        "review_comment": "The media could not be loaded. These cozy catnip fish kicker toys are a huge hit with my son\u2019s cat. The soft plush material and baby-safe cotton make them perfect for snuggling, chewing, and kicking. Each toy is filled with 100% pure, organic catnip, which makes playtime irresistible and keeps my cats entertained for hours. I love that they come in bright, fun colors (green, yellow, and orange) that immediately catch my cats\u2019 attention. They\u2019re great for boredom relief, encouraging natural instincts like chasing, pouncing, and chewing. The quality feels durable, and I appreciate the company\u2019s promise to stand behind their product. Overall, a fantastic toy set and a perfect little gift for any cat lover. \u2714\ufe0f Soft & safe \u2714\ufe0f Organic catnip filled \u2714\ufe0f Keeps cats active and happy Definitely cat-approved! \ud83d\udc31",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RP3E4UWN71VOO",
+        "review_author_id": "AERBPKKCASQOX6ZAXJUCJTKQTBWQ",
+        "review_author": "Shana Wolfe",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AERBPKKCASQOX6ZAXJUCJTKQTBWQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": {
+          "stream_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/51527282-13cf-43b0-9668-df28818f9da6/default.vertical.jobtemplate.hls.m3u8",
+          "closed_captions_url": "https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1d29c2f8-cb26-454c-84b4-bbebee2d89f4.vtt",
+          "thumbnail_url": "https://m.media-amazon.com/images/I/51XHChJUHWL._SY256.jpg"
+        },
+        "review_date": "Reviewed in the United States on September 27, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B0C9QK9BZF",
+        "reviewed_product_variant": {
+          "Style": "Saury"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2H6GLD5MCYB6P",
+        "review_title": "Good choice",
+        "review_comment": "My cats have given this fish pretty good driveby attack action. Nice crinkle sound. Very firm. Holding up well.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2H6GLD5MCYB6P",
+        "review_author_id": "AGR5UMUF63TA5DU7IT6B6IED6GGQ",
+        "review_author": "COURTNEY SEABOLT",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGR5UMUF63TA5DU7IT6B6IED6GGQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 3, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0C9QK9BZF",
+        "reviewed_product_variant": {
+          "Style": "Saury"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RMOG95W89S5L8",
+        "review_title": "4.0 out of 5 stars - Perfect for My Little Hellions",
+        "review_comment": "I bought these fish toys for my three little hellions, and let me tell you, they are a huge hit. They passed the ultimate feline approval test: immediate and sustained chaos. Watching them carry these things around and kick them with their hind legs makes for some really good entertainment. They seem soft enough to cuddle but durable enough to handle their murder mittens. I'm giving these a solid 4/5. They do exactly what they're supposed to do, providing great fun and exercise for your four-legged babies. Just be ready for the crinkling soundtrack that comes with the territory.",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RMOG95W89S5L8",
+        "review_author_id": "AHGOUNZU6IQDPBOZW5XS7VIAWJAA",
+        "review_author": "Mike",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHGOUNZU6IQDPBOZW5XS7VIAWJAA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 17, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0C9QK9BZF",
+        "reviewed_product_variant": {
+          "Style": "Saury"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R20NRLSLGN8TH",
+        "review_title": "Sabrina loves them!",
+        "review_comment": "My elderly cat, Sabrina, is loving these cat fish toys! We have had them for a short time and she just can't stay away from them. They seem well made and are a nice size. I think they were a good buy!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R20NRLSLGN8TH",
+        "review_author_id": "AGSXDUEY3XZJVJSRBQCTAPOSY2NA",
+        "review_author": "D. R. Green",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AGSXDUEY3XZJVJSRBQCTAPOSY2NA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 8, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0C9QK9BZF",
+        "reviewed_product_variant": {
+          "Style": "Saury"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2TT1E6UM8F06Q",
+        "review_title": "Keeps my cats entertained",
+        "review_comment": "Not sure how or why but both my cats love these fish. When I first brought them out they were obsessed and while it did dwindle a bit over time - they are still played with daily!! Considering buying more but the quality is solid, no rips yet and we\u2019ve had them for 2-3 months now",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2TT1E6UM8F06Q",
+        "review_author_id": "AEJNOHORXNKBR36NHPV3N44DI3CQ",
+        "review_author": "Olivia Mikhailova",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEJNOHORXNKBR36NHPV3N44DI3CQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 28, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0C9QK9BZF",
+        "reviewed_product_variant": {
+          "Style": "Saury"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3SP1YFZ332OBK",
+        "review_title": "Great Catnip Scent and Cat Reacts Quickly to the Toy Funny!!",
+        "review_comment": "The media could not be loaded. My cat loves these! The catnip smell runs out pretty fast if you leave the toy sitting on the floor though so after they have fun rubbing all over it, I recommend putting it away in a sealed baggy to keep it fresh otherwise the smell will wear off the same day and the cat loses interest. They do give you 3 fish so that\u2019s good. As long as the price is reasonable these are fun little catnip toys. The cat reacts quickly to the scent! She rubs all over the fish and looks so funny I had to video tape it!! My dogs actually play with them too. So when the cat loses interest the dogs have a toy. They are light weight and have a little crunchy sound to them that makes both animals interested.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3SP1YFZ332OBK",
+        "review_author_id": "AFUPMRHIQFVF2PPBU6OJOHJ2NKPA",
+        "review_author": "KALI",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFUPMRHIQFVF2PPBU6OJOHJ2NKPA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/41384a78-5167-4a03-ae82-71b5aba8b0cf._CR0%2C0%2C400%2C400_UX460_.jpg",
+        "review_images": [],
+        "review_video": {
+          "stream_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8ed1d2d5-c318-47a7-bd70-9e13588bb530/default.vertical.jobtemplate.hls.m3u8",
+          "closed_captions_url": "https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/d18232b3-07d2-45c4-a043-0be42b4f154c.vtt",
+          "thumbnail_url": "https://m.media-amazon.com/images/I/51IUWfpL6nL._SY256.jpg"
+        },
+        "review_date": "Reviewed in the United States on September 19, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0C9QK9BZF",
+        "reviewed_product_variant": {
+          "Style": "Saury"
+        },
+        "is_vine": false
+      }
+    ],
+    "top_reviews_global": [
+      {
+        "review_id": "R21QDT5599WJQD",
+        "review_title": "Super",
+        "review_comment": "Super",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R21QDT5599WJQD",
+        "review_author_id": null,
+        "review_author": "Dieter schm\u00f6ller",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Germany on October 9, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0C9QK9BZF",
+        "reviewed_product_variant": {
+          "Style": "Saury"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2V0AY1GUWBGTY",
+        "review_title": "Thumbs up from Boo",
+        "review_comment": "The media could not be loaded. My boy loves to roll around and wrestle with his fishy. Good quality and value - 3 toys in the pack",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2V0AY1GUWBGTY",
+        "review_author_id": null,
+        "review_author": "Jenny",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": {
+          "stream_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/134e9529-f8ee-4c13-b4aa-0ab7cf5367c9/default.vertical.jobtemplate.hls.m3u8",
+          "closed_captions_url": "https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-eu-west-1-prod/closedCaptions/c56805da-c5a8-47b4-ac72-b4bdf4e9f00e.vtt",
+          "thumbnail_url": "https://m.media-amazon.com/images/I/61tvSFADu8L._SY256.jpg"
+        },
+        "review_date": "Reviewed in the United Kingdom on October 13, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0C9QK9BZF",
+        "reviewed_product_variant": {
+          "Style": "Saury"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3HSQ41WA3YC7B",
+        "review_title": "Muy \u00fatil para entretener a un gato",
+        "review_comment": "Es un pateador para gatos, muy bueno les encant\u00f3 a mis gatos Solo que no dur\u00f3 mucho se desgasto y rompio en dos meses",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3HSQ41WA3YC7B",
+        "review_author_id": null,
+        "review_author": "Jos\u00e9",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Mexico on May 20, 2024",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0C9QK9BZF",
+        "reviewed_product_variant": {
+          "Style": "Saury"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3H1X9FXMQVNFK",
+        "review_title": "My Cat Loves It!",
+        "review_comment": "The media could not be loaded. My cat immediately loved it! He likes springs, and kicking our poor little Rhino stuffed animal. Now Mr Rhino is safe and the fish takes the beating. Our little guy literally sprinted to the fish once I tossed it away from the box, and he has been playing with it since.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3H1X9FXMQVNFK",
+        "review_author_id": null,
+        "review_author": "Max",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": {
+          "stream_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2f37a02a-fadc-4443-9a82-6be3fef5ddb9/default.jobtemplate.hls.m3u8",
+          "closed_captions_url": "https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/689e8e08-151e-4208-81c8-e85722bc1678.vtt",
+          "thumbnail_url": "https://m.media-amazon.com/images/I/61AQ2eesiWL._SY256.jpg"
+        },
+        "review_date": "Reviewed in Canada on August 13, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0C9QK9BZF",
+        "reviewed_product_variant": {
+          "Style": "Saury"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R8N4NDT6C1SJ",
+        "review_title": "Ok",
+        "review_comment": "Ist ok aber wird nicht das Lieblingsspielzeug",
+        "review_star_rating": "3",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R8N4NDT6C1SJ",
+        "review_author_id": null,
+        "review_author": "Amazon Kunde",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Germany on October 3, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0C9QK9BZF",
+        "reviewed_product_variant": {
+          "Style": "Saury"
+        },
+        "is_vine": false
+      }
+    ],
+    "delivery": "FREE delivery Tuesday, November 4 on orders shipped by Amazon over $35 Or Prime members get FREE delivery Saturday, November 1. Order within 7 hrs 12 mins. Join Prime",
+    "primary_delivery_time": "Tuesday, November 4",
+    "category": {
+      "id": "pets",
+      "name": "Pet Supplies"
+    },
+    "category_path": [
+      {
+        "id": "2619533011",
+        "name": "Pet Supplies",
+        "link": "https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/ref=dp_bc_1?ie=UTF8&node=2619533011"
+      },
+      {
+        "id": "2975241011",
+        "name": "Cats",
+        "link": "https://www.amazon.com/cats-supplies-kittens-catnip-tree-litter/b/ref=dp_bc_2?ie=UTF8&node=2975241011"
+      },
+      {
+        "id": "2975303011",
+        "name": "Toys",
+        "link": "https://www.amazon.com/cat-feather-laser-toys-catnip/b/ref=dp_bc_3?ie=UTF8&node=2975303011"
+      },
+      {
+        "id": "2975305011",
+        "name": "Catnip Toys",
+        "link": "https://www.amazon.com/catnip-toys/b/ref=dp_bc_4?ie=UTF8&node=2975305011"
+      }
+    ],
+    "product_variations_dimensions": [
+      "style"
+    ],
+    "product_variations": [],
+    "all_product_variations": {
+      "B0C9QK9BZF": {
+        "style": "Saury"
+      }
+    },
+    "has_aplus": true,
+    "aplus_images": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6398249a-24df-402a-9669-73c79b7d16e4.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b1d28af5-253f-4e09-8590-1246fffc420e.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/66f63a32-f836-4550-be89-2b6f4d5b4cce.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/053b156f-44ae-46da-b340-426fee725036.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3db990c6-1135-47d3-8272-7640d1044e09.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4c45e318-7030-4490-9073-4c26f6d7b5e6.jpg"
+    ],
+    "has_brandstory": true,
+    "frequently_bought_together": [],
+    "landing_asin": "B0C9QK9BZF",
+    "parent_asin": "B0DJZZ1Z7S"
+  }
+}

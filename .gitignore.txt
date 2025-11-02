@@ -1,0 +1,16 @@
+# C:\Users\Admin\PROJECT\AMAZON\.gitignore
+
+# Ignore Python config files (which contain secrets)
+scripts/config.py
+
+# Ignore all data files
+data/
+temp/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.venv/
+venv/

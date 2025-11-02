@@ -1,0 +1,105 @@
+version: 2
+
+models:
+  - name: mart_amazon__product_analysis
+    description: >
+      This model provides a comprehensive analysis of Amazon products by integrating
+      product details with ratings data. It calculates key metrics such as positive
+      rating percentage and discount percentage, and classifies products into
+      'Opportunity Product' or 'High Supplied Product' based on their ratings and
+      sales volume.
+
+    columns:
+      - name: product_title
+        description: The title of the Amazon product.
+        tests:
+          - not_null
+
+      - name: asin
+        description: The Amazon Standard Identification Number, a unique identifier for the product.
+        tests:
+          - not_null
+          - unique
+
+      - name: product_price
+        description: The current price of the product.
+        tests:
+          - not_null
+          - dbt_utils.expression_is_true:
+              expression: "> 0"
+
+      - name: original_price
+        description: The original price of the product before any discounts.
+        tests:
+          - dbt_utils.expression_is_true:
+              expression: " > 0"
+
+      - name: sales_volume
+        description: The number of units sold for the product.
+
+
+
+      - name: product_star_rating
+        description: The average star rating of the product.
+        tests:
+          - dbt_utils.expression_is_true:
+              expression: "between 0 and 5"
+
+      - name: num_rating
+        description: The total number of ratings received by the product globally.
+        tests:
+          - not_null
+
+      - name: is_amazon_choice
+        description: Indicates if the product is marked as Amazon's Choice.
+        tests:
+          - not_null
+
+      - name: is_best_seller
+        description: Indicates if the product is a best seller.
+        tests:
+          - not_null
+
+      - name: star_1_pct
+        description: The number of 1-star ratings received by the product.
+
+
+      - name: star_2_pct
+        description: The number of 2-star ratings received by the product.
+
+
+      - name: star_3_pct
+        description: The number of 3-star ratings received by the product.
+
+
+      - name: star_4_pct
+        description: The number of 4-star ratings received by the product.
+
+
+      - name: star_5_pct
+        description: The number of 5-star ratings received by the product.
+
+
+      - name: total_rating_count
+        description: The total number of ratings received by the product, calculated as the sum of all star ratings.
+
+
+      - name: positive_percentage
+        description: The percentage of ratings that are 4 or 5 stars, indicating positive feedback.
+        tests:
+          - dbt_utils.expression_is_true:
+              expression: "between 0 and 100"
+
+
+      - name: discount_percentage
+        description: The percentage discount from the original price to the current price.
+
+
+      - name: Product_classfify
+        description: Classification of the product as either 'Opportunity Product' or 'High Supplied Product' based on ratings and sales volume.
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                - 'Opportunity Product'
+                - 'High Supplied Product'

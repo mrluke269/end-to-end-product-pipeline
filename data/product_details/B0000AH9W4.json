@@ -1,0 +1,576 @@
+{
+  "status": "OK",
+  "request_id": "fea25749-7efc-4e1b-97ac-314d5d3f029d",
+  "parameters": {
+    "asin": "B0000AH9W4",
+    "country": "US",
+    "language": "en_US"
+  },
+  "data": {
+    "asin": "B0000AH9W4",
+    "product_title": "Outward Hound, Hedgehogz Plush Dog Toy, Medium",
+    "product_price": "4.59",
+    "product_original_price": "$4.59",
+    "minimum_order_quantity": null,
+    "currency": "USD",
+    "country": "US",
+    "product_byline": "Visit the Outward Hound Store",
+    "product_byline_link": "https://www.amazon.com/stores/OutwardHound/page/3B008C55-E795-4C9B-8418-11C2CB9420FE?is_byline_deeplink=true&deeplink=D1AEDC5F-D933-42D1-9F02-3CFDA973AB43&redirect_store_id=3B008C55-E795-4C9B-8418-11C2CB9420FE&lp_asin=B0000AH9W4&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto",
+    "product_byline_links": [
+      "https://www.amazon.com/stores/OutwardHound/page/3B008C55-E795-4C9B-8418-11C2CB9420FE?is_byline_deeplink=true&deeplink=D1AEDC5F-D933-42D1-9F02-3CFDA973AB43&redirect_store_id=3B008C55-E795-4C9B-8418-11C2CB9420FE&lp_asin=B0000AH9W4&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    ],
+    "product_star_rating": "4.4",
+    "product_num_ratings": 27734,
+    "product_url": "https://www.amazon.com/dp/B0000AH9W4",
+    "product_slug": "Outward-Hound-Kyjen-Hedgehogz-Squeak",
+    "product_photo": "https://m.media-amazon.com/images/I/91IwpLIJ76L._AC_SL1500_.jpg",
+    "product_num_offers": 2,
+    "product_availability": "In Stock",
+    "is_best_seller": false,
+    "is_amazon_choice": true,
+    "is_prime": true,
+    "climate_pledge_friendly": false,
+    "sales_volume": "10K+ bought in past month",
+    "about_product": [
+      "The Hedgehogz stuffed dog toy features soft faux fur and minimal seams for added durability and long-lasting plush enjoyment",
+      "Medium Hedgehogz sizes include grunter and squeaker noise makers to keep dogs entertained and engaged",
+      "Designed with a rounded shape, making it perfect for dogs who love to carry, roll, and cuddle during play or naps",
+      "Available in multiple sizes to accommodate all dog breeds and play styles",
+      "For supervised play; replace if damaged to ensure safe use"
+    ],
+    "product_description": "Outward Hound\u2019s plush Hedgehogz dog toys are a favorite among pets. Designed with minimal seams to reduce tearing and soft faux fur for a natural feel, they are perfect for snuggling and play. Available in a variety of sizes, with small Hedgehogz featuring a classic squeaker, while medium, large, and XL sizes include both squeaking and grunting noisemakers. For dogs who play rough, supervised play helps extend the toy\u2019s lifespan. SAFETY & CARE: When choosing a toy, make sure to choose an appropriate size toy for your dog. No toy is indestructible. ALWAYS supervise your dog when using a toy of any kind. Inspect toys regularly for damage and remove and replace if broken, or if parts become separated, as serious injury may result. Intended for dogs only. Keep out of reach of children.",
+    "product_information": {
+      "Item Weight": "3.84 ounces",
+      "Department": "Pets",
+      "Manufacturer": "Outward Hound",
+      "ASIN": "B0000AH9W4",
+      "Item model number": "32022",
+      "Date First Available": "December 20, 2002",
+      "Item Package Dimensions L x W x H": "8.48 x 5.69 x 4.69 inches",
+      "Item Dimensions  LxWxH": "9 x 5 x 6.5 inches",
+      "Brand Name": "Outward Hound",
+      "Target Audience Keyword": "( reptiles | amphibians ), dogs",
+      "Directions": "SAFETY & CARE: When choosing a toy, make sure to choose an appropriate size toy for your dog. No toy is indestructible. ALWAYS supervise your dog when using a toy of any kind. Inspect toys regularly for damage and remove and replace if broken, or if parts become separated, as serious injury may result. Intended for dogs only. Keep out of reach of children.",
+      "Country of Origin": "Cambodia",
+      "Model Name": "Hedgehogz",
+      "Color": "Dog Plush Hedgehogz",
+      "Size": "Medium (Pack of 1)",
+      "Material": "Polyester",
+      "Age Range Description": "All Life Stages",
+      "Number of Items": "1",
+      "Style": "Dog Plush Hedgehogz",
+      "Breed Recommendation": "All Breed Sizes",
+      "Included Components": "DOG PLUSH",
+      "Specific Uses for Product": "Active, Behavior, Indoor"
+    },
+    "rating_distribution": {
+      "1": 7,
+      "2": 3,
+      "3": 7,
+      "4": 11,
+      "5": 72
+    },
+    "product_photos": [
+      "https://m.media-amazon.com/images/I/91IwpLIJ76L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81FQWzOrX-L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/816zlkMI9-L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81iKqKF13BL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91yQruCJtWL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71yc1I3ihgL._AC_SL1500_.jpg"
+    ],
+    "product_videos": [
+      {
+        "id": "amzn1.vse.video.01950ec5b73f4008906b177c9f77cceb",
+        "title": "Outward Hound Hedgehogz Plush Dog Toy",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0a10495a-e8a0-4b6b-be91-695bc6f408f8/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/511hC9oW9zL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0000AH9W4",
+        "parent_asin": "B0DJG5HK7G"
+      },
+      {
+        "id": "amzn1.vse.video.09887cf02b374cd8a8d498fa72d6fb2e",
+        "title": "Outward Hound Hedgehogz Plush Dog Toys",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2e376b43-1e09-418e-96b3-8e696395737b/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/41Utw6B9GlL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0000AH9W4",
+        "parent_asin": "B0DJG5HK7G"
+      },
+      {
+        "id": "amzn1.vse.video.070102405d9b413f90d3e6276b24d9f1",
+        "title": "Outward Hound Hedgehogz - Lovable Grunting Dog Toys",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/081d8d0d-21d4-4327-8ccb-6a0f8001d3ac/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/51EDygBhoqL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0000AH9W4",
+        "parent_asin": "B0DJG5HK7G"
+      },
+      {
+        "id": "amzn1.vse.video.19d2bf104e8946bda0320244211d9103",
+        "title": "Outward Hound Hedgehogz Plush Squeaky Dog Toy",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/634d149a-bf49-401d-8218-280ab7d1b90e/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/415098p3m9L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0000AH9W4",
+        "parent_asin": "B0DJG5HK7G"
+      },
+      {
+        "id": "amzn1.vse.video.0fdc57c5773548e0b76cac976d6b3fe8",
+        "title": "The baby my 13 yo golden can not break apart",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/805a8530-a323-4b4f-a5cc-215e037efda3/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/A1Sv1u5+mJL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0000AH9W4",
+        "parent_asin": "B0DJG5HK7G"
+      },
+      {
+        "id": "amzn1.vse.video.066743646ebb448a90f319f7e7a73838",
+        "title": "My dog works for this toy!",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/07431886-fe4a-452a-9333-43da34274d4e/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1966",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/718kt94DbzL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0000AH9W4",
+        "parent_asin": "B0DJG5HK7G"
+      },
+      {
+        "id": "amzn1.vse.video.06e591558aee40a3be04fdb0849e29f6",
+        "title": "Honking, Squeaking, Jumbo Hedgehog Dog Toy - Entertaining",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fa268f2a-3864-47de-a649-481619fc2886/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/A1OYC4mBxvL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png",
+        "product_asin": "B0000AH9W4",
+        "parent_asin": "B0DJG5HK7G"
+      },
+      {
+        "id": "amzn1.vse.video.07b3799dcc9041079a6cadbd3819bda4",
+        "title": "Fun dog toy with great features",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8915b6b1-6cd4-4533-813c-eb448043292f/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/81wdPjhNiyL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0000AH9W4",
+        "parent_asin": "B0DJG5HK7G"
+      },
+      {
+        "id": "amzn1.vse.video.0d06ec5d7b1041c7bdebea37f8b1fb23",
+        "title": "Uncovering Your Dogs Favorite Toy What You Didnt Know",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3f649310-c02b-45af-a0d1-7ec7cf2011be/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1918",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/619m8u9aL9L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B0000AH9W4",
+        "parent_asin": "B0DJG5HK7G"
+      }
+    ],
+    "user_uploaded_videos": [],
+    "video_thumbnail": "https://m.media-amazon.com/images/I/511hC9oW9zL.SX522_.jpg",
+    "has_video": true,
+    "product_details": {
+      "Is Discontinued By Manufacturer": "No",
+      "Product Dimensions": "9 x 5 x 6.5 inches; 3.84 ounces",
+      "Manufacturer recommended age": "2 months and up",
+      "Item model number": "32022",
+      "Department": "Pets",
+      "Date First Available": "December 20, 2002",
+      "Manufacturer": "Outward Hound",
+      "ASIN": "B0000AH9W4",
+      "Best Sellers Rank": "#509 in Pet Supplies (See Top 100 in Pet Supplies)    #5 in Dog Squeak Toys",
+      "Customer Reviews": "4.4             4.4 out of 5 stars          \n\n                          27,734 ratings"
+    },
+    "customers_say": "Customers find this plush toy to be of good quality, with three different squeakers and two different sounds, and appreciate its perfect size for carrying around. The hedgehog toy is cute and customers like its noise quality. However, durability and value for money receive mixed feedback - while some say it holds up great and is worth the price, others report it doesn't last long and consider it not worth the money.",
+    "top_reviews": [
+      {
+        "review_id": "R16X57DDPMM85A",
+        "review_title": "Favorite Toy for my dogs",
+        "review_comment": "If your furry friend could write reviews, they'd give the Outward Hound Hedgehogz Plush Dog Toy a standing ovation \u2013 and let me tell you, it's well-deserved! As a proud dog parent, finding the perfect toy that keeps my pup entertained and happy is always a top priority, and this adorable hedgehog plush has exceeded all expectations. First off, let's talk about durability. My pup can be quite the chewer, but this toy has proven to be incredibly resilient. Constructed with high-quality materials, it withstands even the most enthusiastic play sessions, holding up to all the roughhousing and tug-of-war battles without showing any signs of wear and tear. But what really sets this toy apart is its irresistible charm. The hedgehog design is absolutely adorable, complete with a squeaker that adds an extra layer of excitement for my pup. Watching them pounce, chase, and snuggle up with their hedgehog friend brings me endless joy \u2013 it's like seeing pure happiness in action! Size-wise, the medium option is just perfect for my dog, providing enough heft for them to sink their teeth into without being too bulky or cumbersome. Plus, its soft, plush texture makes it ideal for both playtime and naptime cuddles, ensuring that it's a constant companion throughout the day. And let's not forget about safety \u2013 as a responsible pet parent, knowing that this toy is free from any harmful materials gives me peace of mind. I can rest easy knowing that my furry friend is playing with a toy that's not only entertaining but also safe for them to enjoy. In conclusion, the Outward Hound Hedgehogz Plush Dog Toy is a winner in every way imaginable. With its unbeatable durability, adorable design, and endless entertainment value, it's become an essential part of my pup's toy collection. If you're looking to treat your four-legged friend to something special, look no further \u2013 this toy is sure to become their new favorite playmate!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R16X57DDPMM85A",
+        "review_author_id": "AEPDQJX32WU7SB7VWFVRC7GGJK7Q",
+        "review_author": "Amazon Customer",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEPDQJX32WU7SB7VWFVRC7GGJK7Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on March 13, 2024",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "9 people found this helpful",
+        "reviewed_product_asin": "B0000AH9W4",
+        "reviewed_product_variant": {
+          "Color": "Dog Plush Hedgehogz",
+          "Size": "Medium (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RNV2KES5T1VVN",
+        "review_title": "Makes a sound my dog really enjoys.",
+        "review_comment": "Not super durable but the fact that my dog likes the odd sound it makes so much makes up for that.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RNV2KES5T1VVN",
+        "review_author_id": "AEO2P4INXFIF4HJXJMAJSRPQS4GA",
+        "review_author": "Kano",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEO2P4INXFIF4HJXJMAJSRPQS4GA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 19, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0000AH9W4",
+        "reviewed_product_variant": {
+          "Color": "Dog Plush Hedgehogz",
+          "Size": "Medium (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1907GBWITL9WN",
+        "review_title": "Great Toy!  For 15 minutes my dog was thrilled with his new toy",
+        "review_comment": "The reviews were promising & I finally decided to try the Hedgehog for my 70lb dog. He loved it & it squeaked for approximately 15 minutes, then silence. He pulled the plastic squeaky & the plastic tube like out & was finishing up the bag filled with white stuffing! I really wanted this & he did too! Just not made for this tough boy!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1907GBWITL9WN",
+        "review_author_id": "AE23FGEDAHWDBGTLLOLBDER5QCPA",
+        "review_author": "Donna",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AE23FGEDAHWDBGTLLOLBDER5QCPA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 22, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B0000AH9W4",
+        "reviewed_product_variant": {
+          "Color": "Dog Plush Hedgehogz",
+          "Size": "Large (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2OPT4VUEGKWNP",
+        "review_title": "Odd dog",
+        "review_comment": "Very cute design. Soft. Amusing chuffing sound. Very sturdy, well made, and a good size for my 63-pound doodle. My dog has only 4 toys which he likes: a pillow which looks like a demented squirrel, a braided cotton horse's lead rope (tug of war). a scented Nyla bone, and an Outward Bound puzzle kibble feeder. I can't get him to play with the hedgehog, but the only toys he's guaranteed to like are the ones which dispense treats or kibble.",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2OPT4VUEGKWNP",
+        "review_author_id": "AF7DMDOQAHEZKWFGJP2BFLHUY52Q",
+        "review_author": "GroverCat",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AF7DMDOQAHEZKWFGJP2BFLHUY52Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on June 21, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "2 people found this helpful",
+        "reviewed_product_asin": "B0000AH9W4",
+        "reviewed_product_variant": {
+          "Color": "Dog Plush Hedgehogz",
+          "Size": "Large (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1OYIP7E23S2X",
+        "review_title": "Value of all kinds\u2026",
+        "review_comment": "Excellent dog toy in any size! The squeaks aren\u2019t too loud & quite amusing. I went with the medium for my 80lb retriever pup & she worked it over in 3 days, but still loves the aftermath for tug of war. She made into the squeaky heart on day 3 - but hey, that\u2019s to be expected with her. For the price I can\u2019t complain. I\u2019m going with the large next; I can afford one every couple weeks for the peace of mind & entertainment value!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1OYIP7E23S2X",
+        "review_author_id": "AFSV5MPI7JFXDCJRH2UIQI2PLMLQ",
+        "review_author": "Anthony T.",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFSV5MPI7JFXDCJRH2UIQI2PLMLQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 15, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0000AH9W4",
+        "reviewed_product_variant": {
+          "Color": "Dog Plush Hedgehogz",
+          "Size": "Medium (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3RRMTDDEORY3N",
+        "review_title": "Great!",
+        "review_comment": "My 65-lb standard poodle loves this hedgehog toy in sizes small, medium, and large! I think the large might be her favorite. She loves squeaking it and is able to do so easily; it has a \"grunt\" squeaker and a \"normal\" squeaker, so lots of sounds to be made. She is also able to catch it well during playtime, which I am kind of surprised about since it is a pretty large toy. Two paws up from my pup!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3RRMTDDEORY3N",
+        "review_author_id": "AG4O2QUG2HCM7FQJRYSJDNYZQHJQ",
+        "review_author": "SH",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AG4O2QUG2HCM7FQJRYSJDNYZQHJQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 15, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B0000AH9W4",
+        "reviewed_product_variant": {
+          "Color": "Dog Plush Hedgehogz",
+          "Size": "Large (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3DQ4FEFDBSTUD",
+        "review_title": "Hedgehog Love",
+        "review_comment": "Even though this is marketed as a pet toy, I got it for my 9 yr old grandson. It is life size and and has a soft underbelly. You can press it's back in and it makes a lifelike grunting sound. It also squeaks but not like a hedgehog, however it is a pet toy. Pet lovies hold up better than many regular stuffed animals and are made for rough treatment making it perfect for a rough and tumble 9 yr old. My grandson just stared at it after opening and then carried it around for over half an hour and gently put it down to run off and play with his brothers.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3DQ4FEFDBSTUD",
+        "review_author_id": "AELMGREWG7PU4577NWUOHP6PWOZQ",
+        "review_author": "Beej  ",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AELMGREWG7PU4577NWUOHP6PWOZQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on August 6, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0000AH9W4",
+        "reviewed_product_variant": {
+          "Color": "Dog Plush Hedgehogz",
+          "Size": "Medium (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R3CR8A63JWNV8Z",
+        "review_title": "Cute toy for puppies and small dogs",
+        "review_comment": "This is a cute toy. Soft and makes sounds that are intriguing to dogs. However, it is definitely not for large dogs that like to chew and supervision is a must. I gave this to my dog and then stupidly left the room for a moment thinking there\u2019s no way he could get it open because it\u2019s very well made. When I returned, he had already ripped the seams along the top and pulled out part of the stuffing to get to the mechanism that was making the sounds! I shoved the stuffing back in and sewed it together as best I could but there was no saving the sound maker. Now he ignores it and it sits forlornly in the toy box. Great for puppies and dogs that aren\u2019t so curious to figure out what is making that sound!",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3CR8A63JWNV8Z",
+        "review_author_id": "AEZYK7RFOL3WGRMUSRPMT6YIGOQA",
+        "review_author": "CLWestcott",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEZYK7RFOL3WGRMUSRPMT6YIGOQA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on July 12, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0000AH9W4",
+        "reviewed_product_variant": {
+          "Color": "Dog Plush Hedgehogz",
+          "Size": "Medium (Pack of 1)"
+        },
+        "is_vine": false
+      }
+    ],
+    "top_reviews_global": [
+      {
+        "review_id": "R20YOQN4V1POPE",
+        "review_title": "Can't fault it",
+        "review_comment": "A beautiful dog toy, does everything it say!! Love the grunting noise. But my dog doesn't play much with toys (not the company's fault) so i can't judge on that, thought i might have tempted him!! But no. A very good well made toy, for dogs that love toys. The price is excellent for such a well made toy.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R20YOQN4V1POPE",
+        "review_author_id": null,
+        "review_author": "Nancy Clayton",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United Kingdom on October 29, 2024",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0000AH9W4",
+        "reviewed_product_variant": {
+          "Color": "Dog Plush Hedgehogz",
+          "Size": "Medium (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R24F8S57J9I0HC",
+        "review_title": "Bueno pero no resistente.",
+        "review_comment": "Esta bien para perros que no son tan agresivos con su mordida haha, mi perro lo destrozo a los 5 minutos.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R24F8S57J9I0HC",
+        "review_author_id": null,
+        "review_author": "Lillian",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Mexico on October 2, 2023",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0000AH9W4",
+        "reviewed_product_variant": {
+          "Color": "Dog Plush Hedgehogz",
+          "Size": "Small (Pack of 1)"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2DH7V45EB81KD",
+        "review_title": "Best Toy Ever",
+        "review_comment": "My dog loves her hedgehog so much she has to bring her everywhere... I find it so cute when she runs around the house with the huge thing! \u263a\ufe0f Most importantly its been three months now and its managed to hold up quite well.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2DH7V45EB81KD",
+        "review_author_id": null,
+        "review_author": "KGC",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Singapore on February 23, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0000AH9W4",
+        "reviewed_product_variant": {
+          "Color": "Dog Plush Hedgehogz",
+          "Size": "XL"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2GT4PXDK7J0SE",
+        "review_title": "Great made toy that makes an unusual noise!",
+        "review_comment": "Had bought a smaller one in a big department store for my little puppy and sadly when he decided to grow up and turn into a little rascal this was the first toy to get absolutely destroyed. I came across this bigger one and had to buy it seeing as it was his favourite toy. Please note though that this makes a horrendous noice and that if your dog likes to chew on its toys then the TV will be going to MAX! Great toy though and definitely worth the money.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2GT4PXDK7J0SE",
+        "review_author_id": null,
+        "review_author": "Mr. C. J. R",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United Kingdom on July 5, 2016",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0000AH9W4",
+        "reviewed_product_variant": {
+          "Color": "Dog Plush Hedgehogz",
+          "Size": "XL"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2I8R4BHQGX5E5",
+        "review_title": "Hundespielzeug",
+        "review_comment": "Wartezeit war Ok, da es aus der USA kam. Spielzeug kommt bei unserem Hund sehr gut an da die Ger\u00e4usche sehr verlockend sind . Allerdings nach zwei Wochen waren an der Nase die ersten F\u00e4den und am R\u00fccken war die Naht aufgegangen. Der R\u00fccken w\u00fcrde wieder gen\u00e4ht und die F\u00e4den entfernt und somit wieder voll einsatzf\u00e4hig . Das 100 Prozentige Hundespielzeug gibt es wohl nicht , daher ist dieses ganz in Ordnung und besser wie viele die wir nach einer Woche komplett entsorgen mussten. Ich w\u00fcrde dieses Hundespielzeug wieder kaufen .",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2I8R4BHQGX5E5",
+        "review_author_id": null,
+        "review_author": "Benjamin Schulz",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Germany on November 14, 2017",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B0000AH9W4",
+        "reviewed_product_variant": {
+          "Color": "Dog Plush Hedgehogz",
+          "Size": "Large (Pack of 1)"
+        },
+        "is_vine": false
+      }
+    ],
+    "delivery": "FREE delivery Saturday, November 1 on orders shipped by Amazon over $35 Or Prime members get FREE delivery Wednesday, October 29. Order within 8 hrs 37 mins. Join Prime",
+    "primary_delivery_time": "Saturday, November 1",
+    "category": {
+      "id": "pets",
+      "name": "Pet Supplies"
+    },
+    "category_path": [
+      {
+        "id": "2619533011",
+        "name": "Pet Supplies",
+        "link": "https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/ref=dp_bc_1?ie=UTF8&node=2619533011"
+      },
+      {
+        "id": "2975312011",
+        "name": "Dogs",
+        "link": "https://www.amazon.com/dogs-supplies-training-beds-collars-grooming/b/ref=dp_bc_2?ie=UTF8&node=2975312011"
+      },
+      {
+        "id": "2975413011",
+        "name": "Toys",
+        "link": "https://www.amazon.com/dogs-toys-gifts-games-plush/b/ref=dp_bc_3?ie=UTF8&node=2975413011"
+      },
+      {
+        "id": "2975419011",
+        "name": "Squeak Toys",
+        "link": "https://www.amazon.com/dog-squeak-toys/b/ref=dp_bc_4?ie=UTF8&node=2975419011"
+      }
+    ],
+    "product_variations_dimensions": [
+      "color",
+      "size"
+    ],
+    "product_variations": {
+      "size": [
+        {
+          "asin": "B00176BO10",
+          "value": "XL",
+          "is_available": true
+        },
+        {
+          "asin": "B0002HBLKE",
+          "value": "Small (Pack of 1)",
+          "is_available": true
+        },
+        {
+          "asin": "B0000AH9W4",
+          "value": "Medium (Pack of 1)",
+          "is_available": true
+        },
+        {
+          "asin": "B0000AH9UH",
+          "value": "Large (Pack of 1)",
+          "is_available": true
+        }
+      ]
+    },
+    "all_product_variations": {
+      "B0000AH9UH": {
+        "color": "Dog Plush Hedgehogz",
+        "size": "Large (Pack of 1)"
+      },
+      "B0002HBLKE": {
+        "color": "Dog Plush Hedgehogz",
+        "size": "Small (Pack of 1)"
+      },
+      "B0000AH9W4": {
+        "color": "Dog Plush Hedgehogz",
+        "size": "Medium (Pack of 1)"
+      },
+      "B00176BO10": {
+        "color": "Dog Plush Hedgehogz",
+        "size": "XL"
+      }
+    },
+    "coupon_code": "284E7F72",
+    "has_aplus": true,
+    "aplus_images": [
+      "https://m.media-amazon.com/images/S/aplus-media/vc/47934f4b-ead7-46d4-826a-ffcb9f946c67.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/e8fb6f4f-f6a3-4099-8f6e-04c2921af5ad.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/54d1409c-a990-48c2-a73a-62fdb11ddc1b.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/d8f0f644-ddb3-4ec3-b173-b24aa91ca421.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/f019c148-79c7-46f1-b044-9bec8af9b1ee.jpg"
+    ],
+    "has_brandstory": true,
+    "frequently_bought_together": [
+      {
+        "product_title": "This item:  Outward Hound, Hedgehogz Plush Dog Toy, Medium",
+        "product_price": "$4.59",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/91IwpLIJ76L.jpg"
+      },
+      {
+        "product_title": "Best Pet Supplies Interactive Squeaky Dog Chew Toy, Ideal Dog Toys for Chewers, Small, Medium & Large Dogs, and Fetch Lovers - Crinkle Duck (Yellow), Large",
+        "product_price": "$6.79",
+        "product_url": "https://www.amazon.com/dp/B09BBM5CX8",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/61c1VfRJIvL.jpg"
+      },
+      {
+        "product_title": "Multipet Mini Lamb Chop Officially Licensed, Plush, Squeak Pet Toy (White, 10')",
+        "product_price": "$6.99",
+        "product_url": "https://www.amazon.com/dp/B003XVYKVI",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71dHQoi+DCL.jpg"
+      }
+    ],
+    "landing_asin": "B0000AH9W4",
+    "parent_asin": "B0DJG5HK7G"
+  }
+}

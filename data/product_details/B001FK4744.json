@@ -1,0 +1,552 @@
+{
+  "status": "OK",
+  "request_id": "ff9f3af3-d58b-42b7-bfdd-993a9ab7757b",
+  "parameters": {
+    "asin": "B001FK4744",
+    "country": "US",
+    "language": "en_US"
+  },
+  "data": {
+    "asin": "B001FK4744",
+    "product_title": "SmartyKat (3 Count) Skitter Critters Catnip Cat Toys - Gray/Cream, 3 Count",
+    "product_price": "2.48",
+    "product_original_price": "$2.48",
+    "minimum_order_quantity": 2,
+    "currency": "USD",
+    "country": "US",
+    "product_byline": "Visit the SmartyKat Store",
+    "product_byline_link": "https://www.amazon.com/stores/SmartyKat/page/21E1A258-BD66-43AE-A4C9-8F5EC10827E9?lp_asin=B001FK4744&ref_=ast_bln",
+    "product_byline_links": [
+      "https://www.amazon.com/stores/SmartyKat/page/21E1A258-BD66-43AE-A4C9-8F5EC10827E9?lp_asin=B001FK4744&ref_=ast_bln"
+    ],
+    "product_star_rating": "4.7",
+    "product_num_ratings": 61534,
+    "product_url": "https://www.amazon.com/dp/B001FK4744",
+    "product_slug": "SmartyKat-Skitter-Critters-Catnip-Mice",
+    "product_photo": "https://m.media-amazon.com/images/I/71wpzfOzgYL._AC_SL1500_.jpg",
+    "product_num_offers": 7,
+    "product_availability": "In Stock",
+    "is_best_seller": false,
+    "is_amazon_choice": true,
+    "is_prime": true,
+    "climate_pledge_friendly": false,
+    "sales_volume": "4K+ bought in past month",
+    "about_product": [
+      "Ultimate stimulation satisfaction: give your feline friend the thrill of the chase! the mischief of these mouse toys promotes healthy exercise, supporting toned muscles through hours of irresistible swatting, batting, and chasing fun.",
+      "Irresistible attraction: The soft plush bodies, flappy felt ears, and dangly tails keep kitties engaged. They are lightweight so you can toss them easily and watch your little hunter go.",
+      "Easy to use: These easy-to-carry plush mice are perfect for independent play since they are easy to catch and bat, or make interactive playtime irresistible by bringing them out anytime your cat needs a boost of activity.",
+      "Maximum potency & freshness: Each toy is stuffed with 100% pure and potent catnip for a boost of excitement to keep your pal coming back for more.",
+      "SmartyKat promise: We know cats\u2014so we design with their instincts (and your peace of mind) in mind. Each SmartyKat product is tested for safety and crafted to spark joy, satisfy curiosity, and keep playtime smart and stylish."
+    ],
+    "product_description": "SmartyKat Skitter Critters Catnip Cat Toys will satisfy your cat's need for stimulation. A tantalizing pack of irresistible catnip mice your cat will love to carry, bat, hide for an ongoing game of hide and seek! These little perfectly sized, lightweight mice give your kitty the exercise they need. Skitter Critters are 50% filled with our pure and potent catnip and the fluffy fiberfill is spun from 100% recycled plastic. Stimulating cat toys attract cats with catnip to engage them to frolic, romp, and play. Most cats respond to catnip with a burst of energetic activity followed by a calm mellow period. SmartyKat toys, beds and scratchers are designed to meet the needs of your cat: Exercise, Hunt, Stimulation, Interaction, Scratch and Comfort without forgetting about FUN! Kids and pets often share the same space in the home and will have access to each other\u2019s toys. That is why we design products to meet child safety standards; ensuring kids in the home are safe, whether they are two-footed or four-pawed! We utilize recycled and sustainable materials wherever possible. Please read all packaging instructions, warnings and cautions upon receipt. Packaging may contain small parts, discard after opening.",
+    "product_information": {
+      "Item Weight": "0.04 Pounds",
+      "Manufacturer": "PetWise, Inc.",
+      "ASIN": "B001FK4744",
+      "Item model number": "39384",
+      "Date First Available": "February 4, 2013",
+      "Item Package Dimensions L x W x H": "5.98 x 4.92 x 1.3 inches",
+      "Item Dimensions  LxWxH": "4 x 0.98 x 1.18 inches",
+      "Brand Name": "SmartyKat",
+      "Target Audience Keyword": "house-cats",
+      "Directions": "Use as directed. For pets only. Please read all packaging instructions, warnings and cautions upon receipt. Remove any part that becomes loose or detached. Packaging may contain small parts, discard after opening. Dispose of packaging properly or retain in safe place. For questions, concerns, or if you are dissatisfied with the product, please reach out to our customer service team at: customerservice@petwisebrands.com (email) or 415-721-7400 (phone).",
+      "Warranty Description": "Satisfaction Guarantee (Only applicable to products purchased from an authorized seller)",
+      "Model Name": "Skitter Critters Toy Set",
+      "Color": "Skitter Critter Mouse",
+      "Size": "Set of 3",
+      "Material": "Polyester",
+      "Age Range Description": "All Life Stages",
+      "Care Instructions": "Spot clean with warm water dampened cloth",
+      "Number of Items": "1",
+      "Style": "Skitter Critter Mouse, 3-Set",
+      "Breed Recommendation": "All Breed Sizes",
+      "Included Components": "Cat Toys",
+      "Specific Uses for Product": "Active, Behavior, Indoor"
+    },
+    "rating_distribution": {
+      "1": 1,
+      "2": 1,
+      "3": 5,
+      "4": 10,
+      "5": 83
+    },
+    "product_photos": [
+      "https://m.media-amazon.com/images/I/71wpzfOzgYL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/814DfWKxw2L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81zTS7jFSPL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71fsirCreNL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/31XjqNG45JL._AC_SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/81Vvod0b4vL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71rf-tYNhAL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Wx+83Rj4L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81SqH5tHUoL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51nP6+9LAlL._AC_.jpg",
+      "https://m.media-amazon.com/images/I/61VTPb-BcvL._AC_SL1500_.jpg"
+    ],
+    "product_videos": [
+      {
+        "id": "amzn1.vse.video.3ad08dd27561413b92b866ec10904a93",
+        "title": "Skitter Critters Value Pack",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4dcc8688-df0d-4242-9130-c99c713c7e4e/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/51H0wfWMj1L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B001FK4744",
+        "parent_asin": "B0DN47WQXG"
+      },
+      {
+        "id": "amzn1.vse.video.0d86310afcf34f7f8de3bac7e134bf61",
+        "title": "WOW These Little Mice Are So Much Fun...For Both Of You",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4e344596-6aa9-44ae-bccd-d5b859c7b095/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/81aDeqOKzHL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B001FK4744",
+        "parent_asin": "B0DN47WQXG"
+      },
+      {
+        "id": "amzn1.vse.video.0c95ac750b404b9a851bffc80c188b2f",
+        "title": "Honest Review of these Cat Toys Smarty Kats Critters",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6e5880c1-a3a2-4f90-88f3-541c41dad2fe/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/B1lq49Fi8hL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B001FK4744",
+        "parent_asin": "B0DN47WQXG"
+      },
+      {
+        "id": "amzn1.vse.video.01ee4b90a37a4e7582070333f3236fce",
+        "title": "Our cats favorite toy!",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/51276378-c989-4771-bede-e6bf21c3a8eb/default.vertical.jobtemplate.hls.m3u8",
+        "video_height": "1920",
+        "video_width": "1080",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/71iRbF+0CpL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B001FK4744",
+        "parent_asin": "B0DN47WQXG"
+      },
+      {
+        "id": "amzn1.vse.video.05f1e702b2884e1da8c94735166f9f15",
+        "title": "SmartyKat - Skitter Critters Catnip Cat Toys Review",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/18cd5681-d723-427f-af76-e67ba389ee74/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/A1mSCyWKf7L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png",
+        "product_asin": "B001FK4744",
+        "parent_asin": "B0DN47WQXG"
+      },
+      {
+        "id": "amzn1.vse.video.0f66addb722f48eda08228b8f586e433",
+        "title": "See How Our 4 Cats React to These Catnip Toys",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/614dfaf6-4417-4ea0-bdfc-b6dd4a6d6fc9/default.jobtemplate.hls.m3u8",
+        "video_height": "1080",
+        "video_width": "1920",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/81rAbZZ9q+L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+        "product_asin": "B001FK4744",
+        "parent_asin": "B0DN47WQXG"
+      }
+    ],
+    "user_uploaded_videos": [],
+    "video_thumbnail": "https://m.media-amazon.com/images/I/51H0wfWMj1L.SX522_.jpg",
+    "has_video": true,
+    "product_details": {
+      "Is Discontinued By Manufacturer": "No",
+      "Product Dimensions": "4 x 0.98 x 1.18 inches; 0.64 ounces",
+      "Item model number": "39384",
+      "Date First Available": "February 4, 2013",
+      "Manufacturer": "PetWise, Inc.",
+      "ASIN": "B001FK4744",
+      "Best Sellers Rank": "#973 in Pet Supplies (See Top 100 in Pet Supplies)    #6 in Catnip Toys",
+      "Customer Reviews": "4.7             4.7 out of 5 stars          \n\n                          61,534 ratings"
+    },
+    "customers_say": "Customers find these cat toys to be good value for money and say their cats love them, keeping them entertained for hours. The toys are cute, with one customer noting they look similar to real mice, and customers appreciate their size, being small enough for cats to carry around in their mouths. While some customers report the toys are durable, others mention they tear apart quickly. The catnip content receives mixed reviews, with some customers saying they're full of catnip while others report receiving toys with very little or no catnip at all.",
+    "top_reviews": [
+      {
+        "review_id": "R3II24U1FNQJO7",
+        "review_title": "SmartyKat Skitter Critters Value Pack Catnip Cat Toys - for your **Smart Cat**!!",
+        "review_comment": "The media could not be loaded. Like many Pet Parents, my pets are rescues. I found my kitty out fending for himself in a rural community. I thought he was a kitten at 2 pounds, but a trip to the vet told me he was a fully grown male, about a year old. So... he had his first year of life with all his outdoor instincts on alert for survival, and I am telling you - these \"SmartyKat Skitter Critters\" could not be safer from his wild-cat playfulness than if he was playing with a real one. When I first purchased these, I bought a small, 3-pack from the local big box store. I found myself returning a week later for two more packs because he'd either destroyed or hidden them. Through the years, I've regularly purchased the 3-pack sets in multiples, so I was happy to find this 10-toy value pack for less than I was paying for multiple 3-packs. Was there any difference in quality? No. **Before** I even had the bag open, my little cat was literally jumping up on me to get to them! I made him wait until I cut the tags off (see photo), and he was ready to go! If these were sold in 100-packs, I'd buy them! I will say that the \"stomach\" seam is easily ravaged. So buy them in multiples, and if you want them to last a little longer, get a needle and thread to quickly put a few stronger stitches in the \"stomach\" before you share them. Okay - case in point. Even as I am typing this review, my little cat (actually, he's not so little anymore) has gotten into the trash can beside my desk. Luckily, I had just emptied it, so I wondered what could be inside that was attracting him so much? Ha ha. It's the *tags* I cut off from the first SmartKat mouse toy I gave him! So yes, cats LOVE these! Besides ravaging them, he also chases them under things. So if you are missing a few, try sweeping a broom under your furniture, frig, dresser, china hutch, and under your sofas, ottomans, etc.. Use a broom. I wouldn't want one of these poly-filled mice to get stuck up in the vacuum wand. So we'll see how long this 10-pack lasts, but I do think I'll add a few stitches and see if that helps before giving them to him, and... put these on our \"Amazon Shopping List\" so we can easily find them for re-order (that and in our Returns and Orders tab). You can't go wrong with \"SmartyKat Skitter Critters\"! Don't waste time on the small pack. Go ahead and get the value pack. Otherwise, you'll be turning around and ordering them again soon! ...and with Christmas coming soon? They make great kitty cat stocking stuffers, too! The photos show: the 10-pack does come with ten mice. You can count them front or back. I've shown different close-up angles of this economical mouse. They do not look \"real\" like some of the more expensive ones, but cats love them just as much. I've always shown how I cut off the tags which I'd strongly recommend for the cat's safety. And... a 12-second video \"ad\" right out of the bag!",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R3II24U1FNQJO7",
+        "review_author_id": "AEC66CYOYY2U5ODICB7YJ3576U4Q",
+        "review_author": "L Buyer",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEC66CYOYY2U5ODICB7YJ3576U4Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [
+          "https://m.media-amazon.com/images/I/31JMhnK4e6L.jpg",
+          "https://m.media-amazon.com/images/I/31ZlzrIRhoL.jpg",
+          "https://m.media-amazon.com/images/I/31PpbO2hN8L.jpg",
+          "https://m.media-amazon.com/images/I/31qcrewHGjL.jpg",
+          "https://m.media-amazon.com/images/I/31Fvl2bl62L.jpg",
+          "https://m.media-amazon.com/images/I/31vYArIYY7L.jpg",
+          "https://m.media-amazon.com/images/I/31GmjzWsZ9L.jpg"
+        ],
+        "review_video": {
+          "stream_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a14840e0-76a4-4b26-86eb-e63930fbbcdc/embedded.cc.default.vertical.jobtemplate.hls.m3u8",
+          "closed_captions_url": "https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/d454f8ee-88ea-4a7a-bf3d-761b178d35b2.vtt",
+          "thumbnail_url": "https://m.media-amazon.com/images/I/61IVguDWx5L._SY256.jpg"
+        },
+        "review_date": "Reviewed in the United States on August 27, 2024",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "45 people found this helpful",
+        "reviewed_product_asin": "B001FK4744",
+        "reviewed_product_variant": {
+          "Size": "Set of 10"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R5GCRWYAKV3NT",
+        "review_title": "Love rhese",
+        "review_comment": "wonderful toys, not expensive,if lost no worries ,no breaking if stepped on, No brakage. just a lot of fun for the cat and for the people playing with the kitty cat. My cat is older now and she has a new habit with these, she loves leaving it in her wate, just pretending to be mom. LOL. She's 4 years old now and the nesting is stronger than it was before she was younger. I bought many of these through the years, highly recommend . inside is a little catnip to give a scent for hunting and when they get between something. Making it easier for the cat to find toy mouse. Very well made no noise lots of fun",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R5GCRWYAKV3NT",
+        "review_author_id": "AHFPLNEKJYVNNO67MXNZJOYQGV6A",
+        "review_author": "Amazon Customer lovely lady",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHFPLNEKJYVNNO67MXNZJOYQGV6A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on June 24, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "2 people found this helpful",
+        "reviewed_product_asin": "B001FK4744",
+        "reviewed_product_variant": {
+          "Size": "Set of 10"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RFCXY4QXU0XJE",
+        "review_title": "My cat is obsessed.",
+        "review_comment": "These SmartyKat catnip toys are hands down my cat\u2019s new obsession. The moment I opened the pack, he grabbed one and hasn\u2019t let go since. He carries them all over the house like little treasures \u2014 I\u2019ll find one on my pillow, in his food bowl, even in the laundry basket. What\u2019s even funnier is that the dog tried to steal one, too. Apparently, these toys are irresistible across species! Luckily, the pack comes with three, so there\u2019s always a backup when one disappears under the couch. They\u2019re the perfect size, durable enough to withstand constant play, and the catnip clearly does its magic. If you want a toy your cat will love (and protect like it\u2019s gold), this is it.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RFCXY4QXU0XJE",
+        "review_author_id": "AEYCVU5BTI7XO2O7AIFUZIXYNKZQ",
+        "review_author": "emily prellberg",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AEYCVU5BTI7XO2O7AIFUZIXYNKZQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on September 27, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "2 people found this helpful",
+        "reviewed_product_asin": "B001FK4744",
+        "reviewed_product_variant": {
+          "Size": "Set of 3"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "RP7HSZERKXADV",
+        "review_title": "My cats love these! \ud83d\udc2d",
+        "review_comment": "Great price, quality, perfect size, catnip smell is a plus. I highly recommend purchasing them.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/RP7HSZERKXADV",
+        "review_author_id": "AHHVZEVSTY2RF7HRY6TC4YFTNKQQ",
+        "review_author": "Harli",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHHVZEVSTY2RF7HRY6TC4YFTNKQQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/0d1ab7ba-ef43-47ea-a965-b1c4ab5119dc._CR0%2C0%2C500%2C500_SX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 22, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B001FK4744",
+        "reviewed_product_variant": {
+          "Size": "Set of 10"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R394EL0HJZL2JB",
+        "review_title": "fun cat toy",
+        "review_comment": "These SmartyKat Skitter Critters are an instant hit with my cats. They\u2019re lightweight, easy to bat around, and the catnip keeps them engaged for ages. Perfect for solo play or interactive games, and the value pack means I always have extras on hand. Simple but effective toys that never fail to entertain.",
+        "review_star_rating": "4",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R394EL0HJZL2JB",
+        "review_author_id": "AFY6H2QKTKVLSGGH5OXP3QHMPRJQ",
+        "review_author": "Krystle",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFY6H2QKTKVLSGGH5OXP3QHMPRJQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/83919297-8e34-4fde-920f-845fa7b565ea._CR0%2C0%2C500%2C500_SX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 9, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B001FK4744",
+        "reviewed_product_variant": {
+          "Size": "Set of 10"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1FTSP2SQKDP2C",
+        "review_title": "These little mice are a favorite!",
+        "review_comment": "My cats have always loved these little mice. The quality is good. I cut the tags off the mice, as they're quite large. My cats are entertained by these little mice. They like to play and carry them in their mouths. It's so cute! They're very well made, unlike some of the other cats toys I've purchased.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1FTSP2SQKDP2C",
+        "review_author_id": "AFZ6RRGUKPINIQOD3PWXTXUXQJVA",
+        "review_author": "Sophia David",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AFZ6RRGUKPINIQOD3PWXTXUXQJVA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/7aab0a86-e250-405b-a43e-977c0c316736._CR0%2C0%2C485%2C485_SX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 1, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B001FK4744",
+        "reviewed_product_variant": {
+          "Size": "Set of 10"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R2WPZVELK8X8D9",
+        "review_title": "Best mice I'm the market",
+        "review_comment": "I swear I still have some that are 10 years old! I loose them cause my vacuum sucks them up. Tails don't last that long but every cat loves them",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R2WPZVELK8X8D9",
+        "review_author_id": "AHZJTCNQBAAUYHY7SUXUQJE66HOA",
+        "review_author": "Sarah T.",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AHZJTCNQBAAUYHY7SUXUQJE66HOA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 5, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B001FK4744",
+        "reviewed_product_variant": {
+          "Size": "Set of 10"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1QK4Y8H1MOSN2",
+        "review_title": "Really Good for Keeping Souffl\u00e9 Occupied",
+        "review_comment": "My cat Souffl\u00e9 loves these. She's still quite young, so perhaps she is just easily amused. Whatever the case, they keep her occupied and (mostly) off my Zoom calls. I toss out a few and she's busy honing the predatory skills she was born with, readying to grapple and tackle any lady bug or other audacious beetle that may get into the house. The multi pack was great and a great price - I bought two. We may graduate to bigger toys once she's less entertained or when I get tired of constantly fishing them from under the sofa, whichever occurs first.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1QK4Y8H1MOSN2",
+        "review_author_id": "AF3JLBX7E3YYXICXK2GR7MWAU2CA",
+        "review_author": "SkinnyTightWorm ",
+        "review_author_url": "https://www.amazon.com/gp/profile/amzn1.account.AF3JLBX7E3YYXICXK2GR7MWAU2CA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United States on October 8, 2025",
+        "is_verified_purchase": true,
+        "helpful_vote_statement": "One person found this helpful",
+        "reviewed_product_asin": "B001FK4744",
+        "reviewed_product_variant": {
+          "Size": "Set of 10"
+        },
+        "is_vine": false
+      }
+    ],
+    "top_reviews_global": [
+      {
+        "review_id": "R1D2N6A92WCAFW",
+        "review_title": "Cat toys",
+        "review_comment": "My kitten has not dropped it off from the moment I gave this mouse to him... But the sad part is it\u2019s thread came out the very first day and the sponge has come out.. it\u2019s very expensive and shouldn\u2019t have been such poor stitching",
+        "review_star_rating": "2",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1D2N6A92WCAFW",
+        "review_author_id": null,
+        "review_author": "Jyoti Bakshi",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in India on June 26, 2020",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B001FK4744",
+        "reviewed_product_variant": {
+          "Size": "Set of 3"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1QTK9KGZ4HLS6",
+        "review_title": "Great little toy mice to keep cats entertained",
+        "review_comment": "My cats loved them.Hours of fun.Thank you",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1QTK9KGZ4HLS6",
+        "review_author_id": null,
+        "review_author": "Amazon Customer",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in the United Kingdom on July 28, 2025",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B001FK4744",
+        "reviewed_product_variant": {
+          "Size": "Set of 3"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R1W2IGBJ5KNA8M",
+        "review_title": "Le encantaron a mi gata",
+        "review_comment": "Le encantaron a mi gata, le han durado, no se han deshilachado o algo por el estilo, los recomiendo ampliamente",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R1W2IGBJ5KNA8M",
+        "review_author_id": null,
+        "review_author": "Leugim Legna",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/6950e103-cd45-4fb6-be1a-d6a1e2b74448._CR197%2C0%2C506%2C506_SX460_.jpg",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Mexico on December 4, 2024",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B001FK4744",
+        "reviewed_product_variant": {
+          "Size": "Set of 10"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R27Q7F9IM7Q8ZX",
+        "review_title": "Cat's love these",
+        "review_comment": "This was a repurchase for a new set of kittens. The previous ones finally fell apart, after 5+ years. So far, only 1 mouse in play has fallen apart out of 3 in play. The rest will be backups when these ones finally fall apart.",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R27Q7F9IM7Q8ZX",
+        "review_author_id": null,
+        "review_author": "SashaTinDC",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Australia on December 29, 2024",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B001FK4744",
+        "reviewed_product_variant": {
+          "Size": "Set of 10"
+        },
+        "is_vine": false
+      },
+      {
+        "review_id": "R29N9YTO9Q7HOU",
+        "review_title": "Great",
+        "review_comment": "Great",
+        "review_star_rating": "5",
+        "review_link": "https://www.amazon.com/gp/customer-reviews/R29N9YTO9Q7HOU",
+        "review_author_id": null,
+        "review_author": "Carlos",
+        "review_author_url": null,
+        "review_author_avatar": "https://m.media-amazon.com/images/S/amazon-avatars-global/default.png",
+        "review_images": [],
+        "review_video": null,
+        "review_date": "Reviewed in Saudi Arabia on August 4, 2024",
+        "is_verified_purchase": true,
+        "reviewed_product_asin": "B001FK4744",
+        "reviewed_product_variant": {
+          "Size": "Set of 3"
+        },
+        "is_vine": false
+      }
+    ],
+    "delivery": "FREE delivery Tuesday, November 4 on orders shipped by Amazon over $35 Or Prime members get FREE delivery Saturday, November 1. Order within 7 hrs 12 mins. Join Prime",
+    "primary_delivery_time": "Tuesday, November 4",
+    "category": {
+      "id": "pets",
+      "name": "Pet Supplies"
+    },
+    "category_path": [
+      {
+        "id": "2619533011",
+        "name": "Pet Supplies",
+        "link": "https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/ref=dp_bc_1?ie=UTF8&node=2619533011"
+      },
+      {
+        "id": "2975241011",
+        "name": "Cats",
+        "link": "https://www.amazon.com/cats-supplies-kittens-catnip-tree-litter/b/ref=dp_bc_2?ie=UTF8&node=2975241011"
+      },
+      {
+        "id": "2975303011",
+        "name": "Toys",
+        "link": "https://www.amazon.com/cat-feather-laser-toys-catnip/b/ref=dp_bc_3?ie=UTF8&node=2975303011"
+      },
+      {
+        "id": "2975305011",
+        "name": "Catnip Toys",
+        "link": "https://www.amazon.com/catnip-toys/b/ref=dp_bc_4?ie=UTF8&node=2975305011"
+      }
+    ],
+    "product_variations_dimensions": [
+      "size"
+    ],
+    "product_variations": {
+      "size": [
+        {
+          "asin": "B085VPLYMK",
+          "value": "Set of 2",
+          "is_available": true
+        },
+        {
+          "asin": "B001FK4744",
+          "value": "Set of 3",
+          "is_available": true
+        },
+        {
+          "asin": "B0BSNYWB1X",
+          "value": "Set of 5",
+          "is_available": true
+        },
+        {
+          "asin": "B01LZAR8NO",
+          "value": "Set of 10",
+          "is_available": true
+        },
+        {
+          "asin": "B09NCD7VHN",
+          "value": "Set of 20",
+          "is_available": true
+        }
+      ]
+    },
+    "all_product_variations": {
+      "B01LZAR8NO": {
+        "size": "Set of 10"
+      },
+      "B09NCD7VHN": {
+        "size": "Set of 20"
+      },
+      "B0BSNYWB1X": {
+        "size": "Set of 5"
+      },
+      "B085VPLYMK": {
+        "size": "Set of 2"
+      },
+      "B001FK4744": {
+        "size": "Set of 3"
+      }
+    },
+    "has_aplus": true,
+    "aplus_images": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8f4da38c-f21c-4c43-8ffd-6294b77fc69f.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4f01b7d7-4569-43e5-9154-21a4a3457d85.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8dd3dfd6-5c1d-4581-80f6-dde9f5f87a75.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ea36b51a-ec25-496f-b1c3-e6f5a68802c9.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f5de2469-92fb-4ead-ae74-c007dd7423f6.jpg"
+    ],
+    "has_brandstory": false,
+    "frequently_bought_together": [
+      {
+        "product_title": "This item:  SmartyKat (3 Count) Skitter Critters Catnip Cat Toys - Gray/Cream, 3 Count",
+        "product_price": "$2.48",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71wpzfOzgYL.jpg"
+      },
+      {
+        "product_title": "Catstages Tower of Tracks 3-Level Cat Track Toy with 6 Balls, Interactive Toy for Indoor Cats, Orange",
+        "product_price": "$10.55",
+        "product_url": "https://www.amazon.com/dp/B00DT2WL26",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/812MUtPNc-L.jpg"
+      },
+      {
+        "product_title": "Cat Feather Toy, Retractable Cat Toys Wand 2 Wands & 9 Assorted Teaser Refills, Interactive Feather Teaser Wand Toy Bell Kitten Cat Having Fun Exerciser Playing",
+        "product_price": "$9.59",
+        "product_url": "https://www.amazon.com/dp/B07F45GGPT",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/615Ccf+wziL.jpg"
+      }
+    ],
+    "landing_asin": "B001FK4744",
+    "parent_asin": "B0DN47WQXG"
+  }
+}
